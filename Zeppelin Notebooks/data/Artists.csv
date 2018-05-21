@@ -1,0 +1,282 @@
+artist_id,name,spotify_popularity_score,spotify_followers,image_url
+3WrFJ7ztbogyGnTHbHJFl2,The Beatles,86,7469801,https://i.scdn.co/image/197cff807611777427c93258f0a1ccdf6b013b09
+3oDbviiivRWhXwIE8hxkVV,The Beach Boys,73,1243344,https://i.scdn.co/image/21d36613eec63c86c1babec16fdfa8635ee63625
+74ASZWbe4lXaubB36ztrGX,Bob Dylan,75,2337618,https://i.scdn.co/image/ef9b0b5b8083cf68958daa46382e309bf771b39f
+3koiLjNrgRTNbOwViDipeA,Marvin Gaye,75,2087204,https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434
+22bE4uQ6baNwSHPVcDxLCe,The Rolling Stones,80,4429200,https://i.scdn.co/image/4226d2bbee2c44866eb0db3c88da0f26d7d12d5d
+3RGLhK1IP9jnYFH4BRFJBS,The Clash,73,1214912,https://i.scdn.co/image/ab470b275daa38351810a1eb91d107ebdb821302
+43ZHCT0cAZBISjO8DG9PnE,Elvis Presley,78,1993729,https://i.scdn.co/image/160c941240375cecbdebfe61033e59783c5172ab
+0kbYTNQb4Pb1rPbbaF0pT4,Miles Davis,67,1231046,https://i.scdn.co/image/e6b1cc182b3e397d2aee084959a7e62a0c27f6bd
+1nJvji2KIlWSseXRSlNYsC,The Velvet Underground,65,595027,https://i.scdn.co/image/d69c2cf10323bf08443c7d122f3a1824a760ab57
+776Uo845nYHJpNaStv1Ds4,Jimi Hendrix,75,2111583,https://i.scdn.co/image/14ce65949a921e76421a0164c17f9ebe0a8d76e8
+6olE6TJLqED3rqDCT0FyPh,Nirvana,80,6039517,https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b
+3eqjTLE0HfPfh78zjh6TqT,Bruce Springsteen,75,1460325,https://i.scdn.co/image/bfebac3159d5a6a5be5c05d6eb133fbceafe08c6
+44NX2ffIYHr6D4n7RaZF7A,Van Morrison,74,695111,https://i.scdn.co/image/f849f47dd12c6ad44c69cdad9dda089d54b70664
+3fMbdgg4jU18AjLCKBhRSm,Michael Jackson,83,4888863,https://i.scdn.co/image/51dad9aaabe5643818840207a9a8957c2ad91bf2
+293zczrfYafIItmnmM3coR,Chuck Berry,67,606852,https://i.scdn.co/image/d58323616d4f5d22b51e9dfe0ba53aedabe53cd4
+0f8MDDzIc6M4uH1xH0o0gy,Robert Johnson,52,238905,https://i.scdn.co/image/b8acc51743ff21f1d32e3f99922ca8283d3af0ce
+4x1nvY2FN8jxqAFA0DA02H,John Lennon,68,1552969,https://i.scdn.co/image/a9cd95aac96c60ea7bba7b0f475ea642bb27ef76
+7guDJrEfX3qb6FEbdPA5qi,Stevie Wonder,77,2554607,https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108
+7GaxyUddsPok8BuhxN6OUW,James Brown,67,1043469,https://i.scdn.co/image/5b9eeb6ce3dcfe08218098a78565fbf214034a5e
+08GQAI4eElDnROBrJRGE0X,Fleetwood Mac,80,1999035,https://i.scdn.co/image/ab13f377f5309c2570032fdb61abdfe1422a6680
+51Blml2LZPmy7TTiAg47vQ,U2,79,2649399,https://i.scdn.co/image/e22d5c0c8139b8439440a69854ed66efae91112d
+67ea9eGLXYMsO2eYQRui3w,The Who,72,1586641,https://i.scdn.co/image/92a5ad894b73b9e63739eb36a0500e86b2588353
+36QJpDe2go2KgaRleHCDTp,Led Zeppelin,80,4678025,https://i.scdn.co/image/207803ce008388d3427a685254f9de6a8f61dc2e
+5hW4L92KnC6dX9t7tYM4Ve,Joni Mitchell,64,364475,https://i.scdn.co/image/68cfb061951dbd44c95422a54cb70baec0722ca3
+1co4F2pPNH8JjTutZkmgSm,Ramones,67,1131491,https://i.scdn.co/image/30ff88b596860cefb7a138e2e3dd3af771381231
+4vpDg7Y7fU982Ds30zawDA,The Band,65,301665,https://i.scdn.co/image/750c386b0ca07258347328b68e171bfcc1addead
+0oSGxfWSnnOXhD2fKuz2Gy,David Bowie,79,2584323,https://i.scdn.co/image/6efa04809a6358a5da0e701d24449cfb8348ebf5
+319yZVtYM9MBGqmSQnMyY6,Carole King,65,318395,https://i.scdn.co/image/813fde33623cbfd065053789cf1ffb22b55efd4a
+0ECwFtbIWEVNwjlrfc6xoL,Eagles,76,1448957,https://i.scdn.co/image/20d10c2ddfac4c1753a3a0338adc8d624253c845
+4y6J8jwRAwO4dssiSmN91R,Muddy Waters,59,559714,https://i.scdn.co/image/5683049f2a0f49f0c5c81f4bc058e4cc9c678ef7
+3Q6OOkfssqoMSTtl11J5Uk,Love,53,60605,https://i.scdn.co/image/35fbdac059eae2b36f88237e107f150145d188f0
+1u7kkVrr14iBvrpYnZILJR,Sex Pistols,57,660563,https://i.scdn.co/image/1af9b54429264c7b02e6c60e06dbe8e412a2e391
+22WZ7M8sxp5THdruNY3gXt,The Doors,74,2701759,https://i.scdn.co/image/b8c3d75acf2d800defb05b8515445e6d064c97d5
+0k17h0D3J5VfsdmQ1iZtE9,Pink Floyd,81,5536288,https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa
+0vYkHhJ48Bs3jWcvZXvOrP,Patti Smith,58,308073,https://i.scdn.co/image/6752653af22e52dc99f454064a072b637634439f
+2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,81,4861165,https://i.scdn.co/image/b5aae2067db80f694a980e596e7f49618c1206c9
+2hGh5VOeeqimQFxqXvfCUf,John Coltrane,67,688240,https://i.scdn.co/image/12aa1cbaad5f077082c0e7e70104fe658bc6318b
+6Mo9PoU6svvhgEum7wh2Nd,Public Enemy,60,331853,https://i.scdn.co/image/0d0e1daf051b1179067c3bdce005447af13807dc
+4wQ3PyMz3WwJGI5uEqHUVR,The Allman Brothers Band,67,440937,https://i.scdn.co/image/1bdcc0b9d923663187af1e9476fc2bcb1b936c91
+4xls23Ye9WR9yy3yYMpAMm,Little Richard,60,265843,https://i.scdn.co/image/8482a715712ad99032f35870bd2430b9b71b7283
+70cRZdQywnSFp9pnc2WTCE,Simon & Garfunkel,74,1181676,https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6
+3dkbV4qihUeMsqN4vBGg93,Al Green,68,835940,https://i.scdn.co/image/3204125720ef02294bbac0ff109a5919c141955f
+5WwKEo5A3gZBAvo7pqlqpa,The Inmates,23,1557,https://i.scdn.co/image/3cf81533c83fd43a82e2831b1e8196b0c3f2237c
+1eYhYunlNJlDoQhtYBvPsi,Ray Charles,68,1139353,https://i.scdn.co/image/20c30e31f796ecb901ffb5acca6ca3d77fd5341b
+3IYUhFvPQItj6xySrBmZkd,Creedence Clearwater Revival,78,1689303,https://i.scdn.co/image/a02c89d6abef58ad10832020c06f6a8a38dd9a32
+2k8kY9zHUWxuTtwV4UutHw,Captain Beefheart & His Magic Band,48,62102,https://i.scdn.co/image/49afcbded4da4e8f8508fb499422beb3141147a2
+5m8H6zSadhu1j9Yi04VLqD,Sly & The Family Stone,63,278164,https://i.scdn.co/image/9aef578389c4a9d27e15a627acb784c41094e79d
+3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,80,6520406,https://i.scdn.co/image/80920b4fc80b6d970e2934eb8abe27014fc60632
+4Z8W4fKeB5YxbusRsdQVPb,Radiohead,79,3043866,https://i.scdn.co/image/afcd616e1ef2d2786f47b3b4a8a6aeea24a72adc
+6zFYqv1mOsgBRQbae3JJ9e,Billy Joel,76,1016374,https://i.scdn.co/image/0488b8c02bc9249ddf858e359dee66f206b1eb4f
+2CvCyf1gEVhI0mX6aFXmVI,Paul Simon,71,680800,https://i.scdn.co/image/c6d1d398bb24bfa534ed57920ab373995659a83b
+2AV6XDIs32ofIJhkkDevjm,Curtis Mayfield,61,411246,https://i.scdn.co/image/95c6d44385167a064c530e21c11153b3f162143c
+6v8FB84lnmJs434UJf2Mrm,Neil Young,71,974128,https://i.scdn.co/image/a46e64ac341acb1a817af18777235f1ed3e8e798
+5a2EaR3hamoenG9rDuVn8j,Prince,75,2143857,https://i.scdn.co/image/2df771ec0ca4da2492eadd811b2553395756cfa4
+711MCceyCBcFnzjGY4Q7Un,AC/DC,82,6661797,https://i.scdn.co/image/a16c5d95ede008ec905d6ca6d1b5abbf39ad4566
+60df5JBRRPcnSpsIMxxwQm,Otis Redding,71,1030438,https://i.scdn.co/image/4ad89c805aff0fb76b01b6b62b39e21fcd8943c3
+7nwUJBm0HE4ZxD3f5cy5ok,Aretha Franklin,71,1232721,https://i.scdn.co/image/c5662abce23781f86275ea6540c6e299845f8d82
+6kACVPfCOnqzgfEF5ryl0x,Johnny Cash,77,2437404,https://i.scdn.co/image/4eac84cd2ac4bf737f80ab9cd2357d41a11229fb
+5zaXYwewAXedKNCff45U5l,Dusty Springfield,64,151642,https://i.scdn.co/image/8b2bbbe1dde191c637271fab24ff66fda4faf4fa
+3PhoLpVuITZKcymswpck5b,Elton John,79,1481811,https://i.scdn.co/image/8b9b906a508209d627e3b185ab540520ea8c54c6
+3wYyutjgII8LJVVOLrGI0D,Buddy Holly,59,320313,https://i.scdn.co/image/ff6c6ecd90618f5fb0f8fbf51bf8477586c8843b
+1FClsNYBUoNFtGgzeG74dW,Hank Williams,61,273495,https://i.scdn.co/image/5fc12e434b15c08796c7156b2f630df84345b9cd
+4qmHkMxr6pTWh5Zo74odpH,Elvis Costello & The Attractions,55,72810,https://i.scdn.co/image/c14ffeb7855625383c266c9c04faa75516a25503
+2jgPkn6LuUazBoBk6vvjh5,The Zombies,60,214994,https://i.scdn.co/image/0cbe3a2c20fd93a28b74cbe7ee89c833818af93f
+1Mxqyy3pSjf8kZZL4QVxS0,Frank Sinatra,76,2141426,https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411
+74oJ4qxwOZvX6oSsu1DGnw,Cream,66,581728,https://i.scdn.co/image/aab6a0a0e9ca2ab17460b0451e59ba507cc5802a
+0vn7UBvSQECKJm2817Yf1P,James Taylor,71,573425,https://i.scdn.co/image/747d0d0f181eb1c4bce048d4f905622b14647e83
+6hnWRPzGGKiapVX1UCdEAC,Sam Cooke,70,617370,https://i.scdn.co/image/97a31210252e1f25a70c41b752bd52a451ad011b
+1bs7HoMkSyQwcobCpE9KpN,The Mamas & The Papas,64,344627,https://i.scdn.co/image/6fce95df71363a9432e4adc75765e2dae269430b
+2rc78XDH9zuJP6bm78lU8Z,Derek & The Dominos,61,146203,https://i.scdn.co/image/cfec75171b6394ae543eb906e86e4d50cbafd9dc
+5K4W6rqBFWDnAN6FQUkS6x,Kanye West,90,7246686,https://i.scdn.co/image/651370b09316c3851153b1ccf04e7d6f29bf39df
+0iOVhN3tnSvgDbcg25JoJb,Etta James,67,653038,https://i.scdn.co/image/d4272e7fc419b662c4f2654efb73006b6cb10bcd
+1PCZpxHJz7WAMF8EEq8bfc,The Byrds,63,283842,https://i.scdn.co/image/f1cf7faba3223b4be7a0734f7c5cccaa39630570
+1E85wRssrgXOMUgmBOlpw6,Soundtrack,39,27801,https://i.scdn.co/image/3eb875c7694e8807d590f36f5e649f2bdcdec41a
+3CQIn7N5CuRDP8wEI7FiDA,Run–D.M.C.,63,368492,https://i.scdn.co/image/1bf54468fa9c772af8f514a20a99631fd35b2dbc
+0NHSh9S0VQiFfsEFbvhRXN,Moby Grape,30,12929,https://i.scdn.co/image/7ce5ac340ae5d75410634e1bab33ba75f4e94bf5
+4NgfOZCL9Ml67xzM0xzIvC,Janis Joplin,65,1097521,https://i.scdn.co/image/f3f55519d6fc2a6fd2bed247b9dc9fdc72365272
+4BFMTELQyWJU1SwqcXMBm3,The Stooges,55,192130,https://i.scdn.co/image/1d9f0cf8e6d8d51f28369eccd78dca2882fb0d83
+2x9SpqnPi8rlE9pjHBwmSC,Talking Heads,70,628547,https://i.scdn.co/image/e4c5b04fce8706c87663357b1f78522a3a5c641b
+0S7Zur2g8YhqlzqtlYStli,Television,53,107854,https://i.scdn.co/image/26da5a74d4273e0e9116ac7cbb4443def62fa3be
+5M52tdBnJaKSvOpJGz8mfZ,Black Sabbath,73,2519349,https://i.scdn.co/image/5931700f9515dd6587230130beb615e0549e47dc
+5me0Irg2ANcsgc93uaYrpb,The Notorious B.I.G.,80,2501958,https://i.scdn.co/image/1b4858fbd24046a81cace5ee18d19c868262b91f
+3inCNiUr4R6XQ3W43s9Aqi,Pavement,61,160525,https://i.scdn.co/image/80c16daae85fd73f63aa9d64a30aa4029056bea3
+4WPY0N74T3KUja57xMQTZ3,The Replacements,55,95269,https://i.scdn.co/image/1c80a3a78951958f753cd7282bfe16dbca741258
+6DPYiyq5kWVQS4RGwxzPC7,Dr. Dre,81,3205845,https://i.scdn.co/image/83d2489cade1dadcdc533ddbcd74993d0ca6d4cb
+2JRvXPGWiINrnJljNJhG5s,The Meters,57,89995,https://i.scdn.co/image/2439ee3f609c4039a544a4505d7294f3240a290d
+4tpUmLEVLCGFr93o8hFFIB,Blondie,67,417724,https://i.scdn.co/image/dbd371b220a054a542279f499fc024044bece495
+5xLSa7l4IV1gsQfhAMvl0U,B.B. King,65,1158568,https://i.scdn.co/image/ffb3ff26238fe635a230bb0feb59dd0a5b209b6f
+320TrJub4arztwXRm7kqVO,Dr. John,58,104682,https://i.scdn.co/image/d84d90ea5c3e99e3301dd0c065377ad9284aa62e
+4EnEZVjo3w1cwcQYePccay,N.W.A.,68,1594330,https://i.scdn.co/image/4f36d3f900eaf8381b0d3f5febe0e5bf8c94dbea
+6P7H3ai06vU1sGvdpBwDmE,Steely Dan,69,477375,https://i.scdn.co/image/9d01e4e9aac39b891d684d3d1a5b3a451d7c72bd
+2qFr8w5sWUITRlzZ9kZotF,Jefferson Airplane,64,473472,https://i.scdn.co/image/a9ae31801b767795dd3060e5529478e534b02c16
+1CYsQCypByMVgnv17qsSbQ,"Crosby, Stills, Nash & Young",64,247634,https://i.scdn.co/image/66c24dee5d65905dfc3162670cc9fb760bd6653b
+6GI52t8N5F02MxU0g5U69P,Santana,71,734646,https://i.scdn.co/image/9d7f889a472b254993c17104d66ac2639177e16c
+3kjuyTCjPG1WMFCiyc5IuB,Arcade Fire,73,1230955,https://i.scdn.co/image/30178636b1a28ab76de5a4a4599cc9a5dd866735
+3gdbcIdNypBsYNu3iiCjtN,The B-52's,60,221640,https://i.scdn.co/image/42b6713611a0ba1235c8c84f8ca1862fe7fa1d65
+09hVIj6vWgoCDtT03h8ZCa,A Tribe Called Quest,70,738377,https://i.scdn.co/image/6f987ab74c72f0c50b19b05ea775bc4033c57706
+0Wxy5Qka8BN9crcFkiAxSR,Howlin' Wolf,55,238387,https://i.scdn.co/image/c2408f7f93e582b422af47aa72904a24397029d9
+6yeRY2d7gubXoymv3DAYhS,Fire From The Gods,46,28260,https://i.scdn.co/image/5db80ff90dd97c6b5c1e7ab313b388b4073a5941
+03r4iKL2g2442PT9n2UKsx,Beastie Boys,70,931886,https://i.scdn.co/image/705bcd56dc5dbf9ebc578a3ba8094e6d622862c2
+432R46LaYsJZV2Gmc4jUV5,Joy Division,66,748751,https://i.scdn.co/image/5eeddd733170399db794d2c430a8d2cde7ae1425
+07XSN3sPlIlB2L2XNcTwJw,KISS,71,2172189,https://i.scdn.co/image/775adbe27db874134b8d2cac20fb0f641732499b
+3dBVyJ7JuOMt4GE9607Qin,T. Rex,61,247015,https://i.scdn.co/image/6c56fa4985bb53a08eaf25e56269104e0ee3bf9d
+1sXbwvCQLGZnaH0Jp2HTVc,Linda Ronstadt,60,173548,https://i.scdn.co/image/b5fa3addb38ab2d59787201d9f4e2eb2d2cd41e1
+2ye2Wgw4gimLv2eAKyk1NB,Metallica,82,6417853,https://i.scdn.co/image/5a06711d7fc48d5e0e3f9a3274ffed3f0af1bd91
+2BGRfQgtzikz1pzAD0kaEn,Elvis Costello,57,185124,https://i.scdn.co/image/4b801c38e2aa2f429e86d5658385ea945758a2c5
+2y8Jo9CKhJvtfeKOsYzRdT,Rod Stewart,73,738920,https://i.scdn.co/image/aa7f54deefb4e82be4da2f00282232e2310a1c9a
+0Lpr5wXzWLtDWm1SjNbpPb,Todd Rundgren,53,78906,https://i.scdn.co/image/8d470f070465fe4cdc07c98f64809b49769dd1b8
+1eEfMU2AhEo7XnKgL7c304,Carpenters,65,431242,https://i.scdn.co/image/ed45f575339b044d7168780a15ff457b85be851a
+7Ey4PD4MYsKc5I2dolUwbH,Aerosmith,77,4033826,https://i.scdn.co/image/fcb6ff3b92a1412e225c69277744e33105af963f
+450o9jw6AtiQlQkHCdH6Ru,Funkadelic,56,214926,https://i.scdn.co/image/dfd7b11d97bc9159e9d085c5fd925b70cd192178
+0LcJLqbBmaGUft1e9Mm8HV,ABBA,75,990914,https://i.scdn.co/image/733e98edfdc11feea07914532603c080fa432159
+5W5bDNCqJ1jbCgTxDD0Cb3,Willie Nelson,70,590725,https://i.scdn.co/image/a042d9c438ed2ce926a7bbc7d3fcf8722f5b4c7b
+6tbjWDEIzxoDsBA1FuhfPW,Madonna,76,2163630,https://i.scdn.co/image/19cf1c640fdaf39577fa07ad111d51cb1bc78216
+7C4sUpWGlTy7IANjruj02I,Peter Gabriel,59,434105,https://i.scdn.co/image/dbb98a8d0a1268adf099579b5d4a71bad51a625c
+3eskO5m0H4yiF64vRySBjr,Buffalo Springfield,62,196726,https://i.scdn.co/image/b701ba75981d0b9aeef036b9fab4e3c96609e364
+7DCnwoFMqGN6eZULdcLZeL,Quicksilver Messenger Service,37,31674,https://i.scdn.co/image/5fce71305ebe23822f19a5e1613b1cb224912439
+0rESpKEusFHxhW59MIf7eM,The Flying Burrito Brothers,44,33730,https://i.scdn.co/image/df214fa5cfa2d67a090d9914dffd49c9ea575d8b
+7oPftvlwr6VrsViSDV7fJY,Green Day,81,6187052,https://i.scdn.co/image/b6a3f82183adb83b6e47cb22afc25724b241d038
+42TFhl7WlMRXiNqzSrnzPL,Lou Reed,66,632669,https://i.scdn.co/image/2e1e9a6fe696b536a1f9e6a27fc1ed23d2c97099
+2ScuQMRWThcifBRIvNDFDC,John Mayall & The Bluesbreakers,48,101524,https://i.scdn.co/image/b2d7685fb0989c6f2f1398cb8a0f9243d1e09a8b
+4KWTAlx2RvbpseOGMEmROg,R.E.M.,74,1139261,https://i.scdn.co/image/3ef4b92f85f8d7b902dd2b9a31dd112fc61a6708
+22JuR9OeENcP54XN5TlNWS,Little Walter,49,90212,https://i.scdn.co/image/0ea1941b94aeb6b6366a65c7d719cc76cf537919
+0epOFNiUfyON9EYx7Tpr6V,The Strokes,75,2143346,https://i.scdn.co/image/83b70d344ea18f84f6fb654179e6d14ce886b716
+0X380XXQSNBYuleKzav5UO,Nine Inch Nails,68,885432,https://i.scdn.co/image/959969ce11b5b44c45e0061473cf0f19215fdf53
+08F3Y3SctIlsOEmKd6dnH8,Yusuf / Cat Stevens,70,560740,https://i.scdn.co/image/cf8d74c3c23290d94714eb76c35ce2920ec0b9cd
+1w5Kfo2jwwIPruYS2UWh56,Pearl Jam,78,3235554,https://i.scdn.co/image/04396c910d31a6438be6787447514ddb02e9193c
+1ZikppG9dPedbIgMfnfx8k,Ike & Tina Turner,53,74667,https://i.scdn.co/image/4e45b9c72f9479010411b915752d5b6ca5aba855
+0WhGV9lzljq2QKJ8ipw6jx,New York Dolls,44,82393,https://i.scdn.co/image/169d98992e555699585b68c5fdc8b88bb1ddda8b
+2bmixwMZXlkl2sbIbOfviq,Bo Diddley,52,150449,https://i.scdn.co/image/3c116fa8059a519a653f242c7e14feb43a4186d0
+48nwxUvPJZkm8uPa7xMzmj,"Bobby ""Blue"" Bland",52,60700,https://i.scdn.co/image/7a3cfae4df22dcd8b4cce106108d5171761095ba
+3yY2gUcIsjMr8hjo51PoJ8,The Smiths,72,1414320,https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9
+3G3Gdm0ZRAOxLrbyjfhii5,My Bloody Valentine,53,168292,https://i.scdn.co/image/e62283e41915fb95d3d64d061333fce36e38b8b4
+2RyY5yFlJh6jIPfMDhHgyD,Professor Longhair,39,18761,https://i.scdn.co/image/a586e02efc524c77996574806558684fd9645447
+7mEIug7XUlQHikrFxjTWes,Neil Diamond,68,425515,https://i.scdn.co/image/f4d0fb18cb338eddee6b482779d946183a743b12
+6zvul52xwTWzilBZl6BUbT,Pixies,69,891639,https://i.scdn.co/image/98ee3d01573649d5c3f38bdd9a3ac1caeaf5dd17
+6jHG1YQkqgojdEzerwvrVv,Eric B. & Rakim,55,181993,https://i.scdn.co/image/3749993d2b60bbbaa02602a09737f2107cbae4dd
+4KDyYWR7IpxZ7xrdYbKrqY,Bonnie Raitt,58,206064,https://i.scdn.co/image/86f7a3859360cae9e8ade2948ea248a328c91536
+1dfeR4HaWDbWqFHLkxsg1d,Queen,83,7153753,https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982
+1SQRv42e4PjEYfPhS0Tk9E,The Kinks,69,756602,https://i.scdn.co/image/b2e933a1a7ae670aa2e217c79710fe2f18ebad3d
+7dNsHhGeGU5MV01r06O8gK,Patsy Cline,58,240793,https://i.scdn.co/image/c8eb3a2d38f77a5f9e752036dec6c21f307fbfe2
+4VnomLtKTm9Ahe1tZfmZju,Jackie Wilson,63,132838,https://i.scdn.co/image/66cadd255a5f01b6496c0854bed1267888b312d1
+7dGJo4pcD2V6oG8kP0tJRR,Eminem,92,16081297,https://i.scdn.co/image/6c3ecb13aa0160b990cc957292751f229c9b5b7b
+2zyz0VJqrDXeFDIyrfVXSo,Jerry Lee Lewis,59,228513,https://i.scdn.co/image/d92aea94b34fbc5ad6ba701e0377a8fe3b466238
+6ra4GIOgCZQZMOaUECftGN,Frank Zappa,60,290885,https://i.scdn.co/image/e1c04d8144371d6a6ac39c7f15a1c2a9f67a0c50
+4TMHGUX5WI7OOm53PqSDAT,Grateful Dead,70,488937,https://i.scdn.co/image/bba340d0c2aa4c9cbcbab0a4c3259d8f8e27f0d7
+47odibUtrN3lnWx0p0pk2P,Ornette Coleman,41,43754,https://i.scdn.co/image/ac30c28c9ba640db9c901cf45b5d429ca1ca0ead
+3nFkdlSjzX9mRTtwJOzDYB,JAY Z,83,3963690,https://i.scdn.co/image/2e925c2f793f835eb8ec84cd71dffce12e3abc11
+0dmPX6ovclgOy8WWJaFEUU,Kraftwerk,55,271290,https://i.scdn.co/image/1142c1fcfe958a3b0e3000c08840dee5ed0949b2
+6XpaIBNiVzIetEPCWDvAFP,Whitney Houston,76,2667067,https://i.scdn.co/image/cef7e2b0709802736d9e6f7b1970403265c88271
+4qwGe91Bz9K2T8jXTZ815W,Janet Jackson,67,885076,https://i.scdn.co/image/f84062f6361595883201e3b1044227e5164455de
+2pdvghEHZJtgSXZ7cvNLou,"Crosby, Stills & Nash",63,394971,https://i.scdn.co/image/b9c086901cca94cab20e8fcdc35bd79c7b39526a
+7oPgCQqMMXEXrNau5vxYZP,Tracy Chapman,70,587889,https://i.scdn.co/image/965060777aeacb43659097cddc16b741785a508f
+24GaH9tRBgZjlvOhpFuKi2,"Blood, Sweat & Tears",48,107366,https://i.scdn.co/image/26a546022a057e325676bef5c32acdccb456adfb
+4rjlerN21ygkIhmUv55irs,The Jesus and Mary Chain,57,158266,https://i.scdn.co/image/f9cfc8ea5851be7d6cf868712f11cb7b13684f9e
+4wLIbcoqmqI4WZHDiBxeCB,Sleater-Kinney,48,96423,https://i.scdn.co/image/2ff829de85b2b35a0aeabdb49bcbe2f616b0c63a
+6TKOZZDd5uV5KnyC5G4MUt,Smokey Robinson & The Miracles,60,344780,https://i.scdn.co/image/6e1b939d6fcf5acf070fb266729458171eb46edf
+3DznKagEU8yMQZR9z33Da5,LaBelle,40,17886,https://i.scdn.co/image/ee4abaa4b898c4233b881056fd3caa9ddc87c82d
+5SMVzTJyKFJ7TUb46DglcH,Parliament,57,205176,https://i.scdn.co/image/1446b47a02ccfced95fd29a0c389b877968ed878
+1XkoF8ryArs86LZvFOkbyr,Mary J. Blige,71,1333206,https://i.scdn.co/image/571753934f6679837e4f74ffc597484204542145
+3rfgbfpPSfXY40lzRK7Syt,Barry White,66,480199,https://i.scdn.co/image/c00b771ca8b6241bcfe316f8e8a11072714e79ef
+6DCIj8jNaNpBz8e5oKFPtp,The Cars,66,347445,https://i.scdn.co/image/ccef506dcc1eafa2f44270918b3ba962e67ea3ad
+54NqjhP2rT524Mi2GicG4K,X,48,42033,https://i.scdn.co/image/a1b898e6a0e05d8e413968f793fbb5f6bb4ea2df
+4WquJweZPIK9qcfVFhTKvf,MC5,44,57175,https://i.scdn.co/image/90e09fac65de5e448a430cb7a7616528982b90d1
+5l8VQNuIg0turYE1VtM9zV,Leonard Cohen,68,810643,https://i.scdn.co/image/2e0a4cf67d454c9de58e985e44e318d3688beff0
+3jOstUTkEu2JkjvRdBA5Gu,Weezer,74,1223684,https://i.scdn.co/image/2d9c08427ea2ffd4ae8a16ad5f0c39fd4d91c0be
+32vWCbZh0xZ4o9gkz4PsEU,Dolly Parton,69,540660,https://i.scdn.co/image/fe6a6334ee656d6cdd8f447e93b9758cd6584073
+3nnQpaTvKb5jCQabZefACI,Jeff Buckley,63,394750,https://i.scdn.co/image/67779606c7f151618a28f62b1d24fb514d39dacf
+60ht0hWRy1yjUDfNsLuHuP,Lucinda Williams,53,82510,https://i.scdn.co/image/cf1e592d8a70f69d8f40c3ce70d2ee8234b845d3
+3vbKDsSS70ZX9D2OcvbZmS,Beck,70,749761,https://i.scdn.co/image/0f9a6de96397097f0a717bdbd4b15fe9d97ca5d0
+0L8ExT028jH3ddEcZwqJJ5,Red Hot Chili Peppers,85,6850214,https://i.scdn.co/image/5b2072e522bf3324019a8c2dc3db20116dff0b87
+02NfyD6AlLA12crYzw5YcR,Jane's Addiction,59,403802,https://i.scdn.co/image/63c5e0dece1fca1b8185170bae671960e9168df3
+2Mu5NfyYm8n5iTomuKAEHl,Ms. Lauryn Hill,71,874657,https://i.scdn.co/image/ccb108f19352e88d6e69b1093d75a2be5efa1c99
+4tX2TplrkIP4v05BNC903e,Tom Petty and the Heartbreakers,70,575955,https://i.scdn.co/image/b3c930705d502022b13f9c7134db8ae84a8ae71f
+38h03gA85YYPeDPd9ER9rT,The O'Jays,60,307264,https://i.scdn.co/image/6794f70e07df61fc06b8a6ffb76132dfe7189d3b
+6uSKeCyQEhvPC2NODgiqFE,The Wailers,60,177315,https://i.scdn.co/image/b7929ce6c9c02845c63bbdfcfafdcf0a99864260
+5c3GLXai8YOMid29ZEuR9y,Nick Drake,61,269429,https://i.scdn.co/image/d364b498f85ae764cd278fbba9a8ed7f00c3e434
+3HQyFCFFfJO3KKBlUfZsyW,Randy Newman,61,88999,https://i.scdn.co/image/fe1b488b7925b70d1a491ef9f9114d4c203e53a8
+5NGO30tJxFlKixkPSgXcFE,The Police,75,1435880,https://i.scdn.co/image/1f73a61faca2942cd5ea29c2143184db8645f0b3
+6PAt558ZEZl0DmdXlnjMgD,Eric Clapton,74,1895785,https://i.scdn.co/image/1140260d3e3d105acb0ae3f415fd20a7e1301a1e
+7bu3H8JO7d0UbMoVzbo70s,The Cure,73,1395190,https://i.scdn.co/image/7ca743e822b80133971ccf5c70fcbd77a4f4f508
+2LXeJdQVcFkhkWydphLI74,Liz Phair,49,44105,https://i.scdn.co/image/0d2e69a6c98d8e319a941a62c1b716cc67f93d47
+5UqTO8smerMvxHYA5xsXb6,Sonic Youth,60,390740,https://i.scdn.co/image/af335c11a73e9311516bb28800be58311410d1be
+4hw4TPMyAzHqNBcWtoDrK5,Richard & Linda Thompson,30,4694,https://i.scdn.co/image/f78e6fd484f49909881ed7363ef0b2e80786dda4
+6c8INA1EQQe9TkukfEdiCA,Graham Parker,33,12357,https://i.scdn.co/image/99bac4d36ef209148634032163da4d2956bd5f9f
+5xUf6j4upBrXZPg6AI4MRK,Soundgarden,70,1228877,https://i.scdn.co/image/b30a969cfd4116ddbfc97f7bb964d39cdd831790
+6w6z8m4WXX7Tub4Rb6Lu7R,Jethro Tull,62,495857,https://i.scdn.co/image/6b88837f4a883104ba27dd3621a12ec14b234c9c
+4J69yWrKwWJgjv3DKTZcGo,Big Brother & The Holding Company,56,62862,https://i.scdn.co/image/73abe712ae99d9300df3697554f952104c085654
+7x83XhcMbOTl1UdYsPTuZM,Tom Waits,63,578913,https://i.scdn.co/image/e76ff059b16aa9756fb0e266b30c4f8fef32b40d
+5Mhs3Eu8lU6sRCtRYsmABV,Black Flag,53,209808,https://i.scdn.co/image/598db8050401aaa29ff5ed4d606f6961b8fefe8c
+3OsRAKCvk37zwYcnzRf5XF,Moby,76,820875,https://i.scdn.co/image/f43dcf8e8960d63c7cb6bdad42bed7d7a0f42d8f
+762310PdDnwsDxAQxzQkfX,Depeche Mode,74,1336700,https://i.scdn.co/image/2ec1d1c7a48df4244f0ba708eafd28b7afa6166b
+7dnB1wSxbYa8CejeVg98hz,Meat Loaf,63,260288,https://i.scdn.co/image/b04ec377721288ae090c74c8d26710a6d43ef765
+1Z8ODXyhEBi3WynYw0Rya6,De La Soul,62,298620,https://i.scdn.co/image/be4757c033697c4535381131c9807dcf51ca0ca5
+2lxX1ivRYp26soIavdG9bX,The Yardbirds,56,241227,https://i.scdn.co/image/387ef350db933ccaf6fd0b5bfd2837841bc6b835
+0WwSkZ7LtFUFjGjMZBMt6T,Dire Straits,75,1258519,https://i.scdn.co/image/54a86ecf1de16b17e2ed000a9ca8a1590c9a3b80
+2DxlS3lTLFIq70S7ap5H3y,Buzzcocks,54,131762,https://i.scdn.co/image/31fbd93f8c347c27846a53b7335422c88b2071eb
+1G9G7WwrXka3Z1r7aIDjI7,OutKast,76,900672,https://i.scdn.co/image/cf78e460a538b48dec7ef55064cdc76042511a07
+40Yq4vzPs9VNUrIBG5Jr2i,The Smashing Pumpkins,72,1354992,https://i.scdn.co/image/032dbc294bbbe302a66cce20cc8db2ae0f7e60ef
+0yNLKJebCb8Aueb54LYya3,New Order,68,586742,https://i.scdn.co/image/6e08df346690cf07811a55915c44ee9501c4e4fc
+2d0hyoQ5ynDBnkvAbJKORj,Rage Against The Machine,74,1886304,https://i.scdn.co/image/ddb4a2ad4585d914d9e6993f6ddf50d33e48089e
+6ysQi6NI88X627t2srsWz6,Mott The Hoople,52,56001,https://i.scdn.co/image/130b5d335ec440db3d2efce781ab3882c87a0781
+7Ln80lUS6He07XvHI8qqHH,Arctic Monkeys,84,5556054,https://i.scdn.co/image/ed0552e9746ed2bbf04ae4bcb5525700ca31522d
+3fhOTtm0LBJ3Ojn4hIljLo,Roxy Music,60,222487,https://i.scdn.co/image/00a2066e2104137e034dd55f05ee8a8887d98728
+5lkiCO9UQ8B23dZ1o0UV4m,Jackson Browne,66,304900,https://i.scdn.co/image/dc9317305265ddfc7d6bf70cf7f4b908b6781ac5
+7w29UYBi0qsHi5RTcv3lmA,Björk,63,725868,https://i.scdn.co/image/5001ca3c3cd95734aac7320d2199b9b515595375
+1yNOfXGQNGjAynk77wv85x,John Lee Hooker,57,298481,https://i.scdn.co/image/ed03ad28dfc9dee708810b3404f0db2fa09330c8
+2DaxqgrOhkeH0fpeiQq2f4,Oasis,80,2553827,https://i.scdn.co/image/2a8c10fe954e2038fb74251cba601a5594cc5878
+0TImkz4nPqjegtVSMZnMRq,TLC,72,955303,https://i.scdn.co/image/0a92641cc8acb39e4aee7e959cb2a42287ea4801
+6ZFv3wQwwWPiVDWhv0mjQK,Toots & The Maytals,60,182550,https://i.scdn.co/image/9ff4905c62ddfe34cb7078c21795145c7786781d
+2eRdPaLHWAL4d1WcNUO9Vz,The Modern Lovers,55,41011,https://i.scdn.co/image/d55a830762d885ab4561ddc77a9d59498100b591
+34EP7KEpOjXcM2TCat1ISk,Wu-Tang Clan,70,966047,https://i.scdn.co/image/1b04a75e04f3caff320e9bb35d43de7123da6122
+5dbuFbrHa1SJlQhQX9OUJ2,Don Henley,65,273698,https://i.scdn.co/image/e3bb4b09ffbf0a8f420ae14837208056cf64451e
+4F84IBURUo98rz4r61KF70,The White Stripes,74,1307496,https://i.scdn.co/image/189146ab2ecdc0263ac26a01fefa8da86195abfb
+0QJIPDAEDILuo8AIq3pMuU,M.I.A.,68,654873,https://i.scdn.co/image/31ef1aaf80f623deaeda9c8d5a4074b7f8b34516
+066X20Nz7iquqkkCW6Jxy6,LCD Soundsystem,66,488462,https://i.scdn.co/image/f8d0cb93fc39fdcdfab0ea7b4ea64d449cbb1aa4
+6FXMGgJwohJLUSr5nVlf9X,Massive Attack,66,865054,https://i.scdn.co/image/c8bbeedb05f38ae5cb982a7daf4bf7129cca892c
+2AM4ilv6UzW0uMRuqKtDgN,ZZ Top,70,1326194,https://i.scdn.co/image/684172db801f534639d3f047dc8095da623892e3
+3RwQ26hR2tJtA8F9p2n7jG,The Temptations,70,904410,https://i.scdn.co/image/ac427bc9167df8cb823cd93a54156001fbf6f9a2
+20qISvAhX20dpIbOOzGK3q,Nas,74,1193328,https://i.scdn.co/image/ba18d0131343ca84cb9ab0eb31f56745302bc78f
+4MVyzYMgTwdP7Z49wAZHx0,Lynyrd Skynyrd,74,1212847,https://i.scdn.co/image/dce90ea7db620f12daa82d49a7015836fa1988ec
+3UvcmAOZt64oKpP95f6MMM,Big Star,51,52434,https://i.scdn.co/image/f14be5a9d0ae296706b8b46f39b4b5d8e8c34da3
+12VaqyEhgwDRuFfEqbnrpz,PJ Harvey,59,364823,https://i.scdn.co/image/d88ca473ad66439c371e39a296d04d608f0432b9
+4sD9znwiVFx9cgRPZ42aQ1,Sinéad O'Connor,59,230205,https://i.scdn.co/image/01302e48d0723ef0bb11af123826d7016585995d
+2i8ynmFv4qgRksyDlBgi6d,Wire,51,57378,https://i.scdn.co/image/1334e2aa3f94fc15ca3422492f5041ccf6dc9e70
+0z6zRFzl5njXWLVAisXQBz,Minutemen,49,50617,https://i.scdn.co/image/c259800b601c19b1cba26edf6146eae71697f6af
+2mG8HHQ9S9kcbjcrb5N1FE,The Go-Go's,52,135350,https://i.scdn.co/image/5506a4ed9d4abd277f4eda5a92239dc68073d46d
+2cnMpRsOVqtPMfq7YiFE6K,Van Halen,73,1605104,https://i.scdn.co/image/40982a5747afcbff089b1031e96c883c3b009066
+4STHEaNw4mPZ2tzheohgXB,Paul McCartney,73,1430370,https://i.scdn.co/image/cc1f9a3f3c93481439ff6bfb97048cfd41e4e575
+6liAMWkVf5LH7YR9yfFy1Y,Portishead,62,667041,https://i.scdn.co/image/05d3721739aee511a898081ab140daa7890a0120
+15jBNfRUPUgdZOTSaNoF5l,Buddy Holly & The Crickets,29,44977,https://i.scdn.co/image/930f4735ed50acf9e79f66641a09f0319adb247d
+7CyeXFnOrfC1N6z4naIpgo,The Ronettes,59,77803,https://i.scdn.co/image/64fbb4886bfb9b34c5319f59d1b599a7bfedcd22
+0rXI0q8Cahq6numvPlloaq,Diana Ross & The Supremes,48,40334,https://i.scdn.co/image/88bdc48ca59df15577c18d66c7ec9a3fdedf1666
+1KA3WXYMPLxomNuoE22LYd,Gram Parsons,46,38947,https://i.scdn.co/image/8b062814b54ddb7f3e436b94bb38bd13583f1e3b
+1LB8qB5BPb3MHQrfkvifXU,Cheap Trick,64,361701,https://i.scdn.co/image/ebb323f7c72924bd0ceb98e69d50373b99ccf3ac
+003kZCrZhoxCckVJ2jCiJC,Peter Wolf,32,4464,https://i.scdn.co/image/1e626ce84397ca38f1b6722d6658417082f6aa28
+7MSUfLeTdDEoZiJPDSBXgi,Brian Eno,68,237809,https://i.scdn.co/image/52d1698a8073ca9d7ed5211a44b4487f4ad35cb9
+5BvJzeQpmsdsFp4HGUYUEx,Vampire Weekend,69,1090530,https://i.scdn.co/image/d65be20a50485b08efd0ae23a73a2c9eaaa53c21
+7FIoB5PHdrMZVC3q2HE5MS,George Harrison,69,665416,https://i.scdn.co/image/4d9990ce9e262cd5c0bfb1aef5ee4380d3f3dc66
+55Aa2cqylxrFIXC767Z865,Lil Wayne,89,6034452,https://i.scdn.co/image/018153d1b9a3e60e970e5f9b0ae3e028ed980f0f
+5UloVKzUNJcjORzhhTWWiJ,The Karaoke Channel,39,24970,https://i.scdn.co/image/f1be5b851e134530803c8eeb4c720ef9b9fbe80e
+2wzMOQwNT6ZvVB4amvhFAH,The Pogues,57,166131,https://i.scdn.co/image/066e909db6281a424881f7eb1fd11248050ed390
+6uVeWolwyRDrT84lLsaZyW,Suicide,46,47675,https://i.scdn.co/image/4ec33d5a13bbfc863c674da4be04f893418ddf28
+0UKfenbZb15sqhfPC6zbt3,DEVO,60,140874,https://i.scdn.co/image/39a7e5e551639397c9ee7801e0e1755cf2affd1c
+3ICyfoySNDZqtBVmaBT84I,War,60,107152,https://i.scdn.co/image/22a9b5046deb574b570df4f664e6d0c0750f3e9c
+6QtGlUje9TIkLrgPZrESuk,Steve Miller Band,68,592645,https://i.scdn.co/image/3ce0d684c68941157eeac95f3a0916c3200fc541
+77ZUbcdoU5KCPHNUl8bgQy,João Gilberto,64,180327,https://i.scdn.co/image/bf0a588ad9e2412a23fc28410f0f51e288b6e32f
+6Q192DXotxtaysaqNPy5yR,Amy Winehouse,77,4331836,https://i.scdn.co/image/316a6ef4535c377bdfaea61c99177de9d19661b4
+0nJUwPwC9Ti4vvuJ0q3MfT,John Prine,63,113644,https://i.scdn.co/image/0f320a3f485373eb369d14d583c858c8c157b4f4
+3zpKjsMg2gw1St5WcWoUJN,EPMD,53,127517,https://i.scdn.co/image/05b891a72c523a052a810172525bd317693530e4
+3EhbVgyfGd7HkpsagwL9GS,Alice Cooper,64,851845,https://i.scdn.co/image/592de1535702d237537915abff5baffa3c8dea89
+6OWapcJm9xd55ci9CYbAuT,Los Lobos,56,52028,https://i.scdn.co/image/f76f736fcf00948fd95522709e260f946c2df388
+43O3c6wewpzPKwVaGEEtBM,My Morning Jacket,59,279673,https://i.scdn.co/image/00706925baf36814f2f71b0c903b94d6af9ce5d5
+1FqqOl9itIUpXr4jZPIVoT,The Drifters,60,143784,https://i.scdn.co/image/9cebb08480116550d85b6268d9adb1c2aee718f7
+5SHQUMAmEK5KmuSb0aDvsn,Hole,58,246333,https://i.scdn.co/image/3f070ac89152fcd23f90c1351295d8cc64d54cb2
+70MMkLXtue3Edj3RJhJkYp,Public Image Ltd.,48,80911,https://i.scdn.co/image/095a58d679599309cf7f8ff3549ba16d26ef17c8
+0fgYKF9Avljex0L9Wt5b8Z,Echo & the Bunnymen,60,230907,https://i.scdn.co/image/397489fba8899aa52cadb0f62662603f96065446
+6H1RjVyNruCmrBEWRbD0VZ,Def Leppard,69,1095826,https://i.scdn.co/image/aefc2788e19ee5bf75791f78746072fe3249ad4b
+6RWjTQqILL7a1tQ0VapyLK,The Magnetic Fields,53,104900,https://i.scdn.co/image/7bb9f3f343dec795d21d3fe0310e4f447d977315
+4gzpq5DPGxSnKTe4SA8HAU,Coldplay,88,11409778,https://i.scdn.co/image/143b0f286f76ece3a711f673d9ba00b8f499b2c0
+6kz7WuPaUa4QVreP27I33i,The Paul Butterfield Blues Band,39,25981,https://i.scdn.co/image/96dc0eb644f50cb20363c23f0a58765b2c85eb9f
+2WKdxPFRD7IqZvlIAvhMgY,Fugees,69,439718,https://i.scdn.co/image/dd757e1fca99ac0a3da9aa6c2969bc696cc672ce
+1P8IfcNKwrkQP5xJWuhaOC,LL Cool J,65,482983,https://i.scdn.co/image/77705115296b3f2b788c4fe37bfacea73d9b7370
+5w75MoT8FfcGOMgjgrj1cz,Richard Thompson,48,34345,https://i.scdn.co/image/5e1fb004d556e2daccff578f9cc360afa2f0a6f7
+19ra5tSw0tWufvUp8GotLo,George Michael,73,814650,https://i.scdn.co/image/3c6625e90191fcdffadb0ff5c613f4662a2e4b82
+6wH6iStAh4KIaWfuhf0NYM,Manu Chao,69,665694,https://i.scdn.co/image/1f4dbd46881519c862e033f3a689ce4ec32be6f2
+2ptmyXoL7poH6Zq62h1QT9,Merle Haggard,61,332876,https://i.scdn.co/image/d8e0897a254fd1b23aa5421e04ac3a818b7f4e40
+1FE0rls8gfQT3laAeRYNgl,Loretta Lynn,54,174802,https://i.scdn.co/image/bf88c157d59e12bbe8a9bbcfafba07b7d1472dcf
+2yQf6b8hxahZaT5dHlWaB1,Raekwon,63,161470,https://i.scdn.co/image/03463cee551c78964f76b0067307fba60982129e
+336vr2M3Va0FjyvB55lJEd,D'Angelo,65,530981,https://i.scdn.co/image/c69197fa9d01ec73e2617525b920e76b550ba2e2
+2UBTfUoLI07iRqGeUrwhZh,Steve Earle,58,111841,https://i.scdn.co/image/a5e5b309c859c4d552b3d2dca10f4ed053e13135
+3AmWjMXXtBJOmNGpUFSOAl,Gang Of Four,49,59026,https://i.scdn.co/image/486c9b93031ebb46d3c34e6412416a816e326463
+4QQgXkCYTt3BlENzhyNETg,"Earth, Wind & Fire",74,1115507,https://i.scdn.co/image/9fd0a9822140cce668ee15263e1f73730152dff0
+2BTZIqw0ntH9MvilQ3ewNY,Cyndi Lauper,70,509682,https://i.scdn.co/image/43f7aae6ea4956e3ef695d7089d05fd3f789b677
+16bN8mhtDFdegWbg0z3s10,Hüsker Dü,48,73126,https://i.scdn.co/image/f09c18858ffc997a5c8bc371ab0bd9fbdee6996c
+5aygfDCEaX5KTZOxSCpT9o,Albert King,52,153076,https://i.scdn.co/image/bfb61e8da152782920e42784c2a72eed8620afc1
+0NKDgy9j66h3DLnN8qu1bB,Eurythmics,71,416365,https://i.scdn.co/image/997d275fd7d135ea6221a71c9e045a87594e7eb3
+2QoU3awHVdcHS8LrZEKvSM,Wilco,64,388713,https://i.scdn.co/image/6358b3d0f759f8a7163c866e46569a066517749b
+0SwO7SWeDHJijQ3XNS7xEE,MGMT,75,1150182,https://i.scdn.co/image/552cc07e487a1dc7fd91d680824086b4daff8fc8
+46njgd2Rq9tZc4ZjeQMgbh,Boz Scaggs,59,150628,https://i.scdn.co/image/b4adb9fa3dd9f00235a9ace292e002ec9c669fa5
+1lYT0A0LV5DUfxr6doRP3d,The Stone Roses,64,506327,https://i.scdn.co/image/b402bab4eb25e953eef911e1fde6076e116ce0b2

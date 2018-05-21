@@ -1,0 +1,501 @@
+album_id,album,genre,release_date,record_label,album_cover_url
+1PULmKbHeOqlkIwcDMNwD4,Sgt. Pepper's Lonely Hearts Club Band,Rock,1967-06-01,Capitol,https://img.wennermedia.com/920-width/sgt-peppers-e4860c12-4da1-4e6d-bb86-81698a88dbde.jpg
+6GphKx2QAPRoVGWE9D7ou8,Pet Sounds,Rock,1966-06-16,Capitol,https://img.wennermedia.com/920-width/rs-136791-eafbc592120358b4d3d14cda5acebf62ae50a522.jpg
+0PYyrqs9NXtxPhf0CZkq2L,Revolver,Rock,1966-08-05,Capitol,https://img.wennermedia.com/920-width/rs-136792-daa031ec00ad83a2da305fe583d746d030fa46ca.jpg
+6YabPKtZAjxwyWbuO9p4ZD,Highway 61 Revisited,Rock,1965-08-30,Columbia,https://img.wennermedia.com/920-width/rs-136793-3dbec55509cc2ca2776a37e27102718700790947.jpg
+3OdI6e43crvyAHhaqpxSyz,Rubber Soul,"Rock, Pop",1965-12-03,Capitol,https://img.wennermedia.com/920-width/rs-136794-6a2b508760f8dfca2260822c63640baa769795b4.jpg
+4gp6F03qAJCvKYoAGSrHVk,What's Going On,Funk / Soul,1971-05-21,Motown,https://img.wennermedia.com/920-width/rs-136795-89f4e4079e43af44a80043f496eebfc562e3c9ec.jpg
+5dBQ20ppdPxo5bqkoeTKnN,Exile on Main Street,Rock,1972-05-12,Rolling Stones Records,https://img.wennermedia.com/920-width/rs-136796-a79e314b8bb4a44886afc91cf2db9b0e6f4a1526.jpg
+6FCzvataOZh68j8OKzOt9a,London Calling,Rock,1979,Epic,https://img.wennermedia.com/920-width/rs-136797-692d99af3ab2207de3a7757ad3eb2fc65644ed49.jpg
+4NP1rhnsPdYpnyJP0p0k0L,Blonde on Blonde,"Rock, Blues",1966-06-20,Columbia,https://img.wennermedia.com/920-width/rs-136798-c659072c7a5fd09b178fc73b1cc6c03bc9c5763b.jpg
+03Qh833fEdVT30Pfs93ea6,The White Album,Rock,1968-11-22,Capitol,https://img.wennermedia.com/920-width/rs-136799-c851b340c6dccdeafaeb8d147ea084cba2e06236.jpg
+2w9qV3ELWjmpGBDxBPmYif,The Sun Sessions,Rock,2004-06-21,RCA,https://img.wennermedia.com/920-width/rs-136800-7a33165e92d530dd0f7c190f9dd46f81b95c5913.jpg
+4sb0eMpDn3upAFfyi4q2rw,Kind of Blue,Jazz,1959-08-17,Columbia,https://img.wennermedia.com/920-width/rs-136801-7d7508478e8e401003325d5d0aaac731560d13ab.jpg
+02O0Ea7JGwlLq8faAiv1MN,The Velvet Underground,Rock,1967-03-12,Verve,https://img.wennermedia.com/920-width/rs-136802-99e8a590fe492cdd130f7debb20f934748fbc4b7.jpg
+2Pqkn9Dq2DFtdfkKAeqgMd,Abbey Road,Rock,1969-09-26,Capitol,https://img.wennermedia.com/920-width/rs-136803-0921fbfa76c66953268f4bdeee9410ef7ef02536.jpg
+7rSZXXHHvIhF4yUFdaOCy9,Are You Experienced?,"Rock, Blues",1967-05-12,Reprise,https://img.wennermedia.com/920-width/rs-136804-5c60b6f07182074469636bb45da1fd26b8d2a04f.jpg
+4WD4pslu83FF6oMa1e19mF,Blood on the Tracks,Rock,1975-01-17,Columbia,https://img.wennermedia.com/920-width/rs-136805-d7f732b2975aa5f48929bab82e158620c28021ee.jpg
+2uEf3r9i2bnxwJQsxQ0xQ7,Nevermind,Rock,1991-09-26,Geffen,https://img.wennermedia.com/920-width/rs-136806-21ccd83b5593ecaed7b7b09b5bcfa2aed935b208.jpg
+43YIoHKSrEw2GJsWmhZIpu,Born to Run,Rock,1975,Columbia,https://img.wennermedia.com/920-width/rs-136807-1ccdff7c10d78ca236e7272be46db2562737945a.jpg
+4pG3bKkbmReDt5QTDn3JDz,Astral Weeks,"Jazz, Rock, Blues, Folk, World, Country",1968-11-01,Warner Bros.,https://img.wennermedia.com/920-width/rs-136808-6f9fc2c6fadb5ba8118b7baa2cd016ddebee2f26.jpg
+1C2h7mLntPSeVYciMRTF4a,Thriller,"Funk / Soul, Pop",1982-11-30,Epic,https://img.wennermedia.com/920-width/rs-136809-5f1d3499fb3eed91d03d8c94213829d42fb87658.jpg
+1MEavknY0Ptw78jnCMYsa6,The Great Twenty-Eight,Rock,1982,Chess,https://img.wennermedia.com/920-width/rs-136810-fc435e4ac67a99344a3f87b874346a03bb864a0d.jpg
+5lQYtmPhbIIsrUtAVnzyeT,The Complete Recordings,Blues,1990,Columbia,https://img.wennermedia.com/920-width/rs-136811-d728ac46e2ce3da52113fcb8e4e593dac64015d6.jpg
+0DFYbYCcHCEJPcN1hODG6K,Plastic Ono Band,Rock,1970-12-11,Capitol,https://img.wennermedia.com/920-width/rs-136812-3de737814351d39eb4854aed81106f8b2f7564e3.jpg
+5w9X19CBZUHOcQZjrUcDZ6,Innervisons,Funk / Soul,1973-08-03,Tamla,https://img.wennermedia.com/920-width/rs-136813-cd9ed0f8f7ee429ef0f61b2e111a7bbce304f001.jpg
+3PLw2q9EG7HAAy8vITJRkE,Live at the Apollo,Funk / Soul,2014-01-01,King,https://img.wennermedia.com/920-width/rs-136814-b56e02aec79042fa9b1af99d683ded0c8a2bd461.jpg
+1bt6q2SruMsBtcerNVtpZB,Rumours,Rock,1977-02-04,Warner Bros.,https://img.wennermedia.com/920-width/rs-136815-cbb03ec26a73d7619600851e27bddf3511abf4de.jpg
+5OkSkzxPZuziL8waHmU8Zd,The Joshua Tree,Rock,1987-03-03,Island,https://img.wennermedia.com/920-width/rs-136816-520bddc06d6e0cc15e5e664403130b7f82c647ed.jpg
+3ipneUq3vZhmTXOFZMoHkf,Who's Next,Rock,1971-08-14,Decca,https://img.wennermedia.com/920-width/rs-136817-8771b654101c38cee38046c90461899f4609dcc7.jpg
+1J8QW9qsMLx3staWaHpQmU,Led Zeppelin,Rock,1969-01-12,Atlantic,https://img.wennermedia.com/920-width/rs-136818-f46de354cee13132e928bb4793b21bf466deddcf.jpg
+1vz94WpXDVYIEGja8cjFNa,Blue,Pop,1971-06-22,Reprise,https://img.wennermedia.com/920-width/rs-136819-028f49baec27d23d1cb2aab9039fd5c59cebcfa8.jpg
+1lPoRKSgZHQAYXxzBsOQ7v,Bringing It All Back Home,"Rock, Folk, World, Country",1965-03-22,Columbia,https://img.wennermedia.com/920-width/rs-136820-269c3d6190e2dc0dc53c9692a3fccb1b0297d8ba.jpg
+0c78nsgqX6VfniSNWIxwoD,Let It Bleed,Rock,1969-12-05,London,https://img.wennermedia.com/920-width/rs-136821-33e6772d3021760a05f42698be40425d1e5302b3.jpg
+5uYDAwW0SZgcfOFkxrST64,Ramones,Rock,1976-04-23,Sire,https://img.wennermedia.com/920-width/rs-136822-e9c37a4eaa1dfdd20c30153be4966ef0059eea5b.jpg
+0nuPXgAXAfPmz9AW1PPrlk,Music From Big Pink,Rock,1968-07-01,Capitol,https://img.wennermedia.com/920-width/rs-136824-53ea5be949478362759c48a2709486aa141fd212.jpg
+48D1hRORqJq52qsnUYZX56,The Rise and Fall of Ziggy Stardust and the Spiders From Mars,Rock,1972-06-06,RCA,https://img.wennermedia.com/920-width/rs-136823-796577260b3b30587c896ff08e32c4b39c96e207.jpg
+12n11cgnpjXKLeqrnIERoS,Tapestry,"Rock, Pop",1971,Ode,https://img.wennermedia.com/920-width/rs-136825-665baaa4458af3052fe54e61b4f877ff0fdbfee4.jpg
+2widuo17g5CEC66IbzveRu,Hotel California,Rock,1976,Asylum,https://img.wennermedia.com/920-width/rs-136826-c1cb2fd484afdaff16cb9f5c0a397c120ff3f74a.jpg
+5HM0XnToWhSPYEStptvUYt,The Anthology,"Folk, World, Country",2001,Chess / MCA,https://img.wennermedia.com/920-width/rs-136827-fe53e95b3d42bfba65bdf63893ac156bda42c4a9.jpg
+7gDXyW16byCQOgK965BRzn,Please Please Me,Rock,1963-03-22,Parlophone,https://img.wennermedia.com/920-width/rs-136828-a98228297da2e4b977752517870aa0f0084a260d.jpg
+2amHBpP8C0EUy6yBNy6nN6,Forever Changes,Rock,1967,Elektra,https://img.wennermedia.com/920-width/rs-136829-98c7140da22f3d65f5af7dc59af391d8abd0ee52.jpg
+6ggO3YVhyonYuFWUPBRyIv,Never Mind the Bollocks Here's the Sex Pistols,Rock,1977-10-27,Warner Bros.,https://img.wennermedia.com/920-width/rs-136830-ad8c0086034df4e67974c150d0f4f8ec469584eb.jpg
+1jWmEhn3ggaL6isoyLfwBn,The Doors,Rock,1967-01-04,Elektra,https://img.wennermedia.com/920-width/rs-136831-1ea331d7c82fbb8fa7071b77d4f657b109d1c788.jpg
+2WT1pbYjLJciAR26yMebkH,The Dark Side of the Moon,Rock,1973-03-01,EMI,https://img.wennermedia.com/920-width/rs-136832-861c5694612fa245049704a6d3ab31387b19c834.jpg
+7xg7u99lilTCPbaRfnYuy6,Horses,Rock,1975,Arista,https://img.wennermedia.com/920-width/rs-136833-e7a996baf4047f8daed97e5f5bd4490fb7c1f697.jpg
+0nPrnmv6maJLLaPpy1cWGB,The Band,"Classical, Stage & Screen",1969-09-22,Capitol,https://img.wennermedia.com/920-width/rs-136834-0ac466eab206d17e99e3329c482993dab1bee18d.jpg
+4qsXcmAgPNSliu6oMQGOQ9,Legend,Reggae,1984,Island,https://img.wennermedia.com/920-width/rs-136835-96be4f1be7b743e59bc37c675556ee33492da56d.jpg
+5cKg5nyFcq8ykeiFposAcy,A Love Supreme,Jazz,1965-02,Impulse,https://img.wennermedia.com/920-width/rs-136836-02531855485466bc333d2947a4dd31f2b9f61748.jpg
+3fnVPzF3kChsDGYdBOkLZc,It Takes a Nation of Millions to Hold Us Back,Hip Hop,1988-01-01,Def Jam,https://img.wennermedia.com/920-width/rs-136837-0f1f21ff75e649209670aa34b650d8b0f3a7b9ef.jpg
+35w2w6W38bXCo4bG1akRe9,At Fillmore East,"Rock, Blues",1971-07,Mercury,https://img.wennermedia.com/920-width/rs-136838-effe20936e258567d11473ae17e244dac6b208d8.jpg
+69UFrsDQ6XATSYfYRSFb5J,Here's Little Richard,"Rock, Blues",2017-11-03,Specialty,https://img.wennermedia.com/920-width/rs-136839-7a68ae240f7399bef642adb1c492ac20ab664b33.jpg
+0JwHz5SSvpYWuuCNbtYZoV,Bridge Over Troubled Water,Rock,1970-01-26,Columbia,https://img.wennermedia.com/920-width/rs-136840-0a328443dbf33f1e8724c5223b2d97fca48106c5.jpg
+6W0V8B0fJItvOwC8v114rZ,Greatest Hits,Funk / Soul,1975-05-29,Hi,https://img.wennermedia.com/920-width/rs-136841-e9ed00227a28b80f6c6796798da58c5a6958eec2.jpg
+6IKycpEVcUtUpUKUa2DeOf,Meet the Beatles!,Rock,2003-07-17,Capitol,https://img.wennermedia.com/920-width/rs-136842-c567aea05a250999e7e2046d49200a11d83d290a.jpg
+3RPMCDSd1yj37hlqbizmeT,The Birth of Soul,"Jazz, Funk / Soul",1991-09-24,Atlantic,https://img.wennermedia.com/920-width/rs-136843-7a56419fc667671522a7cb18f9a0fd66c0ca04ae.jpg
+5z090LQztiqh13wYspQvKQ,Electric Ladyland,"Rock, Blues",1968-10-25,Reprise,https://img.wennermedia.com/920-width/rs-136844-876329989fb53101df678baaf238180b18820803.jpg
+0C3t1htEDTFKcg7F2rNbek,Elvis Presley,Rock,1958-03-21,RCA,https://img.wennermedia.com/920-width/rs-136845-3d96d5d6d9bcbc6282936dc1ffd06578cabebc32.jpg
+0BBWJ3L9fhkmNLdt4zs4fu,Songs in the Key of Life,Funk / Soul,1976-09-28,Motown / Universal,https://img.wennermedia.com/920-width/rs-136846-1becb7e01d2771e049f1a09ffd58cd77f0e146a2.jpg
+5WZFtmADuJUZPtt0NER0Qi,Beggars Banquet,"Rock, Funk / Soul, Pop",1968-12-06,ABKCO,https://img.wennermedia.com/920-width/rs-136847-ee1d802faf428f24bfdcf23cead8f5c9797f6ab4.jpg
+1NmziwkZZuCeJLsqu05UwP,Chronicle Vol. 1,Rock,1976,Fantasy,https://img.wennermedia.com/920-width/rs-136848-c305a673692a96976fce8b404c1bf141b7db621e.jpg
+0,Trout Mask Replica,"Rock, Blues",1969,Straight,https://img.wennermedia.com/920-width/rs-136849-a4b6f5b0e8e36b7180fdea278755bb4099099d14.jpg
+0UM9SydcBtsklCTFgGLvcT,Greatest Hits,Funk / Soul,1970-11-21,Epic,https://img.wennermedia.com/920-width/rs-136850-76aa8b1a1fec965275cf1bf6576217d5716f6f0a.jpg
+3I9Z1nDCL4E0cP62flcbI5,Appetite for Destruction,Rock,1987-01-01,Geffen,https://img.wennermedia.com/920-width/rs-136851-4e6da25216527bf930346f52271b6eb2122a716d.jpg
+3hErePSImi79vYHrSmypGw,Achtung Baby,"Electronic, Rock",1991-11-18,Island,https://img.wennermedia.com/920-width/rs-136852-05c62e826eb9c0ef8fbf3e4e2d807a355efb0c94.jpg
+3i3imP9g6gCc6VzeeyduXZ,Sticky Fingers,Rock,1971-04-23,Rolling Stones Records,https://img.wennermedia.com/920-width/rs-136853-631aebeb7535cea014244f29a3852307841c56bb.jpg
+1,Back to Mono (1958-1969),"Rock, Funk / Soul, Pop",1991,ABKCO,https://img.wennermedia.com/920-width/rs-136854-e2ebe7062791aa4ff3e0c5d93bf32d2d2a588f40.jpg
+5PfnCqRbdfIDMb1x3MPQam,Moondance,"Jazz, Rock, Funk / Soul, Folk, World, Country",1970-02,Warner Bros.,https://img.wennermedia.com/920-width/rs-136855-62fc0b0d65ef7c2f2a9a37cb66f1051e927bcd50.jpg
+19RUXBFyM4PpmrLRdtqWbp,Kid A,"Electronic, Rock",2000-10-01,Capitol,https://img.wennermedia.com/920-width/rs-136714-dc5847d14a98590646f38ff1bb045fe6e9523850.jpg
+2ZytN2cY4Zjrr9ukb2rqTP,Off the Wall,"Funk / Soul, Pop",1979-08-10,Epic,https://img.wennermedia.com/920-width/rs-136856-8c1e5b0582a5b46fc80e0db97c87f48661e672e8.jpg
+44Ig8dzqOkvkGDzaUof9lK,Led Zeppelin IV,Rock,1971-11-08,Atlantic,https://img.wennermedia.com/920-width/rs-136857-c4082fd6526f33db9b4e851a72d96784119fd52c.jpg
+1Mhn9VosyjtWn4dMPFlna6,The Stranger,Rock,1977,Columbia,https://img.wennermedia.com/920-width/rs-136858-ccdc7ef4844eea964e02ab50740e5cd4301a0ae9.jpg
+6WgGWYw6XXQyLTsWt7tXky,Graceland,"Jazz, Rock, Funk / Soul, Pop, Folk, World, Country",1986-08-12,Warner Bros.,https://img.wennermedia.com/920-width/rs-136859-2dabb95cffdc9f2d4e37b3157cec36e34b382598.jpg
+6EE7W9L4RiZ10L9duKHCYS,Superfly,"Funk / Soul, Stage & Screen",2014,Curtom,https://img.wennermedia.com/920-width/rs-136860-c8bf4bb3309cfafe5b4bddece81a591e52fa2857.jpg
+1lZahjeu4AhPkg9JARZr5F,Physical Graffiti,Rock,1975-02-24,Swan Song,https://img.wennermedia.com/920-width/rs-136861-53a00c2335b36eb447e75ae2387e96b0e6ba6a20.jpg
+5EVlXlHbRQI8ybuNt4ArXI,After the Gold Rush,Rock,1970-08-31,Reprise,https://img.wennermedia.com/920-width/rs-136862-7e03f32e7c9594a706f545a9c8cdd53e260bcafd.jpg
+11vTACMkaTq4urfwn9QzEM,Star Time,Funk / Soul,1991-01-01,Polydor,https://img.wennermedia.com/920-width/rs-136863-a7b2521a515dc36ea56d181cada01ce0a27bbbb4.jpg
+7nXJ5k4XgRj5OLg9m8V3zc,Purple Rain,"Electronic, Rock, Funk / Soul, Stage & Screen",1984-06-25,Warner Bros.,https://img.wennermedia.com/920-width/rs-136864-2dae4591d79f7c29a18496926740d720908e3127.jpg
+6mUdeDZCsExyJLMdAfDuwh,Back in Black,Rock,1980-07-25,Atlantic,https://img.wennermedia.com/920-width/rs-136865-06d9970eddbfbcae66ad664a73c6d52862d91d7c.jpg
+68BCjMsHX4Gf11BJSkjwGz,Otis Blue,Funk / Soul,1965-09-15,Volt,https://img.wennermedia.com/920-width/rs-136866-93f4b651ac369f0603463d0c1a539ab7ccd05241.jpg
+70lQYZtypdCALtFVlQAcvx,Led Zeppelin II,Rock,1969-10-22,Atlantic,https://img.wennermedia.com/920-width/rs-136867-cb5312fe6a5648ee4441e580ad904c4600a8d45e.jpg
+0xzaemKucrJpYhyl7TltAk,Imagine,Rock,1971-09-09,Apple,https://img.wennermedia.com/920-width/rs-136868-0b79ac312d1402b86d803ab464e58c456277e9fc.jpg
+49kzgMsxHU5CTeb2XmFHjo,The Clash,Rock,1977,Epic,https://img.wennermedia.com/920-width/rs-136869-ce67282f913d3d9bc2433f7084a5f5d22bc1f38a.jpg
+0tdm853TNWjVVChbJRbu3Q,Harvest,Rock,1992-11-02,Reprise,https://img.wennermedia.com/920-width/rs-136870-ec319af29f5efd5d20d9633f0c535e0151e59a42.jpg
+3uFZf8rykoHo7XMIQVYW6r,Axis: Bold as Love,Rock,1967-12-01,Reprise,https://img.wennermedia.com/920-width/rs-136871-8bd73526cc9968e358761e26e4fe42c641910802.jpg
+5WndWfzGwCkHzAbQXVkg2V,I Never Loved a Man the Way I Loved You,Funk / Soul,1967-03-10,Atlantic,https://img.wennermedia.com/920-width/rs-136890-2ae6552932d20ce4bdc5c361c7f57797c8ba2217.jpg
+7lEOKZaOpqP70UYqdLPejG,Lady Soul,Funk / Soul,1968-01-22,Atlantic,https://img.wennermedia.com/920-width/rs-136891-434330e80536d2bb420ca5ff91a6ed24651f0e69.jpg
+0PMasrHdpaoIRuHuhHp72O,Born in the U.S.A.,Rock,1984-08-21,Columbia,https://img.wennermedia.com/920-width/rs-136893-942105f84afcbf3168dd9c0ad83f5130b368af82.jpg
+6WaIQHxEHtZL0RZ62AuY0g,The Wall,Rock,1979-11-30,Columbia,https://img.wennermedia.com/920-width/rs-136895-f4449616e18127542ce4b5534585068d30a10201.jpg
+784THwrPRbheFoUMDEpWh8,At Folsom Prison,"Folk, World, Country",1968,Columbia,https://img.wennermedia.com/920-width/rs-136897-af22084dc4088905a4eb9afab73bb7efc9ce780b.jpg
+5FRB5oQaHxlDNe6gMGuzu2,Dusty in Memphis,"Rock, Funk / Soul",1969-03-31,Atlantic,https://img.wennermedia.com/920-width/rs-136898-d40f4d4da2d9d7a419717c8344f1444281c98dc5.jpg
+7vgpBNK5xPmS3Mu2Hl9O0D,Talking Book,Funk / Soul,1972-10-28,Tamla,https://img.wennermedia.com/920-width/rs-stevie-wonder-50728d4d-55cb-4812-aa33-191f340866f1.jpg
+5kRxjqksGBxJ9AxrAisUZ4,Goodbye Yellow Brick Road,Rock,1973-10-05,MCA,https://img.wennermedia.com/920-width/rs-136900-62a6bb35e40a1315bcdb5a541492bc93fc3a7cfb.jpg
+3oU3OPTKI0JfsVunkeODJE,20 Golden Greats,Rock,1974-01-01,MCA,https://img.wennermedia.com/920-width/rs-136901-a8a3f78f4dc628cd1451f8c5e38979d097e59fb5.jpg
+1XsXHctYSQNyAd9BANCk2B,Sign 'o' the Times,"Rock, Reggae",1987-03-30,Paisley Park,https://img.wennermedia.com/920-width/rs-136903-ffe7f8ac37e7fd481d268c3109ce8ade62f4e1d4.jpg
+6xSIkWmRSu7INDL0jf4WsN,40 Greatest Hits,"Folk, World, Country",1978-01-01,Polydor,https://img.wennermedia.com/920-width/rs-136904-9a14d7c339541e7fa0f9218a21a873e83ae3fece.jpg
+1wVO8nHzgcim0IBzbXnYX0,Bitches Brew,Jazz,1970-04,Columbia,https://img.wennermedia.com/920-width/rs-136905-1aa850852a50d38f55ae0b0c688b2d4f4403c70b.jpg
+5V71sHQYacjPbHlLsLmk7i,Tommy,Rock,1969-05-23,Decca,https://img.wennermedia.com/920-width/rs-136907-70195a5c116bff799265d42788bc73ca1fbfe622.jpg
+0o1uFxZ1VTviqvNaYkTJek,The Freewheelin' Bob Dylan,"Folk, World, Country",1963-05-27,Columbia,https://img.wennermedia.com/920-width/rs-136908-8e33d65973df4e70e8fbf8bd0dbdaace59293e68.jpg
+3QyqhSxACBlGzsai7TqB1G,This Year's Model,Rock,1978-01-01,Columbia,https://img.wennermedia.com/920-width/rs-136909-b1c40d0c34e89fa14f600ba775f425e52bd08224.jpg
+0ihYToxMgYcuHuxOKjGQKO,There's a Riot Goin' On,Funk / Soul,1971-11-20,Epic,https://img.wennermedia.com/920-width/rs-136910-c11fbdd3d1d1efe83f84ba5ea1ae7ceb24d1928d.jpg
+7K6JtyaSSVr7HidQsCHun0,Odessey and Oracle,Rock,1968-04-19,Columbia,https://img.wennermedia.com/920-width/rs-136911-4e049f07b395009537a0950b9ad5c9463042a78f.jpg
+3GmwKB1tgPZgXeRJZSm9WX,In the Wee Small Hours,"Jazz, Pop",1955,Capitol,https://img.wennermedia.com/920-width/rs-136912-66b38c578b55322f778406517690732daecca182.jpg
+7bKTxKs947fCErM4H1BbV8,Fresh Cream,"Rock, Blues",1966-12-09,ATCO,https://img.wennermedia.com/920-width/rs-136913-981c4b5aafd4f3e359c1a4db0edefc18580e1317.jpg
+3kxiL93hCFCIXkXJBLcYDi,Giant Steps,Jazz,1960,Atlantic,https://img.wennermedia.com/920-width/rs-136914-a70d84fe2a3b2f41f446397a357d3abbbe9bb4a1.jpg
+2NEQ5Q4sBbUHVVx3Wf8TEZ,Sweet Baby James,Rock,1970,Warner Bros.,https://img.wennermedia.com/920-width/rs-136915-500a68798b57abe3376e3309db498e1561846fd7.jpg
+1S0UrsFasvly1LGFKDKh4F,Modern Sounds in Country and Western Music,"Funk / Soul, Folk, World, Country",1962,ABC,https://img.wennermedia.com/920-width/rs-136916-ae787c41341d7da5bf9200bf626eb37cadcdc153.jpg
+7Jb0VtDTacuQdXM3pYyrbv,Rocket to Russia,Rock,1977-11-04,Sire,https://img.wennermedia.com/920-width/rs-136917-e2d4cb96825747e05cef632168acc0f7d15133cf.jpg
+4jiO2jRz7g50ESvYYKsKwZ,Portrait of a Legend,"Latin, Funk / Soul",1960-01-01,ABKCO,https://img.wennermedia.com/920-width/rs-136918-232ae686660178f6470d997bbd116d2b0bfb496d.jpg
+6fQElzBNTiEMGdIeY0hy5l,Hunky Dory,Rock,1971-12-17,RCA,https://img.wennermedia.com/920-width/rs-136919-d1e8785e80fdff5251025f3b639ac3a74faef5a9.jpg
+19MOC02Ei3l2SalGUGWozw,Aftermath,Rock,1966-04-15,London,https://img.wennermedia.com/920-width/rs-136920-7241fdf3c9872428a8b9dcbe5e44d4b5e0113f13.jpg
+2ny1rPsLOoKNFZhMLubMrs,Loaded,Rock,1970,Cotillion,https://img.wennermedia.com/920-width/rs-136921-2f318fd6b97e0844a1246f079709718388025c6b.jpg
+500FEaUzn8lN9zWFyZG5C2,The Bends,Rock,1995-03-28,Capitol,https://img.wennermedia.com/920-width/rs-136922-ade473553eca8fd0931d1267c4c5304e1b7b2b91.jpg
+4g4nONYbXHsZXVpsuudBJa,If You Can Believe Your Eyes and Ears,Rock,1966-03,MCA,https://img.wennermedia.com/920-width/rs-136923-0a7d9f94defe0b8483b04211500547df08eb9336.jpg
+2akjxkzFolkeV72Yyv5KrM,Court and Spark,Rock,1974-01-17,Asylum,https://img.wennermedia.com/920-width/rs-136924-b3bc278a848e93f60c50e3ae4394606fa727a3fd.jpg
+4SMNUQCyTvlO4vFEdXXG45,Disraeli Gears,Rock,1967-11-02,ATCO,https://img.wennermedia.com/920-width/rs-136925-6fb81add58786303921950c76af20b09c499b7ae.jpg
+5aexsAqRIZhM7wWeAoSOcZ,The Who Sell Out,Rock,1967-01-01,Decca,https://img.wennermedia.com/920-width/rs-136926-32aad95405f335c71ece94145ecba72ddb6a3224.jpg
+24V2ghp7XhGZzWKjthHq4v,Out of Our Heads,Rock,1965-07-30,ABKCO,https://img.wennermedia.com/920-width/rs-136927-2c801a57639a6568f50b90326f47666c3353a3f1.jpg
+5IJXJ6OL7wtN8nc3EyQj4N,Layla and Other Assorted Love Songs,Rock,1970-11-01,ATCO,https://img.wennermedia.com/920-width/rs-136928-42edaac7d4afb0bfd51e3d394f2ad20e17cc65ca.jpg
+4GRDFQ9HRoO0by8H0r2a3I,Late Registration,Hip Hop,2005-01-01,Roc-A-Fella / Def Jam,https://img.wennermedia.com/920-width/rs-136929-520fc83abbdd1d1611981bdf3b1bbda188a57842.jpg
+2pBhXw3Hi1hBf8FpAtE101,At Last!,"Funk / Soul, Blues",1960,Argo,https://img.wennermedia.com/920-width/rs-136930-c0078c0893f748597681f424bf33738dcdd55352.jpg
+02XyFDfvHfIwtqOC3o0PcK,Sweetheart of the Rodeo,Rock,1968-08-30,Columbia,https://img.wennermedia.com/920-width/rs-136931-d92f6b1f408047f947dd0ea5d9f9f1c88f314e13.jpg
+7iwS1r6JHYJe9xpPjzmWqD,Stand!,Funk / Soul,1969-05-03,Epic,https://img.wennermedia.com/920-width/rs-136932-32d46af59a4ead4a6277252c340e54357a55fef4.jpg
+01Ip2FMtQwlJncHFfZPVe0,The Harder They Come (Original Soundtrack),"Reggae, Pop, Folk, World, Country, Stage & Screen",2003-01-01,Mango,https://img.wennermedia.com/920-width/rs-136933-dbecb9848670f38dc1dc0960f993b5a045fa41f5.jpg
+7AFsTiojVaB2I58oZ1tMRg,Raising Hell,Hip Hop,1986-05-15,Arista,https://img.wennermedia.com/920-width/rs-136934-afbfe0e975813f14225b847c2406727305921cec.jpg
+5MTUjDTUWFuyhWW7oRqqmi,Moby Grape,Rock,1967,Columbia,https://img.wennermedia.com/920-width/rs-136935-1b27a1b9aa49d21d6b8f9d5d3aafb469bbf47031.jpg
+3j7nicLAWXM0Fb08q9XGyf,Pearl,"Rock, Blues",1971-01-11,Columbia,https://img.wennermedia.com/920-width/rs-136936-3f4d3c4bde8c7ca887b4440bc6e59062b7e627e7.jpg
+4w9UeNiCO8kr4ZBdWPQKln,Catch a Fire,Reggae,1973-04-13,Island,https://img.wennermedia.com/920-width/rs-136937-b7c87eeaf5e4b89b33984871df9258bd6568b088.jpg
+33puYJ2y5qANDenRmL8BS1,Younger Than Yesterday,Rock,1967-02-06,Columbia,https://img.wennermedia.com/920-width/rs-136938-8e43f465b606df2225800a6332f920afc4882997.jpg
+6mxbG8KrOTZIxlP4gzaliM,Raw Power,Rock,1973,Columbia,https://img.wennermedia.com/920-width/rs-136939-d119fb2e68a8714a8539f3bab3d6ce80c385cbd0.jpg
+3AQgdwMNCiN7awXch5fAaG,Remain in Light,"Electronic, Rock",1980-10-08,Sire,https://img.wennermedia.com/920-width/rs-136940-5e82a123eb478e5e075fca70395841a15c42cbd9.jpg
+630o1rKTDsLeIPreOY1jqP,Marquee Moon,Rock,1977-02-08,Elektra,https://img.wennermedia.com/920-width/rs-136945-496f60e7abeaaa10781d8ed0937bdd14e132fa89.jpg
+132qAo1cDiEJdA3fv4xyNK,Paranoid,Rock,1970-09-18,Warner Bros.,https://img.wennermedia.com/920-width/rs-136947-a30d2ee6659f73b96bf8bee257f2afaf1436bb63.jpg
+7ltJdcLtFh5GFmBHijjrRk,Saturday Night Fever (Original Soundtrack),"Electronic, Stage & Screen",1977-01-01,RSO,https://img.wennermedia.com/920-width/rs-136948-5ab24eca30e6533f552c8839c217e6643541b91d.jpg
+1rmhti8uHw21LnaWMQy608,"The Wild, the Innocent & the E Street Shuffle",Rock,1973-09-11,Columbia,https://img.wennermedia.com/920-width/rs-136950-5c1389223a1bbcaf57bee307144fb925785336b7.jpg
+2HTbQ0RHwukKVXAlTmCZP2,Ready to Die,Hip Hop,1994-09-13,Bad Boy,https://img.wennermedia.com/920-width/rs-136952-c8b83cb3c7734857e0da090c7c1862b6e043e3af.jpg
+3gWSt7qLMXD6vHOT0GPASi,Slanted and Enchanted,Rock,1992,Matador,https://img.wennermedia.com/920-width/rs-136956-0d2d43a0fd06acf874ba237df24fa9c3678f9ec5.jpg
+5wNitMGZs4mCBdbKFbzwzn,Greatest Hits,Rock,2002,MCA,https://img.wennermedia.com/920-width/rs-136957-b9dbb58356493c95cc471a2e2d69f0bd80f16868.jpg
+47arM25GJraK9aWEk4A1Ve,Tim,Rock,1985,Sire,https://img.wennermedia.com/920-width/rs-136958-fca34fadbbafc4a556232a5d7a249f717ab70b8b.jpg
+7Jvpj2ktrwZFwN7F41ANX9,The Chronic,Hip Hop,1992,Death Row,https://img.wennermedia.com/920-width/rs-136960-cd9cdff34a0d80df7074d683c5b266b910b8096c.jpg
+3OoFKxuziLv3B3NxhEJwOW,Rejuvenation,Funk / Soul,1974,Reprise,https://img.wennermedia.com/920-width/rs-136961-21e5174fa655499d6090b35ba8a1a98428afb8be.jpg
+5wc12ZsmXNIlppTmNFZFLU,Parallel Lines,"Electronic, Rock",1978-09-01,Chrysalis,https://img.wennermedia.com/920-width/rs-136962-5c8611e46309aa38800a1743947341dea1c582bb.jpg
+3Vp5uEx8koFke8NyfElrlD,Live at the Regal,Blues,1965,ABC,https://img.wennermedia.com/920-width/rs-136964-44c7484e5e780cc4f367838b07e04615432d3e16.jpg
+2kzkwgOFAtRsDsas5Hi0Qu,A Christmas Gift for You,"Rock, Funk / Soul, Pop",1963,Philles,https://img.wennermedia.com/920-width/rs-136966-c436d4eb58194c861107475b35e599e63ef5cf23.jpg
+1yBoaVrgcup2hX2DCYUajs,GRIS-Gris,"Jazz, Rock, Funk / Soul, Blues",1968,ATCO,https://img.wennermedia.com/920-width/rs-136968-3ef238fae7224a7c17198eb85a102889020ce202.jpg
+1X89FxTJxJfDGetf6u0vGm,Straight Outta Compton,Hip Hop,1988-08-08,Ruthless,https://img.wennermedia.com/920-width/rs-136970-ac105c4e3e6a73f6289579b17b7a17f84b127f48.jpg
+5Zxv8bCtxjz11jjypNdkEa,Aja,"Jazz, Rock",1977-01-01,ABC,https://img.wennermedia.com/920-width/rs-136972-adca3ede95e7cbe50e9c06c660b940632827ec56.jpg
+6lPb7Eoon6QPbscWbMsk6a,Surrealistic Pillow,Rock,1967,RCA,https://img.wennermedia.com/920-width/rs-136973-c95d17d91b5bb68e83bc51ce3461537b8e9e9645.jpg
+5bHkK1X4WEOzNvRhehvOcb,Deja vu,Rock,1970-03-11,Atlantic,https://img.wennermedia.com/920-width/rs-136974-a269b69452cce5e2da99c774b99f482a2e2b9bc5.jpg
+7gS8ozSkvPW3VBPLnXOZ7S,Houses of the Holy,Rock,1973-03-28,Atlantic,https://img.wennermedia.com/920-width/rs-137067-641116c1e4684ff5d9e7388111c81e45a38d6e23.jpg
+6FbFvnlSfEoNhwz5MdK0Dx,Santana,"Rock, Latin, Funk / Soul",2007-09-25,Columbia,https://img.wennermedia.com/920-width/rs-136977-f8de33bd808ef6916df5f600d1b531c4183a24b8.jpg
+4KT6G8fj8EEIfsyr75hbgc,Darkness on the Edge of Town,Rock,1978-06-02,Columbia,https://img.wennermedia.com/920-width/rs-136979-bace58ad06cfbbb2807f088520db227434da0055.jpg
+6ZB8qaR9JNuS0Q0bG1nbcH,Funeral,Rock,2004,Merge,https://img.wennermedia.com/920-width/rs-136980-5343d2b30b06e311af390a3829caf34d135d376f.jpg
+1b33bptQvk6mrSw2kZ6wsp,The B-52's,"Electronic, Rock, Pop",2017-02-03,Warner Bros.,https://img.wennermedia.com/920-width/rs-136983-7a6f091f8960439498a814bf708c863f9d50fc4b.jpg
+1p12OAWwudgMqfMzjMvl2a,The Low End Theory,Hip Hop,1991-09-24,Jive,https://img.wennermedia.com/920-width/rs-136986-4f01e5c3e610dd7203a79b40c8473bec50fac412.jpg
+0Up484rAboIROlHnBvFIZj,Moanin' in the Moonlight,Blues,1958-01-01,Chess,https://img.wennermedia.com/920-width/rs-136988-add682f521b995c3a37cd1a63f8de6d9ed76cdee.jpg
+2tgDSklp6SCQhvOaNlfnWy,Pretenders,Rock,2015-10-12,Sire,https://img.wennermedia.com/920-width/rs-136990-4c2a4e14a210f722f564828d1283cbb5edfb8937.jpg
+1kmyirVya5fRxdjsPFDM05,Paul's Boutique,"Hip Hop, Rock, Funk / Soul",1989-07-25,Capitol,https://img.wennermedia.com/920-width/rs-136992-d1b604b7c3629c94ea412bd54a9a9ef2df0c60d5.jpg
+4kT3ewGWBRAOlocyVp03bm,Closer,Rock,1980,Factory,https://img.wennermedia.com/920-width/rs-136993-dbd6ecb3421a67a4cdc2411ea62f1dda9ae1524f.jpg
+2TMYlsU9a7v5Z0fXkmrlJC,Captain Fantastic and the Brown Dirt Cowboy,Rock,1975-05-19,MCA,https://img.wennermedia.com/920-width/rs-136994-ec7bcffc88dd8cf9e62108eb1d4572e187180e13.jpg
+1amAo0xUABmNBclEBCPmgQ,Alive!,Rock,2003-07-22,Casablanca,https://img.wennermedia.com/920-width/rs-136995-e176bd50a0dbe730c390f3e918371b9337c34c42.jpg
+6hPt04r4KtO00nwhdGJ8Ox,Electric Warrior,Rock,1971-09-24,Reprise,https://img.wennermedia.com/920-width/rs-136996-03ea80b452a2ff1119b77ae12163240dee8128a3.jpg
+03HMOcANauhLD0WNrMkmLU,The Dock of the Bay,Funk / Soul,1968,Atlantic,https://img.wennermedia.com/920-width/rs-136997-a66d2173f0da4ba69a1614b7642468abdc151b69.jpg
+7dxKtc08dYeRVHt3p9CZJn,OK Computer,"Electronic, Rock",1997-05-28,Capitol,https://img.wennermedia.com/920-width/rs-136998-89fbef0a78eb3ca4cd34933c7b87ce21980a0a76.jpg
+3U1ht9EdWEI9nMvaqdQI67,1999,"Funk / Soul, Pop",1982-10-27,Warner Bros.,https://img.wennermedia.com/920-width/rs-136999-fc7ea1216fedc9d712bb18b7a1b1fa3f94b81ee1.jpg
+2,The Very Best of Linda Ronstadt,"Rock, Pop",2002,Rhino,https://img.wennermedia.com/920-width/rs-137000-6998c82d0b50b7cb6920512f4dd4bd41bdfd380d.jpg
+6RgX6mXKrsJYgGpX5K2JQJ,Let's Get It On,Funk / Soul,1973-08-28,Motown,https://img.wennermedia.com/920-width/rs-137001-ea2dbb71c177de9aaa11ecc2a03c190c1e3f960c.jpg
+6Iyeo7CPHen8QEW4x31TpI,Imperial Bedroom,Rock,1982,Chess,https://img.wennermedia.com/920-width/rs-137002-7f164cbcaf8beb57da58539db514d3cddb2151c8.jpg
+0cmQxbV8TsbNshzBjfCAO5,Master of Puppets,Rock,1986-03-03,Elektra,https://img.wennermedia.com/920-width/rs-137003-3e0b377899b1e58701ea6a80c0e4225d0a2b2eb7.jpg
+1TW8o6uO3kHILvs9XW4mYn,My Aim Is True,Rock,1977,Columbia,https://img.wennermedia.com/920-width/rs-137004-20986a045e5f7266ee13b1db2109c8dab4aa445a.jpg
+3q8y9MBuOdOzwJb8QJfwBG,Exodus,Reggae,1977-01-01,Island,https://img.wennermedia.com/920-width/rs-137005-8d7182b68d355cd094f49438fc03c2e0c8fa6d95.jpg
+1jVqTEHG1Fq8xZKcTnNAL7,Live at Leeds,Rock,1970-05-16,Decca,https://img.wennermedia.com/920-width/rs-137006-e1ce35e0d71564006aba92cb207f464ceb05f0e6.jpg
+5UI2X5VAmgu9xrlXDd5U7B,The Notorious Byrd Brothers,Rock,1968-01-15,Columbia,https://img.wennermedia.com/920-width/rs-137007-f2f8eab73c27a5aee6945f783d85ff0f45f7cf95.jpg
+4h1e47X26VQHXCjNZZ5P3v,Every Picture Tells a Story,Rock,1971-01-01,Mercury,https://img.wennermedia.com/920-width/rs-137008-3aff0ca6dcb9e1514ed531f344123ef903f08df9.jpg
+3zNPrWuTPDQeqdj2Y8UjO1,Something/Anything?,Rock,1972,Bearsville,https://img.wennermedia.com/920-width/rs-137009-cdbd58d4ba8bce384d4289bacd656033e44f8291.jpg
+1T8usYsiGEMPMQOLFgJEbE,Desire,Rock,1976-01-16,Columbia,https://img.wennermedia.com/920-width/rs-137010-ab8670ecec420e5b91896c22d1b767f91c076f9e.jpg
+5z8MFnoVUIfVo6MQW0uIul,Close to You,"Rock, Pop",1970-01-01,A&M,https://img.wennermedia.com/920-width/rs-137068-826f397847f039ba624bb3caf1f54cad76506172.jpg
+5Uv5LmSKTT9okGkr3l9MjR,Rocks,Rock,1976,Columbia,https://img.wennermedia.com/920-width/rs-137069-ed3f8f0c0cc2c464043de047797ddf657deb565c.jpg
+1ymHE8ItOGthDlfQmqVKEQ,One Nation Under a Groove,Funk / Soul,1978,Warner Bros.,https://img.wennermedia.com/920-width/rs-137070-fc31c04cba57f0ec09d6c691cfd918f40cc13f1e.jpg
+0C6RxurbbsaoTUIsHi9JCR,The Anthology 1961-1977,Funk / Soul,1992-01-01,MCA,https://img.wennermedia.com/920-width/rs-137071-2f8ddd2b510fd607e58385da76eafb58876f50e9.jpg
+3G2E1pEwxFBOnjsrpgy39f,The Definitive Collection,"Electronic, Pop",2001-10-29,Universal,https://img.wennermedia.com/920-width/rs-137072-9648298a147c9ddfe65d5a196beb92223816ebd5.jpg
+6CNXUyFKuhAjKIDsV3m6kZ,"The Rolling Stones, Now!","Rock, Blues, Pop",1965-02-13,London,https://img.wennermedia.com/920-width/rs-137073-f3c63567387f2cea2fc6aaa764ba98ccf63a3962.jpg
+2fUrVWDYASjthLVsVH53zP,Natty Dread,Reggae,1974,Island,https://img.wennermedia.com/920-width/rs-137074-7fec3e453c2fffb0e8de364d17a3910b655efc63.jpg
+5VIQ3VaAoRKOEpJ0fewdvo,Fleetwood Mac,"Rock, Pop",1975-07-11,Reprise,https://img.wennermedia.com/920-width/rs-137075-2fa87cff28334ae1dc3b123239844e0de7df7e6f.jpg
+5aEtg4dxdBk4pj6SJ3hNsM,Red Headed Stranger,"Folk, World, Country",1975, Columbia,https://img.wennermedia.com/920-width/rs-137076-1c7a3ec602053fb3d9dd9f543b6b0c3ed405464a.jpg
+5MzwGwnO9gkh0z6Nl4FF8h,The Immaculate Collection,"Electronic, Pop",1990-11-09,Sire / Warner Bros.,https://img.wennermedia.com/920-width/rs-137077-f36997c31775158de4d2177a604e7b40c14dad97.jpg
+3MANoCcmaHWeXSuWiO3iVo,The Stooges,Rock,1969-08-05,Elektra,https://img.wennermedia.com/920-width/rs-137078-c7d3159a43ea8f8dd5dc1606db030325f157d95a.jpg
+5Mtnj5JyvyXR6ui377dBnD,Fresh,Funk / Soul,1973-06-30,Epic,https://img.wennermedia.com/920-width/rs-137079-51029f1f69c6cf97a9723fa2364cfa48969b6266.jpg
+0sozfhkNTSDCVxhicblcsq,So,"Electronic, Rock, Funk / Soul, Pop",1986-05-19,Geffen,https://img.wennermedia.com/920-width/rs-137080-c514c0ee0516ee5c8c4c2be8ec3c7b127d9ac4b0.jpg
+7hez8jibf36E66GHpFkWz7,Buffalo Springfield Again,"Rock, Pop",1967-10-30,ATCO,https://img.wennermedia.com/920-width/rs-137081-f237e262cb972b3c83464d81a2025a2fdf02c583.jpg
+7d9IZA5hVMlRqkRszYt66r,Happy Trails,Rock,1969,Capitol,https://img.wennermedia.com/920-width/rs-137189-2aa18d0ae7b3279f15347ce7e2f00b7c051bc14e.jpg
+3ekkFrfotMsEAKc5g71GHk,From Elvis in Memphis,"Rock, Funk / Soul, Folk, World, Country",1969,RCA Victor,https://img.wennermedia.com/920-width/rs-137190-5edf00a082efe3ef23c1385bc10079a82d268c75.jpg
+5hBbiVCgSQ68JfWE3UAwf3,Fun House,Rock,2005-08-23,Elektra,https://img.wennermedia.com/920-width/rs-137191-72ab0de08f21bb55ef5f4dff665cf842cab0b3ac.jpg
+458qVQOFggPjukgycsQRX7,The Gilded Palace of Sin,"Rock, Folk, World, Country",1969-02-06,A&M,https://img.wennermedia.com/920-width/rs-137192-f6d253766c32fd44f7f17737334e6b32a92a8e50.jpg
+4uG8q3GPuWHQlRbswMIRS6,Dookie,Rock,1994-02-01,Reprise,https://img.wennermedia.com/920-width/rs-137193-1a86a16c15d4687ce36f84aee7ba5a42fa75ccb6.jpg
+5SqbMEyAt8332ISGiLX0St,Transformer,Rock,1972-12-01,RCA,https://img.wennermedia.com/920-width/rs-137194-b382fe62cef6d8fa7a57f04bf89413db4c5de90e.jpg
+4qGQRl6l2AjgZePqnC6jFX,Blues Breakers,"Rock, Blues",1966-07-22,London,https://img.wennermedia.com/920-width/rs-137195-7f5ad31d9aa00cfbd3d73742a2acaaaf63949163.jpg
+3,Nuggets: Original Artyfacts From the First Psychedelic Er,Rock,1998,Elektra,https://img.wennermedia.com/920-width/rs-137196-5cab807202a546622c0d7cfb5c0c969ed1ef287a.jpg
+33XZTGUv8p3Cl3KYwZQ2VH,Murmur,Rock,1983-04-12,I.R.S.,https://img.wennermedia.com/920-width/rs-137197-30aaeebf53eda57967c29512e6448d02ea6bdab8.jpg
+3lmXsm1dVoB79uF6L6phid,The Best Of,Blues,1997-01-01,Chess,https://img.wennermedia.com/920-width/rs-137198-ad523efecbf62caaf2a5d82e0a311ad3337a77f9.jpg
+2yNaksHgeMQM9Quse463b5,Is This It,Rock,2001-07-25,RCA,https://img.wennermedia.com/920-width/rs-136763-5c9c3c6f4f8da14e4e6bf24a4f0a522618eb15e0.jpg
+10v912xgTZbjAtYfyKWJCS,Highway to Hell,Rock,1979-07-27,Atlantic,https://img.wennermedia.com/920-width/rs-137199-5ad7acae2ccc56922fc6b6711ac703caf706aab3.jpg
+4OJNzJQ209FcLJg2CLz5mf,The Downward Spiral,"Electronic, Rock",1994-01-01,Nothing / Interscope,https://img.wennermedia.com/920-width/rs-137200-9d6e9604c257bcc20d49ffc9548cd63a9199ee3f.jpg
+5dqFVDJ9lPRBCqEzufd8sF,"Parsley, Sage, Rosemary and Thyme","Rock, Pop, Folk, World, Country",1966-10-10,Columbia,https://img.wennermedia.com/920-width/rs-137201-9759a4cb99234a160cf217e4b279e3d5ce27e82e.jpg
+24TAupSNVWSAHL0R7n71vm,Bad,"Funk / Soul, Pop",1987-08-31,Epic,https://img.wennermedia.com/920-width/rs-137202-a97b2991a5a2ae92ea3b798b24a32fb81d63d388.jpg
+6y2WHyqRUCeHrjMXvjnRmD,Modern Times,Rock,2006-08-29,Columbia,https://img.wennermedia.com/920-width/rs-137203-2cad69129f7e060e4f879af2421ae1df7531144d.jpg
+4M9csrFM1XVEpwMeYUBRmX,Wheels of Fire,"Rock, Blues",1968-07-01,Polydor,https://img.wennermedia.com/920-width/rs-137204-df0dc3068da42efa2b8933d40c4558eea7ffc7be.jpg
+3Cijd5OjHeWBm97DsPHpgs,Dirty Mind,Funk / Soul,1980-10-08,Warner Bros.,https://img.wennermedia.com/920-width/rs-137205-c968ace333b274deeed7e7652b22181e5ee3c798.jpg
+1CHUXwuge9A7L2KiA3vnR6,Abraxas,"Rock, Latin",1970,Columbia,https://img.wennermedia.com/920-width/rs-137206-c9c34c7d8f0c291ca067506a3d8baecc89274a77.jpg
+6lmjLgTFMevnJVif0iwfDi,Tea for the Tillerman,"Rock, Stage & Screen",1970-11-23,A&M,https://img.wennermedia.com/920-width/rs-137207-42563253e6ef248fca9b0bc4cc928083538231af.jpg
+5B4PYA7wNN4WdEXdIJu58a,Ten,Rock,1991-08-27,Epic,https://img.wennermedia.com/920-width/rs-137208-57cc70aef9c387904d3f9e0492979c9bf4938a73.jpg
+70Yl2w1p00whfnC7fj94ox,Everybody Knows This Is Nowhere,Rock,1969-05-14,Reprise,https://img.wennermedia.com/920-width/rs-137209-98b310386437c0cced4f0b63108501c26f7b5973.jpg
+6uvBKDGlJAYLH5Vy6RQVsc,Wish You Were Here,Rock,1975-09-12,Columbia,https://img.wennermedia.com/920-width/rs-137210-5616923efa1a95975da080a67752021ac1b8aaea.jpg
+52fgw2MqRIPQMLxRi7dWZl,Crooked Rain Crooked Rain,Rock,1994,Matador,https://img.wennermedia.com/920-width/rs-137211-822fa826c6df519feb25c36853bd0a7badcea999.jpg
+1YvnuYGlblQ5vLnOhaZzpn,Tattoo You,Rock,1981-08-24,Virgin,https://img.wennermedia.com/920-width/rs-137188-1328aa8bc9d4eb484d1453db939bd6dc42b11af6.jpg
+2UCdfQEDgzWtbzpaD4Mo47,Proud Mary: The Best of Ike and Tina Turner,Funk / Soul,1991-03-18,EMI,https://img.wennermedia.com/920-width/rs-137187-c0513b6c65f222b951c5e7028339d2c8c5ba850d.jpg
+7brYayd20fiMrCiVwlidRI,New York Dolls,Rock,1973-01-01,Mercury,https://img.wennermedia.com/920-width/rs-137186-e50229cead5e19d8fa5f801017371d065ebf622a.jpg
+0dneVriSJk88kwnkFEdiqo,Bo Diddley/Go Bo Diddley,"Rock, Blues",1986-01-01,MCA,https://img.wennermedia.com/920-width/rs-137185-23a6886ba0ebb4d79673624c6afd739520399e6d.jpg
+4FN5iIf8OUR9v35hjjcB6i,Two Steps From the Blues,"Funk / Soul, Blues",2001-01-01,Duke,https://img.wennermedia.com/920-width/rs-137184-b808d4745b09589397a0dc0af138173999a0043c.jpg
+5Y0p2XCgRRIjna91aQE8q7,The Queen Is Dead,"Rock, Pop",1986,Sire / Rough Trade,https://img.wennermedia.com/920-width/rs-137183-c4e71e16346110ed60d7a40efbc970336cb4a81b.jpg
+11oR0ZuqB3ucZwb5TGbZxb,License to Ill,Hip Hop,1986-11-15,Def Jam,https://img.wennermedia.com/920-width/rs-137182-be2aada48a74d440667291a694c0e66626e2e849.jpg
+6mGpQtwteyjKS4Up9tXuND,Look-Ka Py Py,Funk / Soul,1970,Josie,https://img.wennermedia.com/920-width/rs-137181-39218fdb60c61789aa0f41a23a3141db7a817b48.jpg
+20YQiWvyD8Yi7Xge7ukVrm,Loveless,Rock,1991-11-04,Sire,https://img.wennermedia.com/920-width/my-bloody-valentine-loveless-cover-3e79b904-6e0d-4a74-ad82-28a6afa8f858.jpg
+4vQc378UGRZAaJemArhMpv,New Orleans Piano,"Funk / Soul, Blues",1972,Atlantic,https://img.wennermedia.com/920-width/rs-137179-8d44944bbcc158675cde8148e3830d8fe3b0f40d.jpg
+2jVgzuKDPUnFzgtkAIzdZo,War,Rock,1983-02-28,Island,https://img.wennermedia.com/920-width/rs-137178-88deed8e0c556bcd1f11b03f5fe955b2745cd539.jpg
+6WJ1KpGCziYfCKFr5aRCe0,The Neil Diamond Collection,"Rock, Pop",1999,MCA,https://img.wennermedia.com/920-width/rs-137177-9a6f9cc6718608142dc7ed89d21d4fee3cd64c2e.jpg
+5dN7F9DV0Qg1XRdIgW8rke,American Idiot,Rock,2004-09-21,Reprise,https://img.wennermedia.com/920-width/rs-137176-f4d84a32a2d245213e1d10336ff92436358c501e.jpg
+6yskFQZNlLYhkchAxELHi6,Nebraska,Rock,1982,Columbia,https://img.wennermedia.com/920-width/rs-137175-3aa14a4e1021a9f5ce6ddab868dc132d5a2f2b33.jpg
+6ymZBbRSmzAvoSGmwAFoxm,Doolittle,Rock,1989-04-17,4AD / Elektra,https://img.wennermedia.com/920-width/rs-137174-696d41503fd5713db781bb51bbcd5f2e323b0044.jpg
+5GSidytcItIkYvD0GVQ68m,Paid in Full,Hip Hop,1987,4th and Broadway / Island,https://img.wennermedia.com/920-width/rs-137173-0ca495502e690095dca8623f3694d1b5c57cf09c.jpg
+36IxIOGEBAXVozDSiVs09B,Toys in the Attic,Rock,1975,Columbia,https://img.wennermedia.com/920-width/rs-137172-deabd8133b00f4b6fa41e24210c16823302ec03d.jpg
+6wxpS5o0ty5CLqyH5fIRln,Nick of Time,"Rock, Pop",1989,Capitol,https://img.wennermedia.com/920-width/rs-137171-cf1ad16e8540d7d7d8583179a1630bf20aeb5e41.jpg
+1TSZDcvlPtAnekTaItI3qO,A Night at the Opera,Rock,1975-11-21,Elektra,https://img.wennermedia.com/920-width/rs-137170-a06e502b76d71130a7c2802037590b01519505a2.jpg
+4,The Kink Kronikles,Rock,1972,Reprise,https://img.wennermedia.com/920-width/rs-137169-c01e007f81474bb49a9191f067eecc267d44ac41.jpg
+0pkrqPjeq9K5KD0hFqAKNa,Mr. Tambourine Man,Rock,1965-06-21,Columbia,https://img.wennermedia.com/920-width/rs-137168-6988e4aead2b277a7e0554b03ad483875c056504.jpg
+3bzgbgiytguTDnwzflAZr2,Bookends,Rock,1968-04-03,Columbia,https://img.wennermedia.com/920-width/rs-137167-928bb33a8aa733d5fabcc6c66bbe8704827b0dd5.jpg
+1rKW8EB3mRIFqnVRo0Zcot,The Ultimate Collection,"Folk, World, Country",2000-10-17,UTV,https://img.wennermedia.com/920-width/rs-137166-f88abd6f48a3ab92d656884d045b9635a39149eb.jpg
+5,Mr. Excitement!,Funk / Soul,1992,Rhino,https://img.wennermedia.com/920-width/rs-137165-ae5633b52b6d34b3ef2e48cc0216b28f04e982a0.jpg
+4upv5ZjkKMIUBjFNthFQih,The Who Sings My Generation,Rock,1966-04-01,Decca,https://img.wennermedia.com/920-width/rs-137164-8dcc7d229827603559709d89ad4858b774da77f9.jpg
+7B0Nnfd4SiYFE7KzUDGHoT,Howlin' Wolf,Blues,1962-01-01,Chess,https://img.wennermedia.com/920-width/rs-137163-b1a0be14bad2bbb5e1e35e6487e657bbf8a9921e.jpg
+48AGkmM7iO4jrELRnNZGPV,Like a Prayer,"Electronic, Pop",1989-03-21,Sire,https://img.wennermedia.com/920-width/rs-137162-283c0cc163f5599f86c97484316bddbb4bde5592.jpg
+0J13gY691Jb1LEgAnLtJGD,Can't Buy a Thrill,Rock,1972-01-01,MCA,https://img.wennermedia.com/920-width/rs-137161-0764d9ed29f2dea208850e6fb1a176ef801e4e34.jpg
+4LwFCUyV4wM6SEg84PaLuL,Let It Be,Rock,1984,Twin / Tone,https://img.wennermedia.com/920-width/rs-137160-a3b8352a8ac12d482424f564271da2503d1ec52a.jpg
+05n0d2kfwGPhKpTonLHRpY,Run-D.M.C.,Hip Hop,1984-03-27,Profile,https://img.wennermedia.com/920-width/rs-137159-92abc912ee3fde246ac093cbf9b5d906f5184feb.jpg
+2T6jeELx5BqH4GMLObBy10,Black Sabbath,Rock,1970-02-13,Warner Bros.,https://img.wennermedia.com/920-width/rs-137158-213718676e5a54875d4e48bfe1da9de91a7a24a4.jpg
+5xifZlByZcZecgkP7sYSoW,The Marshall Mathers LP,Hip Hop,2000-05-23,Aftermath,https://img.wennermedia.com/920-width/rs-137157-40e08fde0c565650a2bc208974960d71dfeec2ef.jpg
+6,All Killer No Filler! The Jerry Lee Lewis Anthology,"Rock, Blues, Folk, World, Country",1993,Rhino,https://img.wennermedia.com/920-width/rs-137156-373e059300c1e4cde01c7e1d7d53124a87e63f73.jpg
+6qfS5de8GAy1G5tk7tyiof,Freak Out!,"Electronic, Rock",1966-06-27,Verve,https://img.wennermedia.com/920-width/rs-137155-aaa4b9dbc59d741375e942dbd7f3ccec3f6dabf2.jpg
+0uCGpoWFUppf95em9xkD20,Live Dead,Rock,2018-03-23,Warner Bros.,https://img.wennermedia.com/920-width/rs-137154-34f35c2fe196d291ae425f9ef6ec25736031dd37.jpg
+2iPH3iUmpa9ufIpwY76keF,The Shape of Jazz to Come,Jazz,1959,Atlantic,https://img.wennermedia.com/920-width/rs-137153-6fdf7b366410eb1442737a629e573119b7ae2969.jpg
+3ImeTxETbPlg8S6cFNlova,Automatic for the People,Rock,1992-10-05,Warner Bros.,https://img.wennermedia.com/920-width/rs-137152-dac5f9d5eda7e806047d3f8c04d1690ed6f485c5.jpg
+5lheTytGmdGaGlxzXu4uDY,Reasonable Doubt,Hip Hop,1997-02-24,Roc-A-Fella,https://img.wennermedia.com/920-width/rs-137151-f491a039f4a74515ae55e2db1a0a6d1e201dc6a9.jpg
+2de6LD7eOW8zrlorbS28na,Low,"Electronic, Rock",1977,RCA,https://img.wennermedia.com/920-width/rs-137150-d5f3dfde2e432f3096f0c155eee1a360ed27513a.jpg
+2RjKmaJhyiW1UvSCKIVJOp,The Blueprint,Hip Hop,2001-09-11,The Blueprint,https://img.wennermedia.com/920-width/rs-136683-e14b0f89cf479eb8da5db3d2ea15fcc6c0a68611.jpg
+6YNIEeDWqC09YIWzhoSVLg,The River,Rock,1980-01-01,Columbia,https://img.wennermedia.com/920-width/rs-137149-366c312375247c1b04b184e20855934a8df1abc4.jpg
+25uNcuL4dAoV62eKmr8Q0Y,Dictionary of Soul,Funk / Soul,1966-10-15,Volt,https://img.wennermedia.com/920-width/rs-137148-c059a250040668ee96d16602411685a34846c918.jpg
+3A4zAmE5c4dUAAqEJz6hCH,Metallica,Rock,1991-01-01,Elektra,https://img.wennermedia.com/920-width/rs-137147-a5b6a7deda60d004c776a40c7649cd31b837b09e.jpg
+0HHRIVjvBcnTepfeRVgS2f,Trans-Europe Express,Electronic,1977,Capitol,https://img.wennermedia.com/920-width/rs-137146-733e7a2b4446e981d036a63caf2cf7de51d44431.jpg
+5Vdzprr5cOqXQo44eHeV7t,Whitney Houston,"Funk / Soul, Pop",1987,Arista,https://img.wennermedia.com/920-width/rs-137145-49adbd2611a827725c3d4825ceec479e0ccb0ab2.jpg
+6pxKSfxMV0naEz8cw1RNqv,The Village Green Preservation Society,Rock,1968-11-22,Reprise,https://img.wennermedia.com/920-width/rs-137144-fae5871f88f0787651b2ebe1c8303afeb69d7558.jpg
+6ZANEjETQ9L9pjBuvOAhCQ,The Velvet Rope,"Electronic, Funk / Soul, Pop",1997-10-07,Virgin,https://img.wennermedia.com/920-width/rs-137143-c9104bb880785d4d9009b0d9b48d6723c8e420c8.jpg
+38uGoW7jS8jjJMvZA26sRq,Stardust,"Pop, Folk, World, Country",1978,Columbia,https://img.wennermedia.com/920-width/rs-137142-f16f858af7e91904db107c74ce4664bd37a579c8.jpg
+2UDDZVesmQwA4aYfa55diS,American Beauty,Rock,1970-06-01,Warner Bros.,https://img.wennermedia.com/920-width/rs-137141-cffd8a1aefca1b2772fba81402690e6f26067ad6.jpg
+6vUWpE8qciYHOhf7mgaGny,"Crosby, Stills & Nash","Rock, Folk, World, Country",1969-05-29,Atlantic,https://img.wennermedia.com/920-width/rs-137139-1fab6f85f603f1b9530a3f3a361ff25459ed5a6b.jpg
+6hmmX5UP4rIvOpGSaPerV8,Tracy Chapman,Rock,1988-01-01,Elektra,https://img.wennermedia.com/920-width/rs-137140-cd8268e7b96520a83fdeb0d36dd990d1e641c8bd.jpg
+4jxokHekH1qSad1DcC82ku,Workingman's Dead,Rock,1970,Warner Bros.,https://img.wennermedia.com/920-width/rs-137138-08264dc54f2fcfe2735b640823a84431ef6a6edf.jpg
+4GFWnwli2cVOBp2G1zqhV1,The Genius of Ray Charles,"Jazz, Pop",1959,Atlantic,https://img.wennermedia.com/920-width/rs-137137-f2a052c134f979b74b650c1c50ad7bb35307daf5.jpg
+0OhNZ7R4dOqtDPLGp0jBAZ,Child Is Father to the Man,Rock,1968-02,Columbia,https://img.wennermedia.com/920-width/rs-137136-1cd68790abc0e0c7344303b5e21c7f930565d58f.jpg
+62sEuMjUBIWtpeHzmvGpGQ,Quadrophenia,Rock,1973-10-19,MCA,https://img.wennermedia.com/920-width/rs-137135-c772d02b91c9f9d96fc2f194deac497e2c555d11.jpg
+7npBPiCHjPj8PVIGPuHXep,Paul Simon,Rock,1972-01-14,Columbia,https://img.wennermedia.com/920-width/rs-137134-50884d3fff031dd146a1625bab38bd00dfa1d99c.jpg
+2t1hVEwp82QebO7lq21Vto,Psychocandy,Rock,1985-11-18,Reprise,https://img.wennermedia.com/920-width/rs-137133-aa53e447aa3db9f3a8b57124f58839aa67dc1510.jpg
+54sqbAXxR1jFfyXb1WvrHK,Some Girls,Rock,1978-06-09,Rolling Stones,https://img.wennermedia.com/920-width/rs-137132-3f6d2901349be691e5e3954bebdcf945fa8a662f.jpg
+1xPtXzS5yCbDAqC7pxRCaF,The Beach Boys Today!,Rock,1965-03-08,Capitol,https://img.wennermedia.com/920-width/rs-137131-6bd88dcbf93095718cce48d75e76e1047007c1c7.jpg
+0nbA26khGDRROFRo7D90w0,Dig Me Out,Rock,1997,Kill Rock Stars,https://img.wennermedia.com/920-width/rs-137130-d5bb0902aa196dbbe212e30ae796bdaa36caf0c8.jpg
+44vQAruKA43qXJI1iiybOd,Going to a Go-Go,Funk / Soul,1965-01-01,Tamla,https://img.wennermedia.com/920-width/rs-137129-471adc6adf04ee4a2d78cf3bc6254f9028971d08.jpg
+5Zx4eUC5dTg6aufiSLQ6uo,Nightbirds,Funk / Soul,1974,Epic,https://img.wennermedia.com/920-width/rs-137128-ca5feb5e9907130b20ec88c9905edc9d82eebd91.jpg
+1S2zX2EzIJPkcptERhrkGh,The Slim Shady LP,Hip Hop,1999-01-01,Aftermath,https://img.wennermedia.com/920-width/rs-137127-8b4cbc3d4348242b64946d981f7ca09f7959812b.jpg
+0Nr3jirS2mbLRP1s3Fn11N,Mothership Connection,Funk / Soul,2003-01-01,Casablanca,https://img.wennermedia.com/920-width/rs-137126-c5604941cd959fe1954ef8227321f927e5bedd73.jpg
+4OD3LU6001esAtFshDX46M,Rhythm Nation 1814,"Electronic, Hip Hop, Pop",1989-09-19,A&M,https://img.wennermedia.com/920-width/rs-137125-907d9bcc53b0e610725e8ad5af63b83f1cb11a88.jpg
+7,Anthology of American Folk Music,"Blues, Folk, World, Country",1997,Folkways,https://img.wennermedia.com/920-width/rs-137124-88efd17762f6c895f466641ac456ed1f66ac5347.jpg
+3HZKOk1knxrUU3y5ZIOdbz,Aladdin Sane,Rock,1973-04-13,RCA,https://img.wennermedia.com/920-width/rs-137123-37af3e0c4e80dd918ca9ace19cd612fa62f1dc9f.jpg
+7a5U0GPoAvT3gvEY66FRuN,All That You Can't Leave Behind,Rock,2000-01-01,Interscope,https://img.wennermedia.com/920-width/rs-137122-0426ee36584969704e8b5934cd9f5cc5e463e9f7.jpg
+4jovLVRCu6H0Ce6NHR4eTZ,My Life,Hip Hop,1994,MCA,https://img.wennermedia.com/920-width/rs-137121-74e117929e9bbcaf195c08b9f85619b39908b10a.jpg
+5cLWh6nwcLUX2H4oGfW9Rx,Folk Singer,Blues,1964,Chess,https://img.wennermedia.com/920-width/rs-137120-e89d9808af9b8731335c902f6b9f247347eaa091.jpg
+5gI5tMow9fEMhFk5zXdrbY,Can't Get Enough,Funk / Soul,1974-01-01,20th Century,https://img.wennermedia.com/920-width/rs-137119-b9e3f7d1a08ea157c0c1a7d0f936a5836d67e6f0.jpg
+4tJPWT4r4FSKwy784Qs1Fq,The Cars,"Electronic, Rock",1978-06-06,Elektra,https://img.wennermedia.com/920-width/rs-137118-2c6baa2c235357b0ecc7b8d569d6a89ecb719010.jpg
+2MCX7reL7JSe8OqBoIWssA,Music of My Mind,Funk / Soul,1972-03-03,Tamla,https://img.wennermedia.com/920-width/rs-137117-2cad69129f7e060e4f879af2421ae1df7531144d.jpg
+7hI0QCwcx9GB8MZK24IfTT,I'm Still in Love With You,Funk / Soul,1972-10-23,Hi,https://img.wennermedia.com/920-width/rs-137105-7758a01921f4faa051902b83ce69cb25cdda8ba6.jpg
+4lgW2v8MOtBxyuQ7erHLgj,Los Angeles,Rock,1980-04-26,Slash,https://img.wennermedia.com/920-width/rs-137104-100850085af0de754732c8590e5dfe7f8f83d803.jpg
+4ZaIo647CyWAgow8oxqajh,Anthem of the Sun,Rock,1968,Warner Bros.,https://img.wennermedia.com/920-width/rs-137103-56178bfc050c470513b01b475dbb7b7057245d2e.jpg
+1gi5YyvjsDukmns8ESiVA0,Something Else by the Kinks,Rock,1967-09-15,Reprise,https://img.wennermedia.com/920-width/rs-137102-191d29afede686a0cb7110687760d6a62e16956d.jpg
+1hryVGXoRLV9WAhO97xEDJ,Call Me,Funk / Soul,2009,Hi,https://img.wennermedia.com/920-width/rs-137101-f0c0d4eddf3d74c2489388afca3544cf9a8cbf4d.jpg
+5eqcF7pWzHgWpGdEmHgeSN,Talking Heads: 77,Rock,1977-09-16,Sire,https://img.wennermedia.com/920-width/rs-137100-00902a438c105f822ab4880c767e9e9fddee826b.jpg
+6BOlD6UGUg45IsUXPSplkY,The Basement Tapes,Rock,1975-06-26,Columbia,https://img.wennermedia.com/920-width/rs-137099-d87e80ddb9903e4b5328a6135076215d1b1e61a6.jpg
+1LiJW9P04ZsMHux1obPGUq,White Light/White Heat,Rock,1968-01-30,Verve,https://img.wennermedia.com/920-width/rs-137098-812a226875c09c79cbc70ee1b6376a0c2737962f.jpg
+0kT4F2mSpvTk3stwiaEStp,Kick Out the Jams,Rock,1969,Elektra,https://img.wennermedia.com/920-width/rs-137097-0bbe27cc13c562d86f4cb7ea6c44dabc9d370f48.jpg
+2Om4oR7plGGub1aYe5uB7B,Songs of Love and Hate,"Folk, World, Country",1971-03-19,Columbia,https://img.wennermedia.com/920-width/rs-137096-86a3f3bb9740de18935dcb44838126437dae714f.jpg
+5DM1qCdgGt2zbknnsVn1Ca,Meat Is Murder,Rock,1985,Sire,https://img.wennermedia.com/920-width/rs-137095-bd954fb9e4c0b42cc1ad5639cb057e1ccb4bc709.jpg
+0L8n5dW0KfoNnLuYfyOFPg,We're Only in It for the Money,"Electronic, Rock",1968-05-04,Verve,https://img.wennermedia.com/920-width/rs-137094-0adb633d8d246de8f3814ca782a3158b4928a4e6.jpg
+1NRRN5RWwfuLmQdjshz0L7,The College Dropout,Hip Hop,2004-01-01,Roc-A-Fella,https://img.wennermedia.com/920-width/rs-137093-1b99c8dcba97db5d61c339d047cb4a7c478cf1bb.jpg
+2hDiTEsKePTnDcvKEuLizk,Weezer,Rock,2001-05-15,DGC,https://img.wennermedia.com/920-width/rs-137092-4a32eeb2b9b5a1826835965249982b7c1596d7b6.jpg
+3kBG6q0aXKxzn01wKTwZr5,Master of Reality,Rock,1971-07-21,Warner Bros.,https://img.wennermedia.com/920-width/rs-137091-473edff6fecaf2247d1e8abd564c5bd43919cf8e.jpg
+17CT6ru3CyDXAi6xVaSUzg,Coat of Many Colors,"Folk, World, Country",1971,RCA Victor,https://img.wennermedia.com/920-width/rs-137090-07c0fc1a32777459d688a91e4b119e09a4567e4f.jpg
+0QNPblZ1LIHTKja8pvHauW,Fear of a Black Planet,Hip Hop,1990-04-10,Def Jam,https://img.wennermedia.com/920-width/rs-137089-bdf51aba1d7ed043c7ce6fd7886a760537018859.jpg
+2KzCDxKpgLqBffHu1IZ7Kn,John Wesley Harding,Rock,1967-12-27,Columbia,https://img.wennermedia.com/920-width/rs-137088-c082c593392308e286e68b1f1a8130b732b0e1fb.jpg
+07Fr36M0hRPJrSJMFWGnvD,Grace,Rock,1994,Columbia,https://img.wennermedia.com/920-width/rs-137087-8e43cf7dfe33960c8b4b5611e126526e250025ab.jpg
+7BRob3Gr6uoXyEkvBdk8LK,Car Wheels on a Gravel Road,"Folk, World, Country",1998-01-01,Mercury,https://img.wennermedia.com/920-width/rs-137086-33ac9e7a3254dcfd26fc236670255f9a3c1e8dc2.jpg
+3PpTsdpZmaLUh6RvViu9G7,Odelay,"Electronic, Hip Hop, Funk / Soul, Pop",1996-01-01,DGC,https://img.wennermedia.com/920-width/rs-137085-bd86f3d05ed38fc4ae4ea425c8577bcc748a0bd5.jpg
+71Mwd9tntFQYUk4k2DwA0D,A Hard Day's Night,"Rock, Stage & Screen",1964-07-10,Parlophone,https://img.wennermedia.com/920-width/rs-136746-6e5c3ad5db903eaa7700e4b1783f45e1a226ecd4.jpg
+4kca7vXd1Wo5GE2DMafvMc,Songs for Swingin' Lovers!,"Jazz, Pop",1956-03,Capitol,https://img.wennermedia.com/920-width/rs-137084-66f036bbce97f7103a6678431288837eafbbdd22.jpg
+4ePaYyKlg5pmQFkLu7TwV7,Willy and the Poor Boys,Rock,1969-11-02,Fantasy,https://img.wennermedia.com/920-width/rs-136742-cdd78a507f2f5f195bbe5c1e4ff0e6decd7d7a6d.jpg
+30Perjew8HyGkdSmqguYyg,Blood Sugar Sex Magik,Rock,1991-09-24,Warner Bros.,https://img.wennermedia.com/920-width/rs-137083-2788f292b719280e7bae5068f6c945748f38efa0.jpg
+64vVYlbc3RYJoSxvl0aBGP,The Sun Records Collection,"Rock, Funk / Soul, Blues, Pop, Folk, World, Country",2007,Rhino / RCA,https://img.wennermedia.com/920-width/rs-137082-33ddcee01ff6cf9b392777c439f070aa80918948.jpg
+4DVBJPJyizvHfJQt5pYaCa,Nothing's Shocking,Rock,1988-08-23,Warner Bros.,https://img.wennermedia.com/920-width/rs-137040-76cf0240139299cded020f3f0ce00e9509e60ed4.jpg
+5pbjLidJuoty9QUOy6X682,Unplugged,Rock,1994-11-01,Geffen,https://img.wennermedia.com/920-width/rs-137041-c9b48b0ba2092f8bb49c7190e90cf54da87cb409.jpg
+1BZoqf8Zje5nGdwZhOjAtD,The Miseducation of Lauryn Hill,Hip Hop,1998-08-25,Ruffhouse,https://img.wennermedia.com/920-width/rs-137042-e204a7d0ec7f1b48ee818f3d20ae97a4e4cd1fb5.jpg
+2rfEqP6M51YN18YqqJZOv7,Damn the Torpedoes,Rock,1979-10-19,Backstreet,https://img.wennermedia.com/920-width/rs-137043-e720e2ab97e6a906d10cd48c14ba0d4bddb8f7ac.jpg
+6yL4IBWtYZZsYU0GboC1MN,The Velvet Underground,Rock,1969-03,MGM,https://img.wennermedia.com/920-width/rs-137044-2d5d8aba024aef2b982eba694497142d9c9da4cb.jpg
+2l7RPWC3E6eStJJLBsUeCI,Surfer Rosa,Rock,1988,4AD / Elektra,https://img.wennermedia.com/920-width/rs-137045-80d6bb5106dc0670120c06ac6e808f78ceb1b74c.jpg
+09jTPeDoSuJLLAwFGNUKCX,Back Stabbers,Funk / Soul,1972,Philadelphia International,https://img.wennermedia.com/920-width/rs-137046-7d85815107309d7f4c4f3304d450ba43c6bb23a8.jpg
+6axWF6fhMuB7pXAUONbGLE,Burnin' ,Reggae,2001-01-01,Island,https://img.wennermedia.com/920-width/rs-137047-0e962d1d840dd9afce49cfd5a3330a333efa8068.jpg
+6V9YnBmFjWmXCBaUVRCVXP,Amnesiac,"Electronic, Rock",2001-03-12,Capitol,https://img.wennermedia.com/920-width/rs-137048-2391a7040c74d817c932baf081b5a44e4f67ef6e.jpg
+6LoD5uGEynY4eqstWDFKhg,Pink Moon,"Rock, Folk, World, Country",1972-01-01,Island,https://img.wennermedia.com/920-width/rs-137049-b93a0f0b8c81e527a4f00d7bb6042f82e83f3d44.jpg
+7ojNQckNp7Tj2BkLJCiiUL,Sail Away,"Rock, Pop",2002-05-21,Reprise,https://img.wennermedia.com/920-width/rs-137050-67ca9fac857ebe429f076a2814ddccd157266213.jpg
+5ghoXlpcDLKp3QNC2mzZ8A,Ghost in the Machine,"Rock, Pop",1981-10-02,A&M,https://img.wennermedia.com/920-width/rs-137051-3c124fb81356cc6739b0c0c374d742e3a4a42472.jpg
+0MWrKayUshRuT8maG4ZAOU,Station to Station,"Rock, Funk / Soul",1976-01-23,RCA,https://img.wennermedia.com/920-width/rs-137052-351ff161424883f85c4db9fa80e56888d3cd77d3.jpg
+0GBrlPh90D25SQ6EJu4VtT,Slowhand,Rock,1977-11-01,RSO,https://img.wennermedia.com/920-width/rs-137053-92b3c1b8ac077ed9e729bbaf598332a9857d73b2.jpg
+0H6TddUF2M63ZSHGvhk5yy,Disintegration,"Electronic, Rock",1989-05-02,Elektra,https://img.wennermedia.com/920-width/rs-137054-eb2d0bbfc8b18d9536b1abc2c972b981693df4db.jpg
+444zYF83XQOTXmjke2JWU9,Exile in Guyville,Rock,1993,Matador,https://img.wennermedia.com/920-width/rs-137055-a6f7b945ff985fd7f33e6a70305cdc4a3c1adf29.jpg
+23O4F21GDWiGd33tFN3ZgI,Daydream Nation,Rock,1988-10-04,Enigma,https://img.wennermedia.com/920-width/rs-137056-d232b6e969cf4d23ed65348ac85265211da278ac.jpg
+4rDgGYwCXgBguihVP5poOy,In the Jungle Groove,Funk / Soul,1986-01-01,Polydor,https://img.wennermedia.com/920-width/rs-137057-d416392d008066e8b937afcf1b1189c60e13cd33.jpg
+6NYc3Yc0ChuyYWLlOoTT6n,Tonight's the Night,Rock,2018-04-21,Reprise,https://img.wennermedia.com/920-width/rs-137058-af69cbf1e44c4d4809ff12b8ce8bbc13f64361ed.jpg
+19K3IHYeVkUTjcBHGfbCOi,Help!,"Rock, Stage & Screen",1965-08-06,Capitol,https://img.wennermedia.com/920-width/rs-137059-fed5e932be924acebe1af07120b149e7ca68b91d.jpg
+4xX94uM6Kf972DJurGKnbb,Shoot Out the Lights,"Rock, Folk, World, Country",1982,Hannibal,https://img.wennermedia.com/920-width/rs-137060-8509b66fd540b93e7bac5b8febc7bfcf553e00e1.jpg
+6a3a1We83O9GOK6S4EyqiP,Wild Gift,Rock,1981-05-01,Slash,https://img.wennermedia.com/920-width/rs-137061-de29cc0bf00adde9dfda8038ce2a89c62ba44dd9.jpg
+4I8omVNWbar9OC5SjTkseK,Squeezing Out Sparks,"Rock, Blues",1979-01-01,Arista,https://img.wennermedia.com/920-width/rs-137062-bf6b6d453df24c802f8e50068f7f997f51aec34f.jpg
+4ePl0meknOkJ892O9yszEY,Superunknown,Rock,1994-03-09,A&M,https://img.wennermedia.com/920-width/rs-137063-5a7da984eb6de40bf549cb422860cb8cdb49bc9f.jpg
+7eyQXxuf2nGj9d2367Gi5f,In Rainbows,"Electronic, Rock",2007-12-28,Self-released,https://img.wennermedia.com/920-width/rs-137064-d685efa5b778b2c19f76ed7fc97024a829c9f7ce.jpg
+0NGM3Ftwjw0dLNpAowmz3x,Aqualung,Rock,1971-03-19,Chrysalis,https://img.wennermedia.com/920-width/rs-137065-efaec9b9cc50a0fee84c31b8f4abfb92bbb9f9d9.jpg
+2rogKfOpmCFuqNhtGKf2dX,Cheap Thrills,Rock,1968-08-12,CBS,https://img.wennermedia.com/920-width/rs-137066-6c93f52ce8772d6deb5765af41f01367800704f2.jpg
+2fnWxy7UoIazBiewjgchvm,The Heart of Saturday Night,"Jazz, Pop, Folk, World, Country",1974-10-15,Asylum,https://img.wennermedia.com/920-width/rs-137022-497cd6fd5882f193c39336de6171cb62a19fbd52.jpg
+34aFnrFRBlErcbU6moRZR3,Damaged,Rock,1981,SST,https://img.wennermedia.com/920-width/rs-137023-f5cf0d9d0a640f67b23548429e9c612795d55eed.jpg
+1xB1tmm50ZhXwrNs89u7Jx,Play,Electronic,1999-05-17,V2,https://img.wennermedia.com/920-width/rs-137024-fb630e34d1a830646ecb43897b508c704522c0f6.jpg
+0Tg76MY2wNK4j37iCb6qyH,Violator,Electronic,1990,Sire,https://img.wennermedia.com/920-width/rs-137025-db8694845154db647271230401c11533470dde4b.jpg
+6mvI80w5r78niBmwtu7RF9,Bat Out of Hell,Rock,1977,Epic,https://img.wennermedia.com/920-width/rs-137026-f1b6703be10a9b0d6aa50c0a36c270abc7ffffd7.jpg
+4iaDgkP0M6ahEHrBynAFei,Berlin,Rock,1973-07-01,RCA,https://img.wennermedia.com/920-width/rs-137027-386e1e7b0d919ff9546182b6985c878abb49d5d6.jpg
+4FR8Z6TvIsC56NLyNomNRE,Stop Making Sense,"Rock, Funk / Soul",1984,Sire,https://img.wennermedia.com/920-width/rs-137028-857c37b98c404e1b5d1b7c8dbe118e52aa354a59.jpg
+8,3 Feet High and Rising,Hip Hop,1989,Tommy Boy,https://img.wennermedia.com/920-width/rs-137029-82071ba43ef5893b11e5d3ca72d278f245ba1d19.jpg
+0Fke5eiQ6lszQHlwiFygqn,The Piper at the Gates of Dawn,Rock,1967-08-05,Tower,https://img.wennermedia.com/920-width/rs-137030-286dcc9a1b775c7fb167c778cd993b07e3a261bc.jpg
+0kDWc46IZOmh5nF7h8ZKue,At Newport 1960,"Rock, Blues",1960-01-01,Chess,https://img.wennermedia.com/920-width/rs-137031-334ebe654d7f14c902c0d59e6ed108083afcbd21.jpg
+4FWvo9oS4gRgHtAwDwUjiO,The Black Album,Hip Hop,2003-01-01,Roc-A-Fella,https://img.wennermedia.com/920-width/rs-137032-31ad7ad106b8bf768507532f83154096de5f8c3e.jpg
+3s6wTRMDispMa4gCd26FPc,Roger the Engineer,"Rock, Blues",1966-07-15,Epic,https://img.wennermedia.com/920-width/rs-137033-43df32bc9de636bde47e5352bf6263c02f6be512.jpg
+2QqocFdpBkxOBLcIRo6UuJ,Rust Never Sleeps,Rock,1979-06-27,Reprise,https://img.wennermedia.com/920-width/rs-137034-55152a2702cc9634cf7820e629f4c8e4cd432b0c.jpg
+1NF8WUbdC632SIwixiWrLh,Brothers in Arms,Rock,1985-05-13,Warner Bros.,https://img.wennermedia.com/920-width/rs-137035-3f43d3a4d193d7990a6e3980a2574ab5d8b791c7.jpg
+6LBiuhK7PZKjVXyMfPxPoh,My Beautiful Dark Twisted Fantasy,Hip Hop,2010-01-01,Def Jam / Roc-A-Fella,https://img.wennermedia.com/920-width/rs-137036-e8b8728a681904cc2ae44662f645562dbc37cfdb.jpg
+1HmCO8VK98AU6EXPOjGYyI,52nd Street,"Jazz, Rock, Pop",1978,Columbia,https://img.wennermedia.com/920-width/rs-137037-dbe90ed210b2cfe577afff4a231fcec06eb1233d.jpg
+9,Having a Rave Up With the Yardbirds,Rock,1965,Epic,https://img.wennermedia.com/920-width/rs-137038-ab0d5fbfdc77b40a24122ccb199f3a9248b3391a.jpg
+3HhJGNadZnFCkAYrPgSuVR,12 Songs,"Rock, Pop",1970,Reprise,https://img.wennermedia.com/920-width/rs-137039-b760b240d0788a4f18dcd3050f928d228257ecf5.jpg
+7jJOrLkw63nqCpzE4NWWSv,Between the Buttons,Rock,1967-01-20,London,https://img.wennermedia.com/920-width/rs-137018-ed197ada5aef46062f5382bb54184f9afbe2e164.jpg
+4Gg3siRefHW8r2CndJxIiJ,Sketches of Spain,Jazz,1960-07-18,Columbia,https://img.wennermedia.com/920-width/rs-137020-64c5eaaccb1a3ca7611f3db104573db274b903c8.jpg
+46g6b33tbttcPtzbwzBoG6,Honky Chateau,Rock,1972-05-19,Uni,https://img.wennermedia.com/920-width/rs-136773-45944d1f98e10c631950530b66094c1ac421f485.jpg
+6TxgQwGrbG3XZLNPOEhg7E,Singles Going Steady,Rock,2001,I.R.S.,https://img.wennermedia.com/920-width/rs-136772-25002addf840fde6ea4d2e50ded57913d680149a.jpg
+2tm3Ht61kqqRZtIYsBjxEj,Stankonia,"Hip Hop, Funk / Soul",2000-10-31,LaFace,https://img.wennermedia.com/920-width/rs-136771-da7e3f29f5fd9da7f9ecc99e42734aedf6153527.jpg
+2Qs2SpclDToB087fLolhCN,Siamese Dream,Rock,1993-07-27,Virgin,https://img.wennermedia.com/920-width/rs-136770-f75a3defd32d772a37967368ca5144f349adff4f.jpg
+4y1PtiYipGKKf2ioZpyfTE,Substance,Electronic,1987,Qwest,https://img.wennermedia.com/920-width/rs-136769-595630ef42badad77c0f79f25880c5f5379058bb.jpg
+7IKUTIc9UWuVngyGPtqNHS,L.A. Woman,Rock,1971-04-19,Elektra,https://img.wennermedia.com/920-width/rs-136768-3a988ca1ad3de55c29438bb4e94b42bf8477eb50.jpg
+4Io5vWtmV1rFj4yirKb4y4,Rage Against the Machine,"Hip Hop, Rock",1992,Epic,https://img.wennermedia.com/920-width/rs-136762-ead6973cfb00910e25c8fa6187d983ecf823088d.jpg
+6CZDZF62t8QaXEVPZNiwKN,American Recordings,"Folk, World, Country",1994-01-01,American,https://img.wennermedia.com/920-width/rs-136766-73af6cda21873c965e49aba5525c5d5d2f30d6fd.jpg
+6cuNyrSmRjBeekioLdLkvI,Ray of Light,"Electronic, Pop",1998-03-03,Maverick / Warner Bros.,https://img.wennermedia.com/920-width/rs-136767-aa8907da9d426f8b9bf6644812760ae1bed73653.jpg
+2A7TYsmTXaHAbQx6C3phKM,The Eagles,Rock,1976,Asylum,https://img.wennermedia.com/920-width/rs-136756-d6dea808a538e3dbe7e57ee637e705d1e70b50bb.jpg
+45StnugV9WQMQwk4rRoTy8,Louder Than Bombs,Rock,1987,Sire / Rough Trade,https://img.wennermedia.com/920-width/rs-136765-7b55788d237dc1e014b7ca688943f0d591eabed1.jpg
+3ApRy4edE6ZYi081aFpq4s,Mott,Rock,1973,Columbia,https://img.wennermedia.com/920-width/rs-136764-78aeabeabc0a3e211dabf9ad2d95f100d713152d.jpg
+50Zz8CkIhATKUlQMbHO3k1,"Whatever People Say I Am, That's What I'm Not",Rock,2006-01-29,Domino USA,https://img.wennermedia.com/920-width/rs-137021-d42156f4766f5144943b62c40c2c42a602139208.jpg
+4dB2uBf7IEazBMreDVZmB2,Reggatta de Blanc,"Rock, Pop",1979-10-02,A&M,https://img.wennermedia.com/920-width/rs-136761-7c4e9b1a46e6dce7e011f56aa663741b7fbbed6b.jpg
+5SxBU3zQaLOq5eapsG3jFQ,Volunteers,Rock,2004-06-18,RCA Victor,https://img.wennermedia.com/920-width/rs-136760-af859109d88b4c6ba2ab2b33f1a744eea103fdd5.jpg
+5Tpor3YZBVEJ9tWD5L31mH,Siren,Rock,1975-10-01,ATCO,https://img.wennermedia.com/920-width/rs-136759-c84c5d7cc793fa64fe6477fc0fab6d273c9cddc9.jpg
+0aiTqo8YZI0dKDgcCnkkzP,Late for the Sky,Rock,1974,Asylum,https://img.wennermedia.com/920-width/rs-136758-dc22c1227a796a4aadf1fa09585e08e825be9d5d.jpg
+6k9dsZpHS3DUsv8FFBQkib,Post,Electronic,1995-06-13,Elektra,https://img.wennermedia.com/920-width/rs-136757-827a9c428ae8bd5bdd22bb052bb78911394d1400.jpg
+10,The Ultimate Collection 1948-1990,Blues,1991,Rhino,https://img.wennermedia.com/920-width/rs-136755-46e505aaa6b3fbec81ea7e56d0142b34699e297d.jpg
+1VW1MFNstaJuygaoTPkdCk,(What's the Story) Morning Glory?,"Rock, Pop",1995-10-02,Epic,https://img.wennermedia.com/920-width/rs-136754-7fbd989b9a3b346ee696654d85ac3764828db9d7.jpg
+5eg56dCpFn32neJak2vk0f,CrazySexyCool,"Electronic, Hip Hop, Funk / Soul",1994-11-15,TLC,https://img.wennermedia.com/920-width/rs-136753-cfda293e9e9fd4d48465512d443b5f76aed3e254.jpg
+3cAAbdqUj9UwqEwCTBw86g,Funky Kingston,Reggae,1973-01-01,Island,https://img.wennermedia.com/920-width/rs-136752-d4c3cffd5fb09b82c6d2a75a5f666affb704967d.jpg
+01TG7VOg4F90jXv3a1yCgA,The Smile Sessions,Rock,2011-10-28,Capitol,https://img.wennermedia.com/920-width/rs-136902-c855ec81866eca28056323442bf6a2ec4c23aab9.jpg
+5BPCP7WSGBG4br2o4WRmd8,Modern Lovers,Rock,1976-09-01,Beserkly,https://img.wennermedia.com/920-width/rs-136751-d733e6ff6d6cd3b3b299afe0d59d265757f73338.jpg
+01RJdKvXyz515O37itqMIJ,More Songs About Buildings and Food,Rock,1978-07-14,Sire,https://img.wennermedia.com/920-width/rs-136750-c0eff34e3dfdad26b00d7e840d45d797aa8d2106.jpg
+0tLm9oyw4uz02ZHJDBRdmM,A Quick One (Happy Jack),Rock,1966-12-09,MCA,https://img.wennermedia.com/920-width/rs-136749-190a086aed550122c17439e5249cff7afbf88e68.jpg
+4BcfuxQ4EO07Y53yr6YhAJ,Love and Theft,Rock,2001-09-11,Columbia,https://img.wennermedia.com/920-width/rs-136680-b49ad91a64cd80be9f66a9df45193e5c095de331.jpg
+0RijmFWeKvzWnceR6Ku00X,Pretzel Logic,"Jazz, Rock",1974-01-01,ABC,https://img.wennermedia.com/920-width/rs-136748-ef3fd5470dc9d27fd9b898639ecacbedf3e49c6b.jpg
+3tQd5mwBtVyxCoEo4htGAV,Enter the Wu-Tang: 36 Chambers,Hip Hop,1993-11-09,Loud / RCA,https://img.wennermedia.com/920-width/rs-136747-33166b125c154dc882cc752cfc3af2303ae7b640.jpg
+1DIr8JMRBnm1cZMYIGKb8t,The Indestructible Beat of Soweto,"Funk / Soul, Folk, World, Country",1985-04-16,Shanachia,https://img.wennermedia.com/920-width/rs-136906-fd2989586cb9ebc9cd03c1281d530055b0d91639.jpg
+4Y1isZbaqleNpbGDtP45ux,The End of the Innocence,Rock,1989-06-27,Geffen,https://img.wennermedia.com/920-width/rs-136745-3d5832f04f13b597959487153a0f8a1a62819e68.jpg
+0rRNLpdA8nA8Sm8Fk490b9,Elephant,Rock,2003-03-31,V2,https://img.wennermedia.com/920-width/rs-136744-41b915f494ce61a76562e0a6d97674a4d7c78ca8.jpg
+1AqUcQKtf2AQ6rFRKIBei8,The Pretender,Rock,1977-08-30,Asylum,https://img.wennermedia.com/920-width/rs-136743-2df32436c25076097429216ec29fa89e8dd32fe9.jpg
+2pCqZLeavM2BMovJXsJEIV,Let It Be,Rock,1970-05-08,Apple,https://img.wennermedia.com/920-width/rs-137222-c71163a3fdf7714caf3e6f53e056fa6ebbead066.jpg
+23vvbZr2ZDlJNZftFAkCqO,Kala,"Electronic, Hip Hop, Reggae, Pop",2007-08-20,Interscope,https://img.wennermedia.com/920-width/rs-136892-e4d9f8a1093f9b73ca3290360081477da804b718.jpg
+4UY90kcO4N9ZPBl4xPLvvU,Good Old Boys,"Rock, Pop",1974,Reprise,https://img.wennermedia.com/920-width/rs-136741-10b60c390feab0f32710923eeeecf2af5a1be53f.jpg
+1R8kkopLT4IAxzMMkjic6X,Sound of Silver,"Electronic, Rock",2007-03-12,DFA / Capitol,https://img.wennermedia.com/920-width/rs-136894-1590edf1212b467d92c5be8468f00d1b3c2f184e.jpg
+6gKMWnGptVs6yT2MgCxw29,For Your Pleasure,Rock,1973-03-01,Warner Bros.,https://img.wennermedia.com/920-width/rs-136740-a5f49ec0083a5850fa2caa4b239bb9d46ea1309d.jpg
+5mAPk4qeNqVLtNydaWbWlf,Blue Lines,"Electronic, Reggae",1991-06-10,Virgin,https://img.wennermedia.com/920-width/rs-136739-3d19163287470cbd317dd4570309eca8106ddd84.jpg
+5LMGAYhn2ywaxGZdtmXGpw,Eliminator,Rock,1983-03-23,Warner Bros.,https://img.wennermedia.com/920-width/rs-136738-7a8fb96b7a41d8bc701d1073369ea92ed01baad5.jpg
+4PVqDVjitmZwRx8JIs3HJP,Rain Dogs,"Rock, Blues",1985-09-30,Island,https://img.wennermedia.com/920-width/rs-136737-f5d277070b5132b4d8e6d8ebb1a587eb485aa5ad.jpg
+6FHB7YdBkGKcKVf5XeSPnB,Anthology,"Electronic, Funk / Soul",1995-01-01,Motown,https://img.wennermedia.com/920-width/rs-136896-2f8b220216e8d324b241a9bc2ab349530fb9b724.jpg
+2Y9IRtehByVkegoD7TcLfi,Californication,Rock,1999-06-08,Warner Bros.,https://img.wennermedia.com/920-width/rs-136736-815e81c0c12a2447982ec2164f3f86872b15415c.jpg
+3kEtdS2pH6hKcMU9Wioob1,Illmatic,Hip Hop,1994-04-19,Columbia,https://img.wennermedia.com/920-width/rs-136735-d5b63b58379af6c92ace0898d6fb06a1a93c4d81.jpg
+57GMEh9tkmc1TGs4rcdVhN,(Pronounced Leh-Nerd Skin-Nerd),Rock,1973,MCA,https://img.wennermedia.com/920-width/rs-136734-b41501275c94bc6794de329b5840d261d2a99c08.jpg
+15jDv2HgLoilWgd4KWaLQn,Dr. John's Gumbo,Funk / Soul,1972,ATCO,https://img.wennermedia.com/920-width/rs-136733-b4a4923b15393ebbc34b0fd2bbb7d06c75352aba.jpg
+1E63LPwdoS3yqfB35cUXdp,Radio City,Rock,1974,Ardent,https://img.wennermedia.com/920-width/rs-136732-35c0ce746af3e3d76571c9011b7aa9fcd2b6d3b1.jpg
+215g9jBzdRufNn0uFN1VZN,Rid of Me,Rock,1993-01-01,Island,https://img.wennermedia.com/920-width/rs-136730-610c6174a896d003777ce7af8ed8b2193872e6b6.jpg
+2UxN3UKyS3Z5r0Sra8A5RF,Sandinista!,"Rock, Reggae",1980,Epic,https://img.wennermedia.com/920-width/rs-136731-ca9a65d59894fe510ca5f05d6fad033850da36b7.jpg
+34hQFIwGTLf03BZQmGL0iy,I Do Not Want What I haven't Got,"Rock, Funk / Soul, Blues",1990-07-01,Chrysalis,https://img.wennermedia.com/920-width/rs-136729-8e1450fbafc50b59aa669ae65a49cd43752b0d07.jpg
+6v5IVMmY1IvWtbfnQoiFSf,Strange Days,Rock,1967-09-25,Elektra,https://img.wennermedia.com/920-width/rs-136728-8d68203601a7e4b712e98d5a6fcc6f4b290136dc.jpg
+185DHT5SvszXRrezx3lOjt,Time Out of Mind,"Rock, Blues",1997-09-30,Columbia,https://img.wennermedia.com/920-width/rs-136727-19ed8e700b963f5da4a354c25179a08b7fa7c22a.jpg
+3Xp9oqOrXswimE8eD02Wty,461 Ocean Boulevard,Rock,1974-07-01,RSO,https://img.wennermedia.com/920-width/rs-136726-acf682a405f1c7766dbc78894c1b82c85b7c7381.jpg
+4WXqZZ28geJSPtqLcCF56L,Pink Flag,Rock,1977-11-01,Harvest,https://img.wennermedia.com/920-width/rs-136725-fb5d1bce77409b907a346a09303b68dfdf6c95d2.jpg
+5viZ5HyYtV0wafK7DoXmgF,Doubles Nickels on The Dime,Rock,1984-07-24,SST,https://img.wennermedia.com/920-width/rs-136724-41869c0734a9669c6300d6c6aa89ecbad672c62e.jpg
+1L4HE00En7eNK74voVZums,Beauty and The Beast,Rock,1981-01-01,I.R.S.,https://img.wennermedia.com/920-width/rs-136723-eb4dda489cf1bbe3a094aab6396a25638db67a21.jpg
+7DdEbYFPKTZ8KB4z6L4UnQ,Van Halen,Rock,1978-02-10,Warner Bros.,https://img.wennermedia.com/920-width/rs-136722-d945f84215d6743d66f6c816d2f95ea41aae7ce1.jpg
+7cAcex6xw4fP67ltgn1gm3,Mule Variations,"Electronic, Rock",1999-04-27,Anti- / Epitaph,https://img.wennermedia.com/920-width/rs-136720-81f0ce6ad8b816a69ab8e43039028f8a068f3bf3.jpg
+4K3si8oMcneYTxBSLachBo,Boy,Rock,1980-10-20,Island,https://img.wennermedia.com/920-width/rs-136721-fdbdd7851ff4f06d8b76ddd40843453fbb3fbaf7.jpg
+5WDwQd1NNzitecaWN7BoUB,Band On The Run,Rock,1973-12-05,Apple,https://img.wennermedia.com/920-width/rs-136719-853b66a39a6a4a772846c0da49f1b5c5e7c807f3.jpg
+3gxOtUSRzweDWBKlpj7cG6,Dummy,Electronic,1994-01-01,Go! Discs,https://img.wennermedia.com/920-width/rs-136718-ba3038a8eb3f8bae73a44f22b651a68ff652496d.jpg
+5JGitb0tOKRHXRYULxaP7N,"The ""Chirping"" Crickets","Rock, Pop",1957-01-01,Brunswick,https://img.wennermedia.com/920-width/rs-136717-f98a7635a3722e7f7568e724109c6728c601fc29.jpg
+11,The Best of Girl Groups Volumes 1 and 2,"Rock, Pop",1990,Rhino,https://img.wennermedia.com/920-width/rs-136716-cbbaa618e1a73ecb8c1a8e4cfdaef83d56cdcb39.jpg
+0CoNLgOwcZGBUSwd9fAZuy,Presenting the Fabulous Ronettes,"Rock, Pop",2012-04-24,Philles,https://img.wennermedia.com/920-width/rs-136715-53d90c0f45880a179e9a6d526a44d288afbf992b.jpg
+4bvyr4NxDhpseVZC7bwt9Y,Anthology,"Electronic, Funk / Soul",2001-01-01,Motown,https://img.wennermedia.com/920-width/rs-136711-72bb1c9336f4fa748bc0f534ac83191016df317b.jpg
+23vzCh5cDn0LzdGmGWrT1d,The Rising,Rock,2002-07-30,Columbia,https://img.wennermedia.com/920-width/rs-136886-1ea07a2b8beaae3f3c28d484e9d8ca67ebb24a67.jpg
+6UQujMGmR5MbFsML9amCuN,Grievous Angel,"Rock, Folk, World, Country",1974,Reprise,https://img.wennermedia.com/920-width/rs-136713-c966ac94055a62214d1fb4ef401973098753ad89.jpg
+5ttDbNMKXczvp0Z8QRgKs6,At Budokan,Rock,1979,Epic,https://img.wennermedia.com/920-width/rs-136712-76b2b8e283d3e70f9c0b9f3d7c321cee35a76f2b.jpg
+6bRT0low7Dmx61II5kKPfx,Sleepless,"Rock, Blues, Pop",2002-09-10,Artemis,https://img.wennermedia.com/920-width/rs-136710-5b9e8c60dde91e1cd1ce4f9014a849e06ae3dbb5.jpg
+3D9JqZG5Q1ptOJr8ZQ0j7I,Outlandos D'Amour,Rock,1978-11-02,A&M,https://img.wennermedia.com/920-width/rs-136708-f0f74fecec08efb2b24d0ce736fe8878563d04e9.jpg
+6uoeezh45SYEb8lcT8gDTY,Another Green World,Electronic,1975-09-01,Island,https://img.wennermedia.com/920-width/rs-136709-d71ae15551fbe659eb0a75b827e9145fb9da1d03.jpg
+5oXBmKbyJeQftWMo87cQ9F,Vampire Weekend,Rock,2008-01-27,XL,https://img.wennermedia.com/920-width/rs-136887-bd3931e1d2c2854bef5aae8c6dfbdf4d204be898.jpg
+0hBWhJEmVyNPG2Jq71CJXz,"Stories From The City, Stories From The Sea",Rock,2000-01-01,Island,https://img.wennermedia.com/920-width/rs-136888-8ad83747cb2008b1a6d03e20ff543852b6d35d71.jpg
+74jn28Kr29iyh8eZXSvnwi,Here Come The Warm Jets,Rock,1973,Island,https://img.wennermedia.com/920-width/rs-136707-4d92d4059890f766e5ded5134541c36e8c94e675.jpg
+16YCkHew4MBxGtpqkCTx6M,All Things Must Pass,Rock,1970-11-27,Apple,https://img.wennermedia.com/920-width/rs-136706-e0570b4dd7064b17ab89a0097dab03fcbdfae5c9.jpg
+7c7fb4wBhQplfee6jWl4Ok,#1 Record,Rock,1972,Ardent / Stax,https://img.wennermedia.com/920-width/rs-136705-61ea1bd53d9d1a3710e4ff8d2fa6e92fd678813c.jpg
+7mhk75WqSVNIvxZumfCdvu,In Utero,Rock,1993-09-21,Geffen,https://img.wennermedia.com/920-width/rs-136704-c4b390f3b814e8ab8e6a4aa939f3632269ef8121.jpg
+69Wr9DvWfIJRTi5NUGeVTn,Sea Change,Rock,2002-01-01,DGC,https://img.wennermedia.com/920-width/rs-136703-2db46c65f260992f718e621b828782bcdc768224.jpg
+1Do3y8IAcbYOToYQJnGwSO,Tha Carter III,"Hip Hop, Funk / Soul",2008-01-01,Cash Money / Universal Motown,https://img.wennermedia.com/920-width/rs-136889-d1592d826a0fe5bd19021d15a46fb07f0c573131.jpg
+2uU6tmqDXxEAwIFkP5T0uX,Boys Don't Cry,Rock,2014-06-20,PVC,https://img.wennermedia.com/920-width/rs-136702-2ee61387fb50efc38b003d13cae18374e4b0157b.jpg
+3nTXqOEHr6AfTb1WSaB4Pm,"Live at the Harlem Square Club, 1963",Funk / Soul,1963,RCA,https://img.wennermedia.com/920-width/rs-136701-e7e727eaf37e1a1c7fc920aacd88d14b58b29677.jpg
+2wRH4pcI8TIQFCK1MeByWO,Rum Sodomy and The Lash,"Rock, Folk, World, Country",1985,MCA,https://img.wennermedia.com/920-width/rum_sodomy_and_the_lash-ee9a725e-410d-4a92-bb6f-6a543f53a329.jpg
+7lHdDQ8qsbcNWkEYtcIiHF,Suicide,"Electronic, Rock",1977-01-01,Red Star,https://img.wennermedia.com/920-width/rs-suicide-suicide-bb630ff5-aad2-44c2-b2b6-9a9a85414078.jpg
+1u2Qni8cVRptDTaA00fmBC,Q: Are We Not Men? A: We Are Devo!,Rock,1978,Warner Bros.,https://img.wennermedia.com/920-width/rs-devo-q-are-we-not-men-a-we-are-devo-c4207947-2748-4eb4-a964-f2e4b62f892f.jpg
+2sXJQdHykPYcRQ7xFhwzMR,In Color,Rock,1977,Epic,https://img.wennermedia.com/920-width/rs-cheap-trick-in-color-1ef4f243-d005-412e-810f-9cdad233af2a.jpg
+4UZmpGH8kpAgyZ2yqQ8sP9,The World Is A Ghetto,Funk / Soul,1972-11-01,United Artists,https://img.wennermedia.com/920-width/rs-war-the-world-is-a-ghetto-dcf915aa-8daa-444b-b0b3-75aae7639cfa.jpg
+0ogpgyIPIq7CjRis7FWw6U,Fly Like an Eagle,Rock,1976-01-01,Capitol,https://img.wennermedia.com/920-width/rs-steve-miller-band-fly-like-an-eagle-f32e7248-0279-4e0b-b63f-f465467094e9.jpg
+67NkpPGMcxoIiumOW3oRpL,Back in the USA,Rock,1970,Atlantic,https://img.wennermedia.com/920-width/rs-136694-c9be837ed998ba01e7e79691e4cc14720085f29d.jpg
+4cYtmC2Fp8LKfxUoTAKsIb,Getz/Gilberto,Jazz,1964-04,Verve,https://img.wennermedia.com/920-width/rs-136693-9e41183410b706cadf485877106a469c2acac60b.jpg
+28eOriEfl7IGbQDNvWIWXK,Synchronicity,"Rock, Pop",1983-06-01,A&M,https://img.wennermedia.com/920-width/the-police-synchronicity-16ba97a3-6be6-4834-8844-a63c29e34d80.jpg
+5spnOKcCnsfRsIBtRrRqGV,Third/Sister Lovers,Rock,1978,PVC,https://img.wennermedia.com/920-width/big-star-third-sister-lovers-2df15c34-b6ad-43fa-98fe-a25aa7fbc7c2.jpg
+12X80pgkHSjMDgAAS0HBdr,For Everyman,Rock,1973,Asylum,https://img.wennermedia.com/920-width/jackson-browne-for-everyman-e11347ab-7a22-49e1-8ce8-16cb9cdbeb50.jpg
+6GJCGWfI95aeRsdtVB52vc,Back to Black,"Funk / Soul, Pop",2006-01-01,Universal,https://img.wennermedia.com/920-width/amy-winehouse-back-to-black-7579fe06-2dab-496a-a510-3ff389357194.jpg
+5t4FHrIAHI8nolSAOBRgPp,John Prine,"Folk, World, Country",1971,Atlantic,https://img.wennermedia.com/920-width/john-prine-john-prine-f1ac668e-e5a2-47d9-88c9-de74957a6050.jpg
+2HOl8gDiGGpt7wsIDi9jy5,Strictly Business,Hip Hop,1988-06-07,Priority,https://img.wennermedia.com/920-width/epmd-strictly-business-9bcb17c5-3f1f-4f1c-b8db-ca698b7815dd.jpg
+6p7jHbG5Bd6z2JgfKx0um7,Love It to Death,Rock,1971,Warner Bros.,https://img.wennermedia.com/920-width/alice-cooper-love-it-to-death-ea4570ab-67df-4b1f-b199-c1dba2dc016c.jpg
+5dl01XDIMXrmjJ22obqfhQ,How Will the Wolf Survive?,"Rock, Latin",1984-10-17,Slash / Warner Bros.,https://img.wennermedia.com/920-width/los-lobos-how-will-the-wolf-survive--f8beaa7f-a2e5-4606-9ef2-5cf851f1a3b4.jpg
+0YbHA3w82FSmpyXxdXfuCv,"Here, My Dear",Funk / Soul,1978-12-15,Motown,https://img.wennermedia.com/920-width/marvin-gaye-here-my-dear-0811056b-7368-4c36-9339-ed12ed2398f9.jpg
+2TpZRh7HrXYr5CzOaMHZte,Z,Rock,2005-10-04,RCA,https://img.wennermedia.com/920-width/z-cover-4e588ef3-de67-4a6a-b569-debea2c5379d.jpg
+30yhgdz5SBUyX75OxxwUcl,Tumbleweed Connection,"Rock, Folk, World, Country",1970-10-30,Dog Day Afternoon,https://img.wennermedia.com/920-width/elton_john_-_tumbleweed_connection_-_front-979f16e5-361a-48c6-9ea1-934ea402a886.jpg
+12,Golden Hits,"Rock, Funk / Soul",1968,Atlantic,https://img.wennermedia.com/920-width/golden-hits-5515a273d8f59-210fff2e-feaf-43c9-8ace-a30b6d3c5e4e.jpg
+1EvUhZU1lQ7scplQ140i6m,Live Through This,Rock,1994-01-01,DGC,https://img.wennermedia.com/920-width/74b78cb40fa2ccef729620805d9861941000x1000x1-50fa67b8-c2b1-44ca-9332-1fb90c520baf.jpg
+7HoqZkuUQEE12tl0ByOSsh,Metal Box,"Electronic, Rock",1979,Virgin,https://img.wennermedia.com/920-width/piccit_public_image_ltd___metal_box_1700139204-46248b44-4c5d-4699-aafc-cfd355091d39.jpg
+65kIVEdb93smbnC7k4aie7,Document,Rock,1987-09-01,I.R.S.,https://img.wennermedia.com/920-width/789bf1d2-f8357134-f473-4ae3-b2c3-8931e4d98171.jpg
+2jnfTHz4rKiOXbpU88TpNS,Heaven Up Here,Rock,1981-05-30,Sire,https://img.wennermedia.com/920-width/echo-the-bunnymen-heaven-up-here-ed971d5c-7beb-422c-88a3-816d677266b3.jpg
+73BjTTmhhoiK4MGtINzp2c,Hysteria,Rock,1987-08-03,Mercury,https://img.wennermedia.com/920-width/8560698_f1024-a994fb27-87cf-46f0-9d8e-aba23729aa1f.jpg
+2VEDC7MJmuhhEPl20kfXxG,69 Love Songs,"Electronic, Rock",2004-10-08,Merge,https://img.wennermedia.com/920-width/10_700_700_169_magfields_69-1a38388b-a376-43b2-8365-5b4efe9618ec.jpg
+0RHX9XECH8IVI3LNgWDpmQ,A Rush of Blood to the Head,Rock,2002-08-08,Capitol,https://img.wennermedia.com/920-width/coldplay-a-rush-of-blood-to-the-head-b994b5e3-9684-43b7-af44-f0a23154c100.jpg
+5Qcef60m4gcckV24PmPYVq,Tunnel of Love,Rock,1987-10-06,Columbia,https://img.wennermedia.com/920-width/bruce-springsteen-tunnel-of-love-delantera-24a384d9-9eec-4b9d-9987-74aa31ed0d6d.jpg
+785WNIAl2zC3OZ6XHjFaIG,The Paul Butterfield Blues Band,"Rock, Blues",1965,Elektra,https://img.wennermedia.com/920-width/cs498050-01a-big-c9162c3e-36e4-4323-86b2-2e4f28aac696.jpg
+7m1r9h3wfPRm3Iv8uvq9vQ,The Score,Hip Hop,1996,Ruffhouse / Columbia,https://img.wennermedia.com/920-width/maxresdefault-3b0ebfbe-ff73-49f3-847f-d49a03672c29.jpg
+3BKvVQ3g673SWAgY4ef9z9,Radio,Hip Hop,1985-01-01,Def Jam,https://img.wennermedia.com/920-width/radio-53c118257ccf5-4f6092f2-b9b4-4fc2-8ab3-360b5a69465b.jpg
+3vCMmrJEx8CBtW4Hh0ehdl,I Want to See the Bright Lights Tonight,Rock,1974-01-01,Island,https://img.wennermedia.com/920-width/album04-f83b5716-7b2a-4f0e-8539-05efcf61e40d.jpg
+34K1Kvskt9arWy8E1Gz3Lw,Faith,"Electronic, Rock, Funk / Soul, Blues, Pop",1987-10-30,Columbia,https://img.wennermedia.com/920-width/faithcd-a06ce12d-15c5-4bc9-a9c2-3e6bd205382e.jpg
+6cI1XoZsOhkyrCwtuI70CN,The Smiths,Rock,1984,Sire,https://img.wennermedia.com/920-width/the_smiths_-_1984_the_smiths_joe_dallesandro-e0440f23-a933-4208-b67f-75d6f22b4e54.jpg
+4t1LLdXiWTfoywqricztFo,Próxima Estación: Esperanza,"Rock, Reggae, Latin",2001-06-01,Virgin,https://img.wennermedia.com/920-width/manu_chao-proxima_estacion_esperanza-frontal-83c07861-2847-44a0-94c0-06270b213796.jpg
+11LBxnHc4oRCvPd6tk8jJZ,Armed Forces,Rock,1979,Columbia,https://img.wennermedia.com/920-width/armed-forces-53dffbc88be87-6568d655-8bb8-4cc6-b804-8f506fd8509d.jpg
+7dRdaGSxgcBdJnrOviQRuB,Life After Death,Hip Hop,1997-03-04,Bad Boy,https://img.wennermedia.com/920-width/notorious-big-life-after-death-e80ddc0d-b0e9-436c-aef9-4812afdd3d24.jpg
+40Wi0Ej08sw9B4URIOabOI,Down Every Road,"Folk, World, Country",1996-04-02,Capitol,https://img.wennermedia.com/920-width/unnamed-1f798254-f22d-4978-bfea-e0b1a4114afb.jpg
+0AJnJbUn82EfNk9tIpK2nk,All Time Greatest Hits,"Folk, World, Country",2002-01-01,MCA Nashville,https://img.wennermedia.com/920-width/48353-4422068b-0d3f-4f8f-b7ee-edf01a0206f6.jpg
+32mkDUhwDI9JCnKLjm5RGw,Maggot Brain,"Rock, Funk / Soul",1971-07-12,Westbound,https://img.wennermedia.com/920-width/maggot-brain-72dpi-e6055166-6578-4584-9e2e-643634f5fcf4.jpg
+7btiyhWzUfzxN3ijSiBpC8,Only Built 4 Cuban Linx,Hip Hop,1995,Loud,https://img.wennermedia.com/920-width/raekwon-only-built-2-cuban-linx-649d9e3f-2aaf-4663-ba60-200c8f418567.jpg
+0gSmTwEd1wJS1v1lbFWZDv,Voodoo,"Hip Hop, Funk / Soul",2000-01-01,Virgin,https://img.wennermedia.com/920-width/dangelo-voodoo-ltd-white-vinyl-65138e6e-2239-4d15-a149-08757d3212ec.jpg
+3bEnaGjQRqfoqNkAQtO1Uy,Guitar Town,"Rock, Folk, World, Country",1986-01-01,MCA,https://img.wennermedia.com/920-width/00602547849625-cover-zoom-de91d20a-6cdb-4cc6-8511-5b2e4bee6408.jpg
+1UMvR1rwj9EzLnbj4L6Zoy,Entertainment!,Rock,1979-09-25,Warner Bros.,https://img.wennermedia.com/920-width/mi0000476655-6ad2d47c-ed58-48e9-8aa3-2ebfed7b45b1.jpg
+3LdlOZcV0dp7ePBXe2KAGa,All the Young Dudes,Rock,1972,Columbia,https://img.wennermedia.com/920-width/be043798-66f55cfa-7ee3-4dc0-872c-d48ccc5678f3.jpg
+5pd9B3KQWKshHw4lnsSLNy,Vitalogy,Rock,1994-11-22,Epic,https://img.wennermedia.com/920-width/pearljamvitalogy-f2ac08df-4f1c-4d33-bab7-dd271b43c784.jpg
+5tXZfxvr2VaWibD74nw8VL,That's the Way of the World,Funk / Soul,1975-03-15,Columbia,https://img.wennermedia.com/920-width/51gf-gwqjcl-1-7dd90fad-40da-488d-99f2-494085a9e2b3.jpg
+1FvdZ1oizXwF9bxogujoF0,She's So Unusual,"Electronic, Rock",1984-06-26,Portrait,https://img.wennermedia.com/920-width/cl1-38c98251-3411-45e0-8d16-94c5891c023c.jpg
+2eOu9QDLP2MoO04ZtII2Vm,New Day Rising,Rock,1985-01-01,SST,https://img.wennermedia.com/920-width/screen-shot-2015-01-31-at-5-09-42-pm-e223ce1c-9e9a-4592-9200-b5402283b945.png
+2oPeCzPDtjkm2Ux5r7edAb,Destroyer,Rock,1976-03-15,Casablanca,https://img.wennermedia.com/920-width/kiss_destroy_coverar_4000dpi300rgb1000147352-d045b89a-36f1-406a-b737-a290887c6e16.jpg
+0Em8m9kRctyH9S3MTXAHvY,Tres Hombres,Rock,1973-07-26,London,https://img.wennermedia.com/920-width/zz-1-d7ce94f9-3011-478b-bde8-29caa6b515d8.jpg
+67I17xxxioQjnisRNmuSPE,Born Under a Bad Sign,"Funk / Soul, Blues",1967,Stax,https://img.wennermedia.com/920-width/born-under-a-bad-sign-cover-dcf0f101-8c1f-45ee-9826-aaf4836f12e3.jpg
+4WHI6fYfLxXBKGev2xNanW,Touch,"Electronic, Pop",2018-04-13,RCA,https://img.wennermedia.com/920-width/eurythmics-touch-900-15cccb6a-78ae-4ffe-beaf-1a24dfc3a9df.jpg
+0rPtXOMN42nsLDiShvGamv,Yankee Hotel Foxtrot,Rock,2002-04-16,Nonesuch,https://img.wennermedia.com/920-width/wilco-yankee-hotel-foxtrot-07232015-bec17e21-bf8d-4045-bee5-9737327ca979.jpg
+6mm1Skz3JE6AXneya9Nyiv,Oracular Spectacular,"Electronic, Rock, Pop",2007-12-14,Columbia,https://img.wennermedia.com/920-width/orcular-spectacular-69875e28-db4d-4b4b-a804-8597bf0b2fec.jpg
+6ry5iI1ik4H2DvoiWhluYh,Give It Up,Rock,1972,Warner Bros.,https://img.wennermedia.com/920-width/1280x1280-f478d514-66e9-4eaf-8c1a-9b27c8f4d8f9.jpg
+4i1GgeitxAC8fy48Cwcl54,Boz Scaggs,Rock,1969,Atlantic,https://img.wennermedia.com/920-width/81zygxunhil_sl1076_-ace9e62c-8cc9-41dd-9711-8da2fd700422.jpg
+7rIhZOxiuEieQylkZt50TN,White Blood Cells,Rock,2001-09-24,Sympathy for the Record Industry,https://img.wennermedia.com/920-width/jbwswbc-a82c0360-1d89-40cb-8b75-5cbcb11c9ae1.jpg
+0um9FI6BLBldL5POP4D4Cw,The Stone Roses,Rock,1989-05-02,Silvertone,https://img.wennermedia.com/920-width/stoneroses-4bbdd32d-bf9c-4a78-bb41-dfd2484a3001.jpg
+294gmGzAu0wEu4UwaP9jm0,Live in Cook County Jail,Blues,1971-01-01,ABC,https://img.wennermedia.com/920-width/81guooei4dl_sl1109_-b0b72075-24e3-4a98-a8d5-a9c32b1e3d79.jpg
+5ceB3rxgXqIRpsOvVzTG28,Aquemini,Hip Hop,1998-09-29,RS,http://img.wennermedia.com/920-width/what-millennials-should-know-about-outkast-aquemini-e29a018b-beb0-467a-8b8b-37c9e3575153.png

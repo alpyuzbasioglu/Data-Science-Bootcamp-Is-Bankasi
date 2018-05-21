@@ -1,0 +1,831 @@
+,Carrier Name,2-Char IATA,3-Char ICAO
+0,"40-Mile Air, Ltd.",Q5,MLA
+1,ABC Aerolineas S.A. de C.V.,4O,AIJ
+2,ABSA  -  Aerolinhas Brasileiras S.A.,M3,TUS
+3,"ABX Air, Inc.",GB,
+4,ACT Havayollari A.S.,9T,
+5,AEROFLOT-NORD,5N,AUL
+6,AHK Air Hong Kong Limited,LD,AHK
+7,ANA & JP Express Co. ltd,9N,AJV
+8,"AVIACSA-Consorcio Aviaxsa, S.A. de C.V.",6A,CHP
+9,"AVIATECA, S.A.",GU,
+10,Adria Airways - The Airline of Slovenia,JP,ADR
+11,Aegean Airlines S.A.,A3,AEE
+12,"Aeko Kula, Inc. DBA Aloha Air Cargo",KH,
+13,Aer Arann Express,RE,REA
+14,Aer Lingus Limited,EI,EIN
+15,Aero 2000 S.A.,4M,
+16,Aero Airlines A.S.,EE,
+17,Aero Contractors Nigeria Limited,AJ,NIG
+18,Aero Express del Ecuador  - Trans AM,7T,
+19,Aero Micronesia Inc.,,MGE
+20,Aero Mongolia,M0,MNG
+21,Aero Regional Paraguaya S.A.,P7,
+22,Aero Republica S.A.,P5,RPB
+23,Aero V.I.P. Ltda,,QCL
+24,Aerocaribbean S.A.,7L,CRN
+25,Aerocomercial Oriente Norte Ltda,A4,
+26,Aeroflot - Cargo,SU,RCF
+27,Aeroflot Russian Airlines,SU,AFL
+28,Aeroflot-Don,D9,DNV
+29,Aerogaviota  S.A.,KG,
+30,Aerolinea Principal Chile S.A.,5P,PCP
+31,Aerolineas Argentinas,AR,ARG
+32,Aerolineas Austral Chile S.A.,3I,
+33,Aerolineas Galapagos S.A. Aerogal,2K,GLG
+34,"Aerolineas Regionales, S.A. de C.V",F2,RCQ
+35,Aerolineas de Baleares AeBal,DF,ABH
+36,Aerolitoral S.A. de C.V.,5D,SLI
+37,Aeromexico,AM,AMX
+38,Aeroperlas,WL,
+39,Aeropostal Alas de Venezuela C.A.,VH,
+40,Aerosur Paraguay S.A.,PQ,
+41,Aerosvit Airlines,VV,AEW
+42,Aerosyncro Aviation AB,6I,IBZ
+43,"Aerotransporte de Carga Union, S.A. de C",6R,TNO
+44,Aerotransportes Mas de Carga,M7,MAA
+45,Aerovias Caribe S.A. de C.V.,QA,CBE
+46,Aerovias del Continente Americano S.A,AV,AVA
+47,Africa West,FK,
+48,African International Airways,,AIN
+49,Afriqiyah Airways,8U,AAW
+50,Aigle Azur,ZI,AAF
+51,Air Algerie,AH,DAH
+52,Air Almaty JSC,K7,LMY
+53,Air Arabia,G9,
+54,Air Armenia,QN,
+55,Air Astana,KC,KZR
+56,Air Atlanta Icelandic,CC,ABD
+57,Air Austral,UU,REU
+58,Air Bagan Ltd.,W9,
+59,Air Baltic Corporation SIA,BT,
+60,Air Bashkortostan Ltd.,ZU,BBT
+61,Air Bee S.p.A,BM,OBE
+62,Air Bissau International Lda,YL,BSA
+63,Air Botswana Corporation,BP,BOT
+64,Air Busan,BX,
+65,Air Caledonie,TY,TPC
+66,Air Caledonie International,SB,ACI
+67,Air Canada,AC,ACA
+68,Air Canada Jazz,QK,JZA
+69,Air Caraibes,TX,FWI
+70,"Air Cargo Carriers, Inc.",2Q,SNC
+71,Air Charter Express Limited,,ACE
+72,Air China Cargo,CA,
+73,Air Comet S.A.,A7,MPD
+74,Air Company ITEK-AIR Ltd.,GI,IKA
+75,Air Company Somon Air,4J,
+76,Air Continental Africa,TI,
+77,Air Contractors (UK) Limited,AG,ABR
+78,Air Creebec (1994) Inc.,YN,CRQ
+79,Air Dolomiti S.p.A.,EN,DLA
+80,Air Dominicana S.A.,6D,
+81,Air Eagle (Pvt) Ltd.,,SEE
+82,Air Ecuador Airecu S.A.,N5,
+83,"Air Europa Lineas Aereas, S.A.",UX,AEA
+84,Air Fiji Ltd.,PC,FAJ
+85,Air Finland Ltd.,OF,
+86,Air France,AF,AFR
+87,Air Go Airlines S.A.,4A,
+88,Air Greenland A/S,GL,GRL
+89,Air Iceland (Flugfelag Islands),NY,FXI
+90,Air India Charters Limited,IX,
+91,Air Inuit Ltd/Ltee,3H,AIE
+92,Air Italy S.p.A.,I9,
+93,Air Jamaica,JM,AJM
+94,Air Koryo,JS,KOR
+95,Air Kurfa,7F,KAV
+96,Air Lines of Kuban,GW,KIL
+97,Air Logistics L.L.C. d/b/a,L9,ALG
+98,Air Macau Company Limited,NX,AMU
+99,Air Madagascar,MD,MDG
+100,Air Malawi Limited,QM,AML
+101,Air Malta p.l.c.,KM,AMC
+102,"Air Marshall Islands, Inc.",CW,MRS
+103,Air Mascareignes Ltd.,MV,
+104,Air Mauritius,MK,MAU
+105,Air Midwest,ZV,AMW
+106,Air Mobility Command,MC,
+107,Air Moldova,9U,MLD
+108,Air Namibia,SW,NMB
+109,Air Nepal International Pvt. Ltd.,XN,NPL
+110,Air New Zealand Limited,NZ,ANZ
+111,"Air Next Co., Ltd.",7A,NXA
+112,Air Nippon Co. Ltd.,EL,ANK
+113,Air Niugini Pty Limited,PX,ANG
+114,Air North Charter and Trainung Ltd.,4N,
+115,Air Nostrum L.A.M.S.A.,YW,ANE
+116,Air One,AP,ADH
+117,Air Pacific Ltd.,FJ,FJI
+118,Air Philippines Corporation,2P,GAP
+119,Air Saint  Pierre,PJ,
+120,Air Senegal International,V7,SNG
+121,Air Seychelles Limited,HM,SEY
+122,Air Sinai,4D,ASD
+123,Air Speed Up,VP,
+124,Air Sylhet AG,SL,SHR
+125,Air Tahiti,VT,VTA
+126,Air Tahiti Nui,TN,THT
+127,Air Tanzania Company Ltd.,TC,ATC
+128,Air Tindi Ltd.,8T,
+129,Air Transat,TS,TSC
+130,Air Transport International Ltd,8C,
+131,Air Urga,3N,URG
+132,Air Vanuatu (Operations) Limited,NF,AVN
+133,Air Via Ltd.,VL,VIM
+134,Air Wisconsin Airlines Corporation,ZW,AWI
+135,Air Zimbabwe (Pvt) Ltd.,UM,AZW
+136,AirBridgeCargo Airlines Limited,RU,
+137,AirKenya Express Limited,P2,XAK
+138,"AirTran Airways, Inc.",FL,
+139,AirX Limited dba Blue Islands,SI,BCI
+140,Airasia Sdn Bhd.,AK,AXM
+141,Airasia X Sdn. Bhd.,D7,
+142,Airbus Transport International,4Y,
+143,"Aircompany ""Esen Air""",K9,ESD
+144,"Aircompany ""Kyrgyzstan""",QH,LYN
+145,Aircompany Asia Wings JSC,Y5,AWA
+146,Aircompany Polet,YQ,
+147,Airlines of Papua New Guinea Limited,CG,
+148,Airmax S.A.,M8,
+149,Aklak Inc.,6L,AKK
+150,Al Rais Cargo Agencies L.L.C.,,HJT
+151,Alajnihah For Air Transport,2T,ANH
+152,Alas Del Sur S.R.L,D4,ASC
+153,Alaska Airlines Inc.,AS,ASA
+154,Alaska Central Express,KO,AER
+155,Albanian Airlines MAK S.H.P.K.,LV,LBC
+156,Alitalia-Compagnia Aerea Italiana S.p.A,AZ,AZA
+157,All Nippon Airways Co. Ltd.,NH,ANA
+158,Alliance Air,CD,LLR
+159,Allied Air Ltd.,4W,AJK
+160,Alpine Aviation Inc.,5A,AIP
+161,Amaszonas S.A.,Z8,
+162,American Airlines Inc.,AA,AAL
+163,"Ameriflight, LLC",A8,AMF
+164,Amerijet International Inc.,M6,AJT
+165,Amiri Flight,MO,AUH
+166,Andes Lineas Aereas S.A.,OY,
+167,Angkor Airways Corporation,G6,AKW
+168,Antrak Air Limited,O4,
+169,Arctic Circle Air Service Inc.,5F,CIR
+170,"Arctic Transportation Services, Inc.",7S,
+171,Ariana Afghan Airlines,FG,AFG
+172,Arik Niger,Q9,
+173,Arkia - Israeli Airlines Ltd,IZ,AIZ
+174,Armavia,U8,
+175,Arrow Air Inc.,JW,APW
+176,"Arrow Panama, S.A.",8A,
+177,Asia Alpha Airways,OD,SAL
+178,Asiana Airlines Inc.,OZ,AAR
+179,Askari Aviation (PVT) Ltd.,4K,
+180,Astar Air Cargo,ER,DHL
+181,Astraeus Ltd.,5W,AEU
+182,Astral Aviation Ltd.,8V,
+183,Atlant-Soyuz,7B,AYZ
+184,Atlantic Airways Faroe Islands,RC,FLI
+185,"Atlantic Southeast Airlines, Inc.",EV,ACY
+186,"Atlas Air, Inc.",5Y,
+187,Atlasjet Airlines Inc.,KK,KKK
+188,Atyrau  Aue Joly,IP,JOL
+189,Augsburg Airways GmbH & Co. KG,IQ,AUB
+190,Aurigny Air Services Limited,GR,AUR
+191,Australian Air Express Pty. Ltd.,XM,XME
+192,"Austrian Airlines, Osterreichische",OS,AUA
+193,Ave.com,2E,PHW
+194,Aviacon Zitotrans Air Company JSC,ZR,
+195,Aviaenergo,7U,
+196,Aviastar-TU Co.  Aviacompany,4B,TUP
+197,"Aviation Services, Ltd.",FP,FRE
+198,Aviation Starlink Inc.,Q4,
+199,Avient Aviation (PVT) Limited,Z3,SMJ
+200,Avient Cameroon S.A.,HC,AVC
+201,Aviones de Oriente C.A. (AVIOR),9V,ROI
+202,Azerbaijan Hava Yollary,J2,AHY
+203,Aztec Worldwide Airlines Inc.,7A,
+204,Azul Linhas Aereas Brasileiras,AD,
+205,B & H Airlines,JA,
+206,BA Cityflyer Limited,CJ,CFE
+207,BA European Limited t/a Openskies,EC,
+208,BIMINI Island Air Inc.,B9,
+209,"Bahamasair Holdings, Limited",UP,BHS
+210,Bahrain Air B.S.C.,2B,
+211,Bangkok Airways Co. Ltd.,PG,BKP
+212,Bankair Inc.,B4,BKA
+213,"Baseops International, Inc.",3Y,XBO
+214,Bearskin Lake air services Ltd.,JV,BLS
+215,Belavia,B2,BRU
+216,Belle Air Company,LZ,LBY
+217,Bellview Airlines Limited,B3,BLV
+218,"Bemidji Aviation Services, Inc.",CH,BMJ
+219,Benin Golf Air S.A.,A8,
+220,Best Aviation Ltd.,5Q,BEA
+221,Biman Bangladesh Airlines,BG,BBC
+222,Bismillah Airlines,5Z,
+223,Blue Dart Aviation Ltd.,BZ,
+224,Blue Panorama Airlines S.p.A.,BV,BPA
+225,Blue Wings AG,QW,BWG
+226,Blue1 Oy,KF,BLF
+227,Bluebird Cargo,BF,
+228,"Brendan Airways, LLC",U5,GWY
+229,Bringer Air Cargo Taxi Aereo Ltda,E6,BRC
+230,Brit Air,DB,BZH
+231,British Airways p.l.c.,BA,BAW
+232,British Midland Airways Ltd.,BD,BMA
+233,Brussels Airlines N.V.,SN,DAT
+234,Bulgaria Air,FB,LZB
+235,Buraq Air Transport (BRQ),UZ,BRQ
+236,C.A.I. Second S.p.A.,VE,VLE
+237,C.A.L. Cargo Airlines Ltd.,5C,ICL
+238,CEBU Pacific Air,5J,CEB
+239,CEIBA Intercontinental S.A.,C2,
+240,CJSC Airline 400,WZ,RWZ
+241,CONVIASA,V0,VCV
+242,CORSAIR,SS,CRL
+243,Calm Air International Ltd.,MO,CAV
+244,Canadian North Inc.,5T,
+245,Capital Cargo International,PT,
+246,Capiteq Limited dba AIRNORTH,TL,ANO
+247,Cargo B Airlines,BB,CBB
+248,Cargoitalia S.p.A.,2G,
+249,Cargojet Airways Ltd.,W8,CJT
+250,Cargolux Airlines International S.A.,CV,CLX
+251,Carib Aviation Limited,3Q,
+252,Caribbean Airlines Limited,BW,BWA
+253,Caspian Airlines Service Company Ltd.,RV,CPN
+254,Catair Lineas Aereas S.A.(Clickair S.A.),XG,
+255,Cathay Pacific Airways Ltd.,CX,CPA
+256,Cayman Airways Limited,KX,CAY
+257,Central Mountain Air Ltd.,9M,GLR
+258,"Centurion Air Cargo, Inc.",WE,CWC
+259,Cetrafrrique Air Express (C.A.E.),6C,
+260,Champlain Enterprises Inc.,C5,
+261,Chautauqua Airlines Inc.,RP,CHQ
+262,China Airlines,CI,CAL
+263,China Cargo Airlines Ltd.,CK,
+264,China Eastern Airlines,MU,CES
+265,China Postal Airlines Ltd.,8Y,
+266,China Southern Airlines,CZ,CSN
+267,China United Airlines,KN,CUA
+268,China West Air Co. Ltd.,PN,
+269,Chongqing Airlines Co. Ltd,OQ,
+270,"Cielos del Peru, S.A.",A2,CIU
+271,Cielos del Sur S.A.,AU,AUT
+272,Cimber Air A.S.,QI,CIM
+273,City Airline AB,CF,SDR
+274,Cityjet,WX,BCY
+275,Cityline Hungary Kft,ZM,
+276,Click Airways,C4,CGK
+277,Closed Joint Stock Company,C7,UZS
+278,Colgan Air,9L,
+279,Comair Ltd.,MN,CAW
+280,"Comair, Inc.",OH,COM
+281,Compagnie Aerienne Corse,XK,CCM
+282,Compagnie Aerienne du Mali S.A.,I5,
+283,Compania Boliviana de Transporte Aereo,5L,
+284,Compania Mexicana de Aviacion,MX,MXA
+285,"Compania Panamena de Aviacion, S.A.",CM,CMP
+286,Compass Airlines Inc.,CP,
+287,Concesionaria Vuela Compania De Aviacion,Y4,VOI
+288,Condor Flugdienst GmbH,DE,CFG
+289,Contact-Air Flugdienst GmbH & Co. KG,C3,KIS
+290,"Continental Airlines, Inc.",CO,COA
+291,"Continental Micronesia, Inc.",CS,CMI
+292,"Corporate Air Charters, Inc.",7V,
+293,Cosmic Air Pvt. Ltd.,F5,
+294,Coyne Airways Ltd,7C,COY
+295,Croatia Airlines,OU,CTN
+296,Cubana de Aviacion S.A.,CU,CUB
+297,"Custom Air Transport, Inc.",5R,
+298,Cyprus Airways Limited,CY,CYP
+299,"Czech Airlines a.s., CSA",OK,CSA
+300,DHL Aero Expreso S.A.,D5,DAE
+301,DHL Air Limited,D0,DHK
+302,DHL International B.S.C. ( c ),ES,DHX
+303,DHL de Guatemala S.A.,L3,JOS
+304,Daallo Airlines,D3,DAO
+305,Daghestan Airlines,N2,
+306,Dalavia - Far East Airways Khabarovsk,H8,KHB
+307,Dana Airlines Limited,9J,DAN
+308,Danish Air Transport,DX,DTR
+309,Darwin Airline SA Lugano,0D,DWT
+310,Deer Jet Co. Ltd.,JD,DER
+311,Delta Air Lines Inc.,DL,DAL
+312,Deutsche Lufthansa AG,LH,DLH
+313,Dnieproavia  - Joint Stock Aviation Co.,Z6,UDN
+314,Dolphin Air,ZD,
+315,Domodedovo Airlines,E3,DMO
+316,Druk Air Corporation Ltd.,KB,DRK
+317,Dutch Antilles Express B.V.,9H,
+318,EVA Airways Corporation,BR,EVA
+319,East African Safari Air Express Ltd.,B5,
+320,Edelweiss Air AG,WK,EDW
+321,Egyptair,MS,MSR
+322,El Al Israel Airlines Ltd.,LY,ELY
+323,El Sol de America,6S,ESC
+324,Elysair S.A.S.,A0,
+325,Emirates,EK,UAE
+326,Empire Airlines,EM,
+327,Empire Aviation Limited,,MPR
+328,"Era Aviation, Inc.",7H,ERH
+329,Eritrean Airlines,B8,ERT
+330,"Estafeta Carga Aerea, S.A. de C.V",E7,
+331,Estonian Air,OV,ELL
+332,Ethiopian Airlines Enterprise,ET,ETH
+333,Etihad Airways,EY,ETD
+334,Euro-Asia International JSC,5B,
+335,Eurocypria Airlines Ltd.,UI,ECA
+336,Eurofly S.p.A.,GJ,EEZ
+337,Euroline,4L,MJX
+338,European Air Transport N.V.,QY,BCS
+339,Eurowings AG,EW,EWG
+340,Evergreen Helicopters International Inc.,7E,
+341,Evergreen International Airlines Inc.,EZ,EIA
+342,Execaire,MB,EXA
+343,Exploits Valley Air Services,8K,
+344,Expo Aviation (Pvt) Limited,8D,EXV
+345,"ExpressJet Airlines, Inc.",XE,BTA
+346,Eznis Airways Co. Ltd.,ZY,EZA
+347,Falcon Express Cargo Airlines,FC,
+348,Fars Qeshm Airlines,QE,QFZ
+349,FedEx,FX,FDX
+350,"Federal State Unitary Enterprise ""STC",FV,PLK
+351,Felix Airways,FO,FXX
+352,Finnair Oyj,AY,FIN
+353,First Air,7F,FAB
+354,Five Fourty Aviation Limited,5H,FFV
+355,"Florida West International Airways, Inc.",RF,FWL
+356,Fly Excellent,F3,FXL
+357,FlyFirefly Sdn. Bhd,FY,
+358,FlyLAL-Lithuanian Airlines,TE,LIL
+359,Flybe Limited,BE,BEE
+360,Flying Carpet Air Transport & Services,7Y,FCR
+361,Four Star Aviation,HK,FSC
+362,Friendship Airways,Y0,
+363,"Frontier Airlines, Inc.",F9,
+364,"Frontier Flying Service, Inc.",2F,FTA
+365,Futura Gael,F6,FGL
+366,GB Airways Ltd.,GT,GBL
+367,GMG Airlines Ltd.,Z5,
+368,Gabon Airlines,GY,
+369,Gabon Airlines Cargo,6G,GBK
+370,Gadair European Airlines,GP,GDR
+371,Gambia International Airlines Ltd.,GC,GNR
+372,Garuda Indonesia,GA,GIA
+373,Gazpromavia Aviation Company Ltd.,4G,GZP
+374,Georgian Airways,A9,
+375,Georgian National Airlines,QB,
+376,Gestair S.A.,G5,
+377,Ghana International Airlines Ltd.,G0,GHB
+378,Globespan Airways Limited,Y2,GSM
+379,Globus LLC,GH,
+380,Go One Airways,GK,
+381,GoJet Airlines LLC,G7,GJS
+382,"Grand China Air Co. , Ltd.",CN,
+383,Grand China Express Co. Ltd.,GS,
+384,Grandstar Cargo International Airlines,GD,
+385,Great Lakes Aviation Ltd.,ZK,GLA
+386,Great Wall Airlines Company Limited,IJ,
+387,Gromov Flight Research Institute Airline,3R,GAI
+388,"Gulf & Caribbean Cargo, Inc",IF,
+389,Gulf Air Company G.S.C.,GF,GFA
+390,"Gulfstream International Airlines, Inc.",3M,GFT
+391,HMY Airways Inc.,HQ,HMY
+392,Hahn Air Lines,HR,HHN
+393,Hainan Airlines Company Limited,HU,CHH
+394,Hamsal Air Services Limited,2H,HML
+395,Hapag Lloyd Fluggesellschaft,HF,HLF
+396,"Hawaii Island Air, Inc.",WP,
+397,"Hawaiian Airlines, Inc.",HA,HAL
+398,Heavylift Cargo Airlines Pty. Limited,HN,
+399,Heli Air Monaco,YO,MCM
+400,Helijet International Inc.,JB,JBA
+401,Helitrans AS,9I,HTA
+402,Hellenic Imperial Airways,HT,IMP
+403,Hello AG,HW,
+404,Hemus Air,DU,
+405,Hewa Bora Airways,EO,ALX
+406,"Hi Fly Transportes Aereos, S.A.",5K,
+407,Highland Airways Limited,8H,HWY
+408,"Hokkaido Int'l Airlines Co., Ltd.",HD,ADO
+409,Homer Air Inc.,HB,
+410,Hong Kong Airlines Limited,HX,
+411,Hong Kong Dragon Airlines Limited,KA,HDA
+412,Hong Kong Express Airways Limited,UO,HKE
+413,Horizon Air,QX,QXE
+414,"IBC Airways, Inc.",II,CSQ
+415,IHY Izmir Havayollari A.S.,4I,IZM
+416,IMAIR Airline,IK,ITX
+417,Iberia - Lineas Aereas de Espana,IB,IBE
+418,Icaro S.A.,X8,
+419,Icelandair,FI,ICE
+420,Indochina Airlines,IO,IDO
+421,Industrieflug IPS,I2,
+422,Insel Air International B.V.,7I,
+423,Inter Express Hava Tasimacilik A.S.,6K,INX
+424,Inter Globe Aviation Private Limited,6E,
+425,Inter-Aviation Services,D6,
+426,InterSky Luftfahrt GmbH,3L,ISK
+427,Interavia Airlines,ZA,
+428,Interlink Airlines (Pty) Ltd.,ID,ITK
+429,International Air Cargo Company(LoadAir),L8,
+430,Interstate Airlines B.V.,I4,FWA
+431,Iran Air,IR,IRA
+432,Iran Aseman Airlines,EP,IRC
+433,Iraqi Airways,IA,IAW
+434,Island Aviation Services Ltd.,Q2,
+435,Islena de Inversiones S.A. de C.V.,WC,ISV
+436,Israir Airlines and Tourism Ltd.,6H,ISR
+437,Ivoirienne De Transport Aerien,I3,
+438,JAL Express,JC,
+439,JALways Co. Ltd.,JO,JAZ
+440,JET AIR Spolka z o.o.,O2,
+441,"JSC ""Aircompany SCAT""",DV,
+442,"JSC ""KAPO Avia""",G7,KAO
+443,"JSC ""Starline.kz""",DZ,LMZ
+444,Jade Cargo International Company Limited,JI,JAE
+445,"Japan Airlines International Co., Ltd.",JL,JAL
+446,Japan Transocean Air Co. Ltd.,NU,JTA
+447,Jat  Airways,JU,JAT
+448,Jet 4 You,8J,
+449,Jet Airways (India) Limited,9W,JAI
+450,Jet Airways Inc.,QJ,
+451,Jet Aviation Business Jets AG,PP,PJS
+452,Jet Link Express Ltd.,J0,
+453,Jet Lite (India) Limited,S2,
+454,Jet2.com Limited,LS,EXS
+455,JetClub AG,0J,JCS
+456,"JetX ehf, (Primera Air)",GX,JXX
+457,Jetstar Asia Airways Pte Ltd,3K,JSA
+458,Jetstar Pacific Airlines,BL,PIC
+459,Jett8 Airlines Cargo Pte Ltd.,JX,
+460,Job Air s.r.o.,3B,JBR
+461,"Joint Stock Company "" Air Company",DW,UCR
+462,"Joint Stock Company ""Omskavia"" Airlines",N3,OMS
+463,"Joint Stock Company Aircompany ""Yakutia""",R3,SVL
+464,Joint Stock Company SIAT (Sibaviatrans),5M,
+465,"Joint- Stock Company ""Sakhalinskie",HZ,SHU
+466,Jordan Aviation,R5,JAV
+467,Jordan International Air Cargo,J4,
+468,Jubba Airways,6J,JUB
+469,"Juneyao Airlines Co,. Ltd.",HO,DKH
+470,K-Mile Air Co. Ltd,8K,KMI
+471,KD Avia Open Joint Stock Company,KD,KNI
+472,KLM Cityhopper,WA,KLC
+473,KLM Royal Dutch Airlines,KL,KLM
+474,"Kalitta Air, LLC",K4,
+475,"Kalitta Charters II, LLC",CB,KFS
+476,Kam Air,RQ,KMF
+477,Kampuchea Airlines,E2,KMP
+478,"Kenosha Aero, Inc. dba Alliance Airlines",3A,AFJ
+479,Kenya Airways,KQ,KQA
+480,Key Lime Air Corporation,KG,LYM
+481,Kibris Turk Hava Yollari,YK,KYV
+482,Kingfisher Airlines Limited,IT,
+483,Kish Airlines,Y9,IRK
+484,"Kitty Hawk Aircargo, Inc.",KR,KHA
+485,Korean Air Lines Co. Ltd.,KE,KAL
+486,Kunming Airlines,KY,
+487,"Kunpeng Airlines Co., Ltd",VD,
+488,Kuwait Airways,KU,KAC
+489,Kuzu Airlines Cargo,GO,KZU
+490,L.A.B. Flying Service Inc.,JF,LAB
+491,LAM - Linhas Aereas de Mocambique,TM,LAM
+492,LIAT (1974) Ltd.,LI,LIA
+493,LOT - Polish Airlines,LO,LOT
+494,LTE International Airways S.A.,XO,LTE
+495,LTU International Airways,LT,LTU
+496,Labrador Airways Limited,WJ,LAL
+497,Lagun Air,N7,
+498,Lan Airlines S.A.,LA,LAN
+499,Lan Chile Cargo S.A.,UC,LCO
+500,Lan Ecuador - Aerolane Lineas Aereas,XL,
+501,Lan Peru S.A.,LP,LPE
+502,LankAir Private Limited,IL,
+503,Lao Airlines,QV,LAO
+504,"Laparkan Airways, Inc.",LE,
+505,Lauda Air Luftfahrt AG,NG,LDA
+506,Libyan Airlines,LN,LAA
+507,Lignes Aeriennes Congolaises,4V,
+508,Limited Liability Company,7D,UDC
+509,Linea Aerea Carguera de Colombia S.A.,L7,
+510,Linea Aerea de Servicio Ejecutivo,QL,LER
+511,Lineas Aereas Costarricenses S.A.,LR,LRC
+512,Linkair Express S.p.A,6M,
+513,Livingston S.p.A.,LM,LVG
+514,Lucky Air Co. Ltd.,8L,
+515,Lufthansa Cargo AG,LH,GEC
+516,Lufthansa CityLine GmbH,CL,CLH
+517,Lufttransport AS,L5,
+518,Luxair,LG,LGL
+519,Lviv Airlines,5V,UKW
+520,"Lynden Air Cargo, LLC",L2,
+521,MDLR Airlines Pvt. Ltd.,9Y,
+522,MIAT - Mongolian Airlines,OM,MGL
+523,MK Airlines Limited,7G,MKA
+524,MN Airlines LLC,SY,SCX
+525,MNG Airlines Cargo,MB,MNB
+526,MR Lines,XV,
+527,MYAIR.com,8I,
+528,Macair Jet S.A.,VM,
+529,Macedonian Airlnes,IN,MAK
+530,Mahan Airlines,W5,IRM
+531,Malaysia  Airline System Berhad,MH,MAS
+532,Malev Hungarian Airlines  Limited,MA,MAH
+533,Mandarin Airlines Ltd.,AE,MDA
+534,Martinair Holland N.V.,MP,MPH
+535,Mauritania Airways,YD,MTW
+536,Maximus Air Cargo,,MXU
+537,Med View Airlines (NIG) Ltd.,VL,
+538,Mediterranean Aviation Company Ltd.,N5,MDM
+539,"Mercury Air Cargo, Inc.",4X,
+540,Meridiana African Airlines (U) Limited,U7,
+541,Meridiana S.p.A.,IG,ISS
+542,Merpati Nusantara Airlines,MZ,MNA
+543,"Mesa Airlines, Inc.",YV,ASH
+544,Mesaba Aviation Inc.,XJ,MES
+545,Mid Asia Airlines Limited,BH,
+546,Middle East Airlines AirLiban,ME,MEA
+547,Midex Airlines,MG,
+548,Midwest Airlines Inc.,YX,MEP
+549,Mihin Lanka (Pvt) Ltd.,MJ,MLR
+550,Mistral Air S.r.l.,7M,MSA
+551,Mokulele Flight Service,MW,
+552,Moldavian Airlines,2M,MDV
+553,Monarch Airlines,ZB,MON
+554,Montenegro Airlines,YM,MGX
+555,Motor-Sich JSC,M9,
+556,Mountain Air Cargo Inc.,C2,MTN
+557,Murray Air Inc.,N8,MUA
+558,MyTravel Airways Limited,VZ,MYT
+559,Myanma Airways,UB,UBA
+560,Myanmar Airways International,8M,
+561,"NACIL, dba Air India",AI,AIC
+562,"NACIL, dba Indian Airlines",IC,IAC
+563,NOVA Airlines,O9,NOV
+564,Nasair,UE,
+565,National Airways Cameroon,9O,
+566,Nauru Air Corporation,ON,RON
+567,Naysa,ZN,NAY
+568,Nayzak Air Transport Company,M4,NZA
+569,Neos S.P.A.,NO,
+570,New Axis Airways,9X,AXY
+571,Nippon Cargo Airlines,KZ,NCA
+572,Nordic Airlink Holding AB dba flynordic,LF,NDC
+573,"North American Airlines, Inc.",nan,NAO
+574,Northeastern Airlines Co. Ltd.,NS,
+575,"Northern Air Cargo, Inc.",NC,
+576,"Northwest Airlines, Inc.",NW,NWA
+577,Northwestern Air Lease Ltd.,J3,PLR
+578,Norwegian Air Shuttle A.S.,DY,NAX
+579,Nova Airlines AB,N9,NVR
+580,OLT-Ostfriesische Lufttransport GmbH,OL,OLT
+581,"OOO ""Atran """,V8,VAS
+582,Oceanair Linhas Aereas Ltda.,O6,ONE
+583,Okay Airways Company Limited,BK,
+584,Olympic Airlines,OA,OAL
+585,Oman Air (SAOG),WY,OAS
+586,One Two Go Airlines Co. Ltd.,OG,OTG
+587,Onur Havayollari Tasimacilik A.S.,8Q,OHY
+588,Operador Aereo Andalus S.A.,EA,ANU
+589,Orenburg Airlines Federal State,R2,ORB
+590,Orient Thai Airlines,OX,
+591,Overland Airways Limited,OJ,OLA
+592,OzJet Airlines Pty Ltd,O7,
+593,PB Air Company Limited,9Q,PBA
+594,PT Cardig Air,8F,CRG
+595,PT Republic Express Airlines,RH,
+596,PT. Indonesia Air Transport. Tbk,I8,IDA
+597,PT. Indonesia AirAsia,QZ,AWQ
+598,PT. Megantara Air,9M,MKE
+599,PT. Sriwijaya Air,SJ,
+600,Pacific Airways Inc.,3F,
+601,"Pacific East Asia Cargo Airlines, Inc.",Q8,PEC
+602,"Pacific Wings, L.L.C.",LW,ANV
+603,Pak West Airlines Inc.,P8,PKW
+604,Pakistan International Airlines,PK,PIA
+605,Palau Asia Pacific Air Inc.,0P,
+606,Palau National Airlines,9P,
+607,Pan Am World Airways Dominicana,7Q,PWD
+608,Paramount Airways Pvt. Ltd.,I7,
+609,Pascan Aviation Inc.,P6,PSC
+610,Pegasus Hava Tasimaciligi A.S.,H9,
+611,Penair,KS,PEN
+612,"Philippine Airlines, Inc.",PR,PAL
+613,"Piedmont Airlines, Inc.",US,
+614,Pinnacle Airlines Inc.,9E,FLG
+615,Platnium Air Linhas Aereas Ltda.,P2,PLS
+616,"Polar Air Cargo Worldwide, Inc.",PO,
+617,Polar Airlines de Mexico S.A. de C.V.,M4,PMO
+618,Porter Airlines Inc.,PD,
+619,Portugalia - Companhia Portuguesa de,NI,PGA
+620,Premier Trans Aire Inc.,3X,
+621,Prescott Support Company,PM,PSK
+622,"Primaris Airlines, Inc.",FE,
+623,Primeras Lineas Uruguayas de Navegacion,PU,PUA
+624,"Progress Multitrade Co., Ltd.",U4,
+625,"Propilot, Inc.",F3,
+626,Provincial Airlines,PB,SPR
+627,Puerto Rico Air Management Service Inc.,2P,
+628,Pullmantur Air,EB,
+629,Qantas Airways Ltd.,QF,QFA
+630,Qatar Airways(Q.C.S.C),QR,QTR
+631,RACSA Airlines,R6,
+632,RAK Airways,RT,
+633,REGIONAL EXPRESS PTY LIMITED,ZL,
+634,Redemption Inc.,2O,
+635,Regional Air Lines,FN,RGL
+636,Regional Compagnie Aerienne Europeenne,YS,
+637,Romanian Aviation Company,WQ,RMV
+638,Royal Air Maroc,AT,RAM
+639,Royal Airways Limited,SG,MOD
+640,Royal Brunei Airlines Sdn. Bhd.,BI,RBA
+641,Royal Daisy Airlines,6D,KDR
+642,Royal Falcon,RZ,RFJ
+643,Royal Jordanian,RJ,RJA
+644,Royal Nepal Airlines Corporation,RA,RNA
+645,"Rutas Aereas, C.A. RUTACA",RM,RUC
+646,Rwandair Express,WB,RWD
+647,Ryan International Airlines,RD,RYN
+648,Ryanair Ltd.,FR,RYR
+649,SA  Airlink,4Z,
+650,SAS Scandinavian Airlines Norge AS,BU,CNO
+651,SATA - Air Acores,SP,SAT
+652,SATA International Servicos e,S4,RZO
+653,SEVENAIR S.A.,UG,TUI
+654,SOL S.A. Lineas Aereas,8R,
+655,"SWIFT AIR,L.L.C.",Q7,SWQ
+656,SWISS International Air Lines Ltd,LX,SWR
+657,Safair (Proprietary) Ltd.,FA,SFR
+658,Safi Airways Ltd.,4Q,SFW
+659,Sama Air LLC,S8,
+660,Sama Airways Ltd.,ZS,
+661,Samara Airlines,E5,BRZ
+662,Saudi Arabian Airlines,SV,SVA
+663,Sayakhat Airlines,W7,SAH
+664,Scandinavian Airlines System (SAS),SK,SAS
+665,"Scenic Airlines, Inc.",YR,EGJ
+666,Servicios Aereos Nacionales S.A.,RZ,LRS
+667,Shaheen Air International,NL,SAI
+668,Sham Wings Airlines,6Q,SAW
+669,Shandong Airlines,SC,CDG
+670,Shanghai Airlines Cargo International,F4,SHQ
+671,Shanghai Airlines Co. Ltd.,FM,
+672,Shenzhen Airlines,ZH,CSZ
+673,"Shenzhen Donghai Airlines Co., Ltd",J5,
+674,Shun Tak-China Travel Ship Mgmt. Ltd.,8S,
+675,Shuttle America,S5,
+676,Siberia Airlines,S7,SBI
+677,Sichuan Airlines Co. Ltd.,3U,
+678,Siem Reap Airways International,FT,SRH
+679,Silk Way Airlines,ZP,
+680,SilkAir (S) Pte. Ltd.,MI,SLK
+681,Singapore Airlines Cargo Pte. Ltd.,SQ,SQC
+682,Singapore Airlines Limited,SQ,SIA
+683,Sky Air World Pty Ltd,S9,
+684,Sky Express,XW,
+685,Sky Express S.A.,GQ,SHE
+686,Sky Gabon S.A.,GV,SKG
+687,Sky Jet Aviation Ltd,UQ,SJA
+688,Sky Service S.A. dba Sky Airline,H2,SKU
+689,Sky Way Enterprises Inc.,KI,SKZ
+690,SkyStar Airways Company Limited,XT,SKT
+691,SkyWest  Airlines,OO,SKW
+692,"Skybus Airlines, LLC",SX,
+693,Skymark Airlines Inc.,BC,SKY
+694,"Skynet Asia Airways Co., Ltd.",LQ,
+695,Skyservice Airlines Inc.,5G,SSV
+696,Skyways AB,JZ,SKX
+697,Skywest Airlines Pty. Ltd.,XR,
+698,Sociedad Aeronautica de Medellin,MM,SAM
+699,Societe De Transport De L'Archipel,OG,
+700,Societe Nouvelle Air Ivoire,VU,
+701,"Solar Cargo, C.A.",4S,OLC
+702,Solomon Airlines,IE,SOL
+703,South African Airways,SA,SAA
+704,South-East European Airlines,G2,GGG
+705,Southern Air Inc.,9S,SOO
+706,Southwest Airlines Co.,WN,SWA
+707,Spanair S.A.,JK,JKK
+708,Spirit Airlines,NK,
+709,Spring Airlines Limited Corporation,9C,
+710,SriLankan Airlines Limited,UL,ALK
+711,Stabo Air Limited,,SBO
+712,Star Air A/S,S6,SRR
+713,Star Equatorial Airlines,2S,
+714,Star Up S.A.,2I,SRU
+715,Starlight Airline,QP,SLT
+716,Sterling Airlines A/S,NB,
+717,Sudan Airways Co. Ltd.,SD,SUD
+718,SunExpress,XQ,SXS
+719,Sunwing Airlines Inc.,WG,
+720,Surinam Airways Ltd.,PY,SLM
+721,Swiftair,7J,SWT
+722,Syrian Arab Airlines,RB,SYR
+723,TAAG - Linhas Aereas de Angola,DT,DTA
+724,TACA Costa Rica Sociedad Anonima,TI,TAT
+725,TAM - Transportes Aereos del,PZ,LAP
+726,TAM Linhas Aereas S.A.,JJ,TAM
+727,TAME Linea Aerea del Ecuador,EQ,TAE
+728,TAP - Air Portugal,TP,TAP
+729,TAROM - Transporturile Aeriene Romane,RO,ROT
+730,TNT Airways S.A.,3V,TAY
+731,TRIP Transporte Aereos Regionais Do,T4,
+732,TUI Airlines Nederland B.V.,OR,TFL
+733,TUIfly Nordic AB,6B,BLX
+734,"Taca International Airlines, S.A.",TA,TAI
+735,Taf Linhas Aereas S.A.,R9,TSD
+736,Tandem Aero Ltd.,TQ,TDM
+737,Tasman Cargo Airlines PTY LTD,HJ,
+738,Tatarstan JSC Aircompany,U9,
+739,Tatonduk Outfitters Limited.,3Z,
+740,Taxi Fly Group S.A.,P5,JPR
+741,Tbilaviamsheni,L6,VNZ
+742,"Thai AirAsia Co., Ltd.",FD,
+743,Thai Airways International Public,TG,THA
+744,Thomas Cook Airlines Scandinavia A/S,DK,VKG
+745,Thomas Cook Airlines U.K. Limited,MT,TCX
+746,Thomson Airways Limited,BY,TOM
+747,Tiara Air N.V.,3P,
+748,Titan Airways Limited,ZT,AWC
+749,Toumai Air Tchad,9D,
+750,Trade Air Ltd.,8P,TDR
+751,Tradewinds Airlines Inc.,WI,
+752,Trans Air Benin,N4,TNB
+753,"Trans American Airlines, S.A. TACA PERU",T0,
+754,"Trans States Airlines, Inc.",AX,LOF
+755,TransAsia Airways Corporation,GE,TNA
+756,Transaero Airlines,UN,TSO
+757,Transavia Airlines,HV,TRA
+758,Transaviaexport Cargo Airline,AL,TXC
+759,"Transcarga Int'l Airways, C.A.",T9,
+760,Transmile Air Services Sdn. Bhd.,TH,
+761,Transport Africa,9K,TFZ
+762,Transporte Aereo S.A.,LU,
+763,Transportes Aereos Bolivianos,,BOL
+764,Transportes Aereos Cielos Andinos S.A.C.,9P,CIE
+765,Transportes Aereos Mercantiles,QT,TPA
+766,Transportes Aereos de Cabo Verde,VR,TCV
+767,"Transportes Aeromar, S.A. de C.V.",VW,TAO
+768,Trast Aero,S5,TSJ
+769,Tunca Havacilik A.S. BestAir,5F,
+770,Tunisair,TU,TAR
+771,Turan Air Airline Company,3T,URN
+772,Turkish Airlines Inc.,TK,THY
+773,Turkmenistan Airlines,T5,TUA
+774,Turks Air,6T,
+775,Turkuaz Airlines,HK,TRK
+776,Tyrolean Airways Tiroler Luftfahrt GmbH,VO,TYR
+777,UNI Airways Corporation,B7,UIA
+778,UPS,5X,UPS
+779,"US Airways, Inc.",US,USA
+780,"USA Jet Airlines, Inc.",UJ,JUS
+781,UTair Aviation Joint-Stock Company,UT,TMN
+782,Ukraine International Airlines,PS,AUI
+783,Ukrainian Mediterranean Airlines Ltd.,UF,UKM
+784,"United Airlines, Inc.",UA,UAL
+785,United Airways Bangladesh Ltd,4H,
+786,United Eagle Airlines Co Ltd,EU,
+787,"Universal Airways, Inc.",UV,UVA
+788,Ural Airlines,U6,SVR
+789,Utair - Express Limited Company,UR,
+790,Uzbekistan Havo Yullary -,HY,UZB
+791,VIM Airlines,NN,MOV
+792,VRG Linhas Aereas S.A.,G3,
+793,Valuair Ltd.,VF,
+794,"Van Air Europe, a.s.",6Z,
+795,Varig Logistica S/A,LC,VLO
+796,Vensecar Internacional C.A.,V4,VEC
+797,Vietnam Air Service Company,0V,
+798,Vietnam Airlines Corporation,VN,HVN
+799,"Vip Air, spol. S.r.o",V5,VPA
+800,Virgin America Inc.,VX,VRD
+801,Virgin Atlantic Airways Limited,VS,VIR
+802,Virgin Blue Airlines Pty Ltd,DJ,VOZ
+803,Virgin Blue International Airlines,VA,VAU
+804,Virgin Nigeria Airways,VK,VGN
+805,Viva Macau Limited,ZG,
+806,Vladivostok Air JSC,XF,VLK
+807,Volga-Dnepr Airline Joint Stock,VI,VDA
+808,Voyager Airlines Ltd,V6,VOG
+809,Webjet Linhas Aereas S/A,WH,WEB
+810,West Coast Air,8O,
+811,WestJet,WS,WJA
+812,White Airways S.A.,,WHT
+813,Wideroe's Flyveselskap A.S.,WF,WIF
+814,Wind Rose Aviation Company,7W,
+815,Windward Islands Airways Int'l  N.V.,WM,WIA
+816,Wings Air,IW,
+817,Woodgate Executive Air Charter UK Ltd.,3W,
+818,World Airways,WO,WOA
+819,Worldwide Jet Charter L.L.C.,T8,WWI
+820,XL Airways France,SE,XLF
+821,Xiamen Airlines,MF,CXA
+822,Yamal Airlines,YC,LLM
+823,Yangtze River Express Airlines Company,Y8,YZR
+824,Yemenia - Yemen Airways,IY,IYE
+825,Zambezi Airlines,ZJ,ZMA
+826,Zambia Skyways Ltd.,K8,
+827,Zambian Airways,Q3,MAZ
+828,Zoom Airlines Inc.,Z4,OOM
+829,Zoom Airways Limited,3Z,ZAW
